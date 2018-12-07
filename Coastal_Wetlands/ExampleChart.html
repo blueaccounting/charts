@@ -1,0 +1,55 @@
+<html>
+<head>
+
+</head>
+<body>
+<script src="https://code.highcharts.com/highcharts.js"></script>
+
+<script src="https://code.highcharts.com/modules/exporting.js"></script>
+<script src="https://code.highcharts.com/modules/export-data.js"></script>
+
+<link rel="stylesheet" href="https://blueaccounting.github.io/charts/css/BA_Style.css">
+
+<script src="https://blueaccounting.github.io/charts/js/BlueAccounting.js"></script>
+
+<div id="container" style="min-width: 310px; height: 400px; max-width: 600px; margin: 0 auto"></div>
+<script>
+BA = new BlueAccounting();
+Highcharts.setOptions({
+	lang: {
+  	thousandsSep: ',',
+    downloadCSV: "Download CVS1"
+  }
+});
+Highcharts.chart('container', {
+	chart: {
+		type: "pie"
+  },
+  title: {
+  	text: "Lake St. Clair Metro Park Invasives Control GLRI Funding"
+  },
+  tooltip: {
+  	pointFormat: '{series.name}: <b>${point.y}</b>'
+  },
+  series: [{
+  	name: "Funding",
+    data: [{
+    		name: "Lake St. Clair Funding",
+        y: 1492500.00,
+        color: BA.ColorPicker.blue7
+    	},
+      {
+      	name: "Total Invansive Control Funding",
+        y: 24829414.78,
+        color: BA.ColorPicker.blue1
+      }
+      
+    ]
+  }]
+
+});
+</script>
+<div id="container" style="min-width: 310px; height: 400px; max-width: 600px; margin: 0 auto"></div>
+</body>
+</html>
+
