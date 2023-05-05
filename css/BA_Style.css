@@ -4,6 +4,9 @@ body{
     padding: 0;
     background-color: #FFFFFF;
 }
+.mb-20{
+    margin-right: 20px;
+}
 
 #map { position: absolute; top:0; bottom:0; right:50%; left:0;}
 #right-panel {
