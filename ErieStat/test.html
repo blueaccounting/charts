@@ -8,7 +8,7 @@
 
     <script src="//code.highcharts.com/highcharts.js"></script>
     <script src="https://code.highcharts.com/modules/exporting.js"></script>
-    <script src="https://code.highcharts.com/highcharts-more.src.js"></script> 
+    <! --<script src="https://code.highcharts.com/highcharts-more.src.js"></script> -->
     <!--<script src="js/ba_chart2.js"></script>-->
     <script src="https://code.highcharts.com/modules/accessibility.js"></script>
     <script src="../js/export-csv_glc.js"></script>
@@ -22,13 +22,8 @@
 </head>
     
 <body>
-<!--<div id="chart-canvas">-->
     <div id="chart" style="margin-right: 20px">
-    <!--</div>-->
-    <!--<div id="chart2" style="margin-right: 20px">-->
-    <!--</div>-->
-    <!--<div id="chart3">-->
-    <!--</div>-->
+
 </div>
 
 <script>
@@ -169,29 +164,6 @@
             ],
             color: '#0D5E87'
         }, {
-            name: 'Likely Range of 2023 <br>Bloom Severity',
-            type: 'errorbar',
-            whiskerLength: 3,
-            stemWidth: 2,
-            tooltip: {
-                pointFormat: 'Likely range: <b>{point.low}-{point.high}</b><br>'
-            },
-            data: [[], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [2, 6]],
-            color: 'black'
-        }, { 
-            name: 'Early season forecast of <br>2023 bloom severity <br>(with likely range)',
-            type: 'scatter',
-            marker: {
-                radius: 7,
-            }, 
-            tooltip: {
-                headerFormat: '2023<br>',
-                pointFormat: 'NOAA forecast: <b>{point.y:.1f}</b><br>'
-
-            },
-            data: [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 4.5],
-            color: '#6FC212'
-        }, { 
             name: "Target",
             type: 'line',
             lineWidth: 3,
