@@ -121,7 +121,7 @@
         },
         
         caption: {
-            text: '<b>Chart source: </b><em>Great Lakes Commission, Blue Accounting, 2022, <a href="https://www.blueaccounting.org/progress/harmful-algal-blooms">https://www.blueaccounting.org/progress/harmful-algal-blooms</a></em> <br> <b>Data source: </b> <em><a href="https://tidesandcurrents.noaa.gov/hab/lakeerie.html">NOAA</a></em>'
+            text: '<b>Chart source: </b><em>Great Lakes Commission, Blue Accounting, 2023, <a href="https://www.blueaccounting.org/progress/harmful-algal-blooms">https://www.blueaccounting.org/progress/harmful-algal-blooms</a></em> <br> <b>Data source: </b> <em><a href="https://tidesandcurrents.noaa.gov/hab/lakeerie.html">NOAA</a></em>'
         },
 
         plotOptions: {
@@ -164,40 +164,41 @@
                 7.3, 
                 3, 
                 6.0,
-                6.8
+                6.8,
+                null
             ],
             color: '#0D5E87'
-        }, /*{
-            name: 'Likely Range of 2022 <br>Bloom Severity',
+        }, {
+            name: 'Likely Range of 2023 <br>Bloom Severity',
             type: 'errorbar',
             whiskerLength: 3,
             stemWidth: 2,
             tooltip: {
                 pointFormat: 'Likely range: <b>{point.low}-{point.high}</b><br>'
             },
-            data: [[], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [3.5, 5.5]],
+            data: [[], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [2, 6]],
             color: 'black'
         }, { 
-            name: 'August forecast of <br>2022 bloom severity <br>(with likely range)',
+            name: 'Early season forecast of <br>2023 bloom severity <br>(with likely range)',
             type: 'scatter',
             marker: {
                 radius: 7,
             },
             tooltip: {
-                headerFormat: '2022<br>',
+                headerFormat: '2023<br>',
                 pointFormat: 'NOAA forecast: <b>{point.y:.1f}</b><br>'
 
             },
-            data: [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 4.5],
+            data: [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 4],
             color: '#6FC212'
-        }, */{ 
+        }, { 
             name: "Target",
             type: 'line',
             lineWidth: 3,
             marker: {
                 radius: 0
             },
-            data: [2.9 , 2.9, 2.9, 2.9, 2.9, 2.9, 2.9, 2.9, 2.9, 2.9, 2.9, 2.9, 2.9, 2.9, 2.9, 2.9, 2.9, 2.9, 2.9, 2.9, 2.9],
+            data: [2.9 , 2.9, 2.9, 2.9, 2.9, 2.9, 2.9, 2.9, 2.9, 2.9, 2.9, 2.9, 2.9, 2.9, 2.9, 2.9, 2.9, 2.9, 2.9, 2.9, 2.9, 2.9],
             color: "#E07000"
         }],
     });
