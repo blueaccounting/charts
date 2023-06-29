@@ -170,12 +170,14 @@
             color: '#0D5E87'
         }, {
             name: 'Likely Range of 2023 <br>Bloom Severity',
-            type: 'columnrange',
+            type: 'errorbar',
+            whiskerLength: 3,
+            stemWidth: 2,
             tooltip: {
                 pointFormat: 'Likely range: <b>{point.low}-{point.high}</b><br>'
             },
-            data: [[], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [2, 4.5]],
-            color: '#6FC212'
+            data: [[], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [2, 4.5]],
+            color: 'black'
         }, { 
             name: 'Seasonal forecast of <br>2023 bloom severity <br>(with likely range)',
             type: 'scatter',
@@ -187,7 +189,7 @@
                 pointFormat: 'NOAA forecast: <b>{point.y:.1f}</b><br>'
 
             },
-            data: [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 4],
+            data: [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 3],
             color: '#6FC212'
         }, { 
             name: "Target",
