@@ -23,7 +23,7 @@
     
 <body>
 <!--<div id="chart-canvas">-->
-    <div id="chart" class="mr-20">
+    <div id="chart" style="margin-right: 20px">
     <!--</div>-->
     <!--<div id="chart2" style="margin-right: 20px">-->
     <!--</div>-->
@@ -44,7 +44,7 @@
                 ]
             },
             accessibility: {
-                description: 'Chart displays the annual severity index for cyanobacterial algae blooms in western Lake Erie for the years 2001 to 2022 and the current predicted bloom severity for 2023 as projected by the NOAA National Centers for Coastal Ocean Science.  The chart also shows the annual severity index target of a maximum of 2.9.'
+                description: 'Chart displays the annual severity index for cyanobacterial algae blooms in western Lake Erie for the years 2001 to 2023.  The chart also shows the annual severity index target of a maximum of 2.9.'
             },
             /* events: {
                 load: function () {
@@ -113,7 +113,7 @@
             symbolWidth: 11,
             symbolRadius: 0,
             itemMarginBottom: 8,
-            itemStyle: {"word-wrap": "break-word", color: "#000000", fontWeight: "normal" }
+            itemStyle: '{"word-wrap": "break-word", color: "#000000", fontWeight: "normal" }'
         },
             
         credits: {
@@ -165,29 +165,31 @@
                 3, 
                 6.0,
                 6.8,
-                null
+                5.3
             ],
             color: '#0D5E87'
-        }, {
-            name: 'Likely Range of 2023 <br>Bloom Severity',
-            type: 'columnrange',
+        }, /*{
+            name: 'Likely Range of 2022 <br>Bloom Severity',
+            type: 'errorbar',
+            whiskerLength: 3,
+            stemWidth: 2,
             tooltip: {
                 pointFormat: 'Likely range: <b>{point.low}-{point.high}</b><br>'
             },
-            data: [[], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [4.5, 5.5]],
-            color: '#6FC212'
-        }, /*{ 
-            name: 'Seasonal forecast of <br>2023 bloom severity <br>(with likely range)',
+            data: [[], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [3.5, 5.5]],
+            color: 'black'
+        }, { 
+            name: 'August forecast of <br>2022 bloom severity <br>(with likely range)',
             type: 'scatter',
             marker: {
                 radius: 7,
             },
             tooltip: {
-                headerFormat: '2023<br>',
+                headerFormat: '2022<br>',
                 pointFormat: 'NOAA forecast: <b>{point.y:.1f}</b><br>'
 
             },
-            data: [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 3],
+            data: [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 4.5],
             color: '#6FC212'
         }, */{ 
             name: "Target",
