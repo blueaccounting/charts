@@ -181,9 +181,9 @@ function ErieStat() {
         "Portage River": {
             "Annual TP Loading": 215,
             "Percent Reduction in Annual TP Load Relative to 2008": 40,
-            "Spring TP Loading": null,
+            "Spring TP Loading": 117,
             "Spring TP Percent Reduction Relative to 2008": 40,
-            "Spring SRP Loading": null,
+            "Spring SRP Loading": 22,
             "Spring SRP Percent Reduction Relative to 2008": 40,
             "Spring TP FWMC": 0.27,
             "Spring SRP FWMC": 0.05
@@ -241,7 +241,7 @@ function ErieStat() {
             "Grand River-OH": "The Grand River watershed is located in northeastern Ohio. It drains a total of 707 square miles (1,831 km<sup>2</sup>) and flows through all or part of five counties. Major municipalities partially or fully in the watershed include Orwell, Roaming Shores, Jefferson, West Farmington, Chardon and Painesville. The watershed is a mixture of forest, agricultural land uses such as cultivated crops and pasture and hay lands, and urban land uses. ",
             "Grand (Ontario) River": "",
             "Huron River-OH": "The Huron River watershed is located on the south shore of Lake Erie between Toledo and Cleveland, in Huron, Erie, Seneca, Richland and Crawford counties.  The Huron River is 59.7 miles (96 km) long and the watershed covers 403 square miles (1,044 km<sup>2</sup>).  Land use is primarily dedicated to agricultural activities with approximately 74 percent cropland, 15 percent woodland, and 3 to 11 percent urban and other land uses.",
-            "Leamington Tributaries": "",//"The Leamington Tributaries are located in the southeastern area of the Essex Region in the municipalities of Leamington and Kingsville and drain directly to Lake Erie. Collectively the tributaries drain an area of approximately 70 km<sup>2</sup> (43 sq. mi), which is characterized by a high density of greenhouses, as well as row crop agriculture, specialty crops and residential areas.",
+            "Leamington Tributaries": "The Leamington Tributaries are a group of small watersheds that lie mostly in Leamington and Kingsville, Ontario and drain directly to Lake Erie. Blue Accounting's phosphorus data for the Leamington Tributaries represents the sum of the monitored P loads for the Sturgeon Creek (46.6 sq. km), Mill Creek (21.6 sq. km), and Lane Drain (8.8 sq. km) watersheds. These watersheds are characterized by a high density of greenhouses, as well as row crop agriculture, specialty crops and residential areas.",
             "Maumee River": "The Maumee River watershed is located primarily in northwestern Ohio, with the western and northern boundaries extending into portions of Indiana and Michigan. The Maumee River watershed drains a total of 6,568 square miles (17,011 km<sup>2</sup>), 5,024 (13,012) of which are in Ohio. Major municipalities in the watershed include Toledo, Fort Wayne, Defiance, Findlay, Lima, Van Wert, Napoleon and Perrysburg. The watershed is predominantly comprised of cultivated crops with some urban development, hay and pasture lands, and forest.",
             "River Raisin": "The River Raisin is a river in southeastern Michigan that flows into Lake Erie. The area is an agricultural and industrial center. The river flows for almost 150 miles (241 km), draining an area of 1,072 square miles (2,780 km<sup>2</sup>) in the Michigan counties of Lenawee, Washtenaw, Jackson, Hillsdale, a portion of Fulton County, Ohio. The mouth of the river is located in Monroe County, Michigan.",
             "Portage River": "The Portage River is located in northwestern Ohio and drains 585 square miles (1515 km<sup>2</sup>). The Portage River flows into Lake Erie at Port Clinton in Ottawa County. The watershed is distributed across Ottawa, Sandusky, Hancock and Wood counties with a small portion in Seneca County. Land use in the watershed is comprised predominantly of 78 percent cultivated cropland, 11 percent developed land and 5 percent forest.",
