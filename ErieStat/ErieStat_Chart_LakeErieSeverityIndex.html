@@ -44,7 +44,7 @@
                 ]
             },
             accessibility: {
-                description: 'Chart displays the annual severity index for cyanobacterial algae blooms in western Lake Erie for the years 2001 to 2023.  The chart also shows the annual severity index target of a maximum of 2.9.'
+                description: 'Chart displays the annual severity index for cyanobacterial algae blooms in western Lake Erie for the years 2001 to 2023 and the current predicted bloom severity for 2024 as projected by the NOAA National Centers for Coastal Ocean Science.  The chart also shows the annual severity index target of a maximum of 2.9.'
             },
             /* events: {
                 load: function () {
@@ -121,7 +121,7 @@
         },
         
         caption: {
-            text: '<b>Chart source: </b><em>Great Lakes Commission, Blue Accounting, 2023, <a href="https://www.blueaccounting.org/progress/harmful-algal-blooms">https://www.blueaccounting.org/progress/harmful-algal-blooms</a></em> <br> <b>Data source: </b> <em><a href="https://tidesandcurrents.noaa.gov/hab/lakeerie.html">NOAA</a></em>'
+            text: '<b>Chart source: </b><em>Great Lakes Commission, Blue Accounting, 2024, <a href="https://www.blueaccounting.org/metric/habs/">https://www.blueaccounting.org/metric/habs/</a></em> <br> <b>Data source: </b> <em><a href="https://tidesandcurrents.noaa.gov/hab/lakeerie.html">NOAA</a></em>'
         },
 
         plotOptions: {
@@ -165,21 +165,22 @@
                 3, 
                 6.0,
                 6.8,
-                5.3
+                5.3,
+                null
             ],
             color: '#0D5E87'
-        }, /*{
-            name: 'Likely Range of 2022 <br>Bloom Severity',
+        }, {
+            name: 'Likely Range of 2024 <br>Bloom Severity',
             type: 'errorbar',
             whiskerLength: 3,
             stemWidth: 2,
             tooltip: {
                 pointFormat: 'Likely range: <b>{point.low}-{point.high}</b><br>'
             },
-            data: [[], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [3.5, 5.5]],
+            data: [[], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [4.5, 7.5]],
             color: 'black'
-        }, { 
-            name: 'August forecast of <br>2022 bloom severity <br>(with likely range)',
+        }, /*{ 
+            name: 'Early season projection of <br>2024 bloom severity <br>(with likely range)',
             type: 'scatter',
             marker: {
                 radius: 7,
@@ -198,7 +199,7 @@
             marker: {
                 radius: 0
             },
-            data: [2.9 , 2.9, 2.9, 2.9, 2.9, 2.9, 2.9, 2.9, 2.9, 2.9, 2.9, 2.9, 2.9, 2.9, 2.9, 2.9, 2.9, 2.9, 2.9, 2.9, 2.9, 2.9],
+            data: [2.9 , 2.9, 2.9, 2.9, 2.9, 2.9, 2.9, 2.9, 2.9, 2.9, 2.9, 2.9, 2.9, 2.9, 2.9, 2.9, 2.9, 2.9, 2.9, 2.9, 2.9, 2.9, 2.9],
             color: "#E07000"
         }],
     });
