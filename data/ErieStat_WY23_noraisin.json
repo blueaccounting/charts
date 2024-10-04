@@ -1,10 +1,11 @@
+
 [
   {
     "Unnamed: 0": 0,
     "River": "Cedar-Toussaint",
     "Year": 2008,
     "Fraction": "Spring Discharge",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -12,7 +13,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2009,
     "Fraction": "Spring Discharge",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -20,7 +21,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2010,
     "Fraction": "Spring Discharge",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -28,7 +29,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2011,
     "Fraction": "Spring Discharge",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -36,7 +37,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2012,
     "Fraction": "Spring Discharge",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -44,7 +45,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2013,
     "Fraction": "Spring Discharge",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -52,7 +53,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2014,
     "Fraction": "Spring Discharge",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -60,7 +61,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2015,
     "Fraction": "Spring Discharge",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -68,7 +69,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2016,
     "Fraction": "Spring Discharge",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -76,7 +77,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2017,
     "Fraction": "Spring Discharge",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -84,7 +85,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2018,
     "Fraction": "Spring Discharge",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -92,7 +93,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2019,
     "Fraction": "Spring Discharge",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -100,7 +101,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2020,
     "Fraction": "Spring Discharge",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -108,31 +109,31 @@
     "River": "Cedar-Toussaint",
     "Year": 2021,
     "Fraction": "Spring Discharge",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 14,
     "River": "Cedar-Toussaint",
     "Year": 2022,
     "Fraction": "Spring Discharge",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 15,
     "River": "Cedar-Toussaint",
     "Year": 2023,
     "Fraction": "Spring Discharge",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 16,
     "River": "Cedar-Toussaint",
     "Year": 2008,
     "Fraction": "Spring TP Loading",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -140,7 +141,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2009,
     "Fraction": "Spring TP Loading",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -148,7 +149,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2010,
     "Fraction": "Spring TP Loading",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -156,7 +157,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2011,
     "Fraction": "Spring TP Loading",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -164,7 +165,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2012,
     "Fraction": "Spring TP Loading",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -172,7 +173,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2013,
     "Fraction": "Spring TP Loading",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -180,7 +181,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2014,
     "Fraction": "Spring TP Loading",
-    "Value": 49.515,
+    "Value": 50.0,
     "Source": "Greg Koltun"
   },
   {
@@ -188,7 +189,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2015,
     "Fraction": "Spring TP Loading",
-    "Value": 89.322,
+    "Value": 89.0,
     "Source": "Greg Koltun"
   },
   {
@@ -196,7 +197,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2016,
     "Fraction": "Spring TP Loading",
-    "Value": 53.345,
+    "Value": 53.0,
     "Source": "Greg Koltun"
   },
   {
@@ -204,7 +205,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2017,
     "Fraction": "Spring TP Loading",
-    "Value": 91.974,
+    "Value": 92.0,
     "Source": "Greg Koltun"
   },
   {
@@ -212,7 +213,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2018,
     "Fraction": "Spring TP Loading",
-    "Value": 54.171,
+    "Value": 54.0,
     "Source": "Greg Koltun"
   },
   {
@@ -220,7 +221,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2019,
     "Fraction": "Spring TP Loading",
-    "Value": 118.557,
+    "Value": 119.0,
     "Source": "Greg Koltun"
   },
   {
@@ -228,7 +229,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2020,
     "Fraction": "Spring TP Loading",
-    "Value": 74.95,
+    "Value": 75.0,
     "Source": "Greg Koltun"
   },
   {
@@ -236,31 +237,31 @@
     "River": "Cedar-Toussaint",
     "Year": 2021,
     "Fraction": "Spring TP Loading",
-    "Value": 56.058,
-    "Source": ""
+    "Value": 56.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 30,
     "River": "Cedar-Toussaint",
     "Year": 2022,
     "Fraction": "Spring TP Loading",
-    "Value": 70.766,
-    "Source": ""
+    "Value": 71.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 31,
     "River": "Cedar-Toussaint",
     "Year": 2023,
     "Fraction": "Spring TP Loading",
-    "Value": 61.33375,
-    "Source": ""
+    "Value": 61.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 32,
     "River": "Cedar-Toussaint",
     "Year": 2008,
     "Fraction": "Spring SRP Loading",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -268,7 +269,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2009,
     "Fraction": "Spring SRP Loading",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -276,7 +277,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2010,
     "Fraction": "Spring SRP Loading",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -284,7 +285,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2011,
     "Fraction": "Spring SRP Loading",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -292,7 +293,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2012,
     "Fraction": "Spring SRP Loading",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -300,7 +301,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2013,
     "Fraction": "Spring SRP Loading",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -308,7 +309,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2014,
     "Fraction": "Spring SRP Loading",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -316,7 +317,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2015,
     "Fraction": "Spring SRP Loading",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -324,7 +325,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2016,
     "Fraction": "Spring SRP Loading",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -332,7 +333,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2017,
     "Fraction": "Spring SRP Loading",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -340,7 +341,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2018,
     "Fraction": "Spring SRP Loading",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -348,7 +349,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2019,
     "Fraction": "Spring SRP Loading",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -356,7 +357,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2020,
     "Fraction": "Spring SRP Loading",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -364,7 +365,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2021,
     "Fraction": "Spring SRP Loading",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -372,23 +373,23 @@
     "River": "Cedar-Toussaint",
     "Year": 2022,
     "Fraction": "Spring SRP Loading",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 47,
     "River": "Cedar-Toussaint",
     "Year": 2023,
     "Fraction": "Spring SRP Loading",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 48,
     "River": "Cedar-Toussaint",
     "Year": 2008,
     "Fraction": "Spring TP FWMC",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -396,7 +397,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2009,
     "Fraction": "Spring TP FWMC",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -404,7 +405,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2010,
     "Fraction": "Spring TP FWMC",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -412,7 +413,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2011,
     "Fraction": "Spring TP FWMC",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -420,7 +421,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2012,
     "Fraction": "Spring TP FWMC",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -428,7 +429,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2013,
     "Fraction": "Spring TP FWMC",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -436,7 +437,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2014,
     "Fraction": "Spring TP FWMC",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -444,7 +445,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2015,
     "Fraction": "Spring TP FWMC",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -452,7 +453,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2016,
     "Fraction": "Spring TP FWMC",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -460,7 +461,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2017,
     "Fraction": "Spring TP FWMC",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -468,7 +469,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2018,
     "Fraction": "Spring TP FWMC",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -476,7 +477,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2019,
     "Fraction": "Spring TP FWMC",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -484,7 +485,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2020,
     "Fraction": "Spring TP FWMC",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -492,7 +493,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2021,
     "Fraction": "Spring TP FWMC",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -500,23 +501,23 @@
     "River": "Cedar-Toussaint",
     "Year": 2022,
     "Fraction": "Spring TP FWMC",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 63,
     "River": "Cedar-Toussaint",
     "Year": 2023,
     "Fraction": "Spring TP FWMC",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 64,
     "River": "Cedar-Toussaint",
     "Year": 2008,
     "Fraction": "Spring SRP FWMC",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -524,7 +525,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2009,
     "Fraction": "Spring SRP FWMC",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -532,7 +533,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2010,
     "Fraction": "Spring SRP FWMC",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -540,7 +541,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2011,
     "Fraction": "Spring SRP FWMC",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -548,7 +549,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2012,
     "Fraction": "Spring SRP FWMC",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -556,7 +557,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2013,
     "Fraction": "Spring SRP FWMC",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -564,7 +565,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2014,
     "Fraction": "Spring SRP FWMC",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -572,7 +573,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2015,
     "Fraction": "Spring SRP FWMC",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -580,7 +581,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2016,
     "Fraction": "Spring SRP FWMC",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -588,7 +589,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2017,
     "Fraction": "Spring SRP FWMC",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -596,7 +597,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2018,
     "Fraction": "Spring SRP FWMC",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -604,7 +605,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2019,
     "Fraction": "Spring SRP FWMC",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -612,7 +613,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2020,
     "Fraction": "Spring SRP FWMC",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -620,7 +621,7 @@
     "River": "Cedar-Toussaint",
     "Year": 2021,
     "Fraction": "Spring SRP FWMC",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -628,23 +629,23 @@
     "River": "Cedar-Toussaint",
     "Year": 2022,
     "Fraction": "Spring SRP FWMC",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 79,
     "River": "Cedar-Toussaint",
     "Year": 2023,
     "Fraction": "Spring SRP FWMC",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 80,
     "River": "Cuyahoga River",
     "Year": 2008,
     "Fraction": "Annual TP Loading",
-    "Value": 451.6831789,
+    "Value": 452.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -652,7 +653,7 @@
     "River": "Cuyahoga River",
     "Year": 2009,
     "Fraction": "Annual TP Loading",
-    "Value": 397.9696304,
+    "Value": 398.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -660,7 +661,7 @@
     "River": "Cuyahoga River",
     "Year": 2010,
     "Fraction": "Annual TP Loading",
-    "Value": 269.4745286,
+    "Value": 269.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -668,7 +669,7 @@
     "River": "Cuyahoga River",
     "Year": 2011,
     "Fraction": "Annual TP Loading",
-    "Value": 467.5256856,
+    "Value": 468.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -676,7 +677,7 @@
     "River": "Cuyahoga River",
     "Year": 2012,
     "Fraction": "Annual TP Loading",
-    "Value": 299.2026201,
+    "Value": 299.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -684,7 +685,7 @@
     "River": "Cuyahoga River",
     "Year": 2013,
     "Fraction": "Annual TP Loading",
-    "Value": 388.8598176,
+    "Value": 389.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -692,7 +693,7 @@
     "River": "Cuyahoga River",
     "Year": 2014,
     "Fraction": "Annual TP Loading",
-    "Value": 350.813,
+    "Value": 351.0,
     "Source": "Santina August 2018"
   },
   {
@@ -700,7 +701,7 @@
     "River": "Cuyahoga River",
     "Year": 2015,
     "Fraction": "Annual TP Loading",
-    "Value": 303.99303,
+    "Value": 304.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -708,7 +709,7 @@
     "River": "Cuyahoga River",
     "Year": 2016,
     "Fraction": "Annual TP Loading",
-    "Value": 212.61459,
+    "Value": 213.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -716,7 +717,7 @@
     "River": "Cuyahoga River",
     "Year": 2017,
     "Fraction": "Annual TP Loading",
-    "Value": 343.83,
+    "Value": 344.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -724,7 +725,7 @@
     "River": "Cuyahoga River",
     "Year": 2018,
     "Fraction": "Annual TP Loading",
-    "Value": 307.109,
+    "Value": 307.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -732,7 +733,7 @@
     "River": "Cuyahoga River",
     "Year": 2019,
     "Fraction": "Annual TP Loading",
-    "Value": 384.319,
+    "Value": 384.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -740,7 +741,7 @@
     "River": "Cuyahoga River",
     "Year": 2020,
     "Fraction": "Annual TP Loading",
-    "Value": 262.812,
+    "Value": 263.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -748,24 +749,24 @@
     "River": "Cuyahoga River",
     "Year": 2021,
     "Fraction": "Annual TP Loading",
-    "Value": 277.973,
-    "Source": ""
+    "Value": 278.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 94,
     "River": "Cuyahoga River",
     "Year": 2022,
     "Fraction": "Annual TP Loading",
-    "Value": 269.733,
-    "Source": ""
+    "Value": 270.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 95,
     "River": "Cuyahoga River",
     "Year": 2023,
     "Fraction": "Annual TP Loading",
-    "Value": 251.2016,
-    "Source": ""
+    "Value": 251.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 96,
@@ -820,7 +821,7 @@
     "River": "Detroit River (U.S.)",
     "Year": 2014,
     "Fraction": "Annual TP Loading",
-    "Value": 649.805,
+    "Value": 650.0,
     "Source": "Santina August 2018"
   },
   {
@@ -828,7 +829,7 @@
     "River": "Detroit River (U.S.)",
     "Year": 2015,
     "Fraction": "Annual TP Loading",
-    "Value": 737.796,
+    "Value": 738.0,
     "Source": "Santina August 2018"
   },
   {
@@ -836,7 +837,7 @@
     "River": "Detroit River (U.S.)",
     "Year": 2016,
     "Fraction": "Annual TP Loading",
-    "Value": 699.229,
+    "Value": 699.0,
     "Source": "Santina August 2018"
   },
   {
@@ -844,7 +845,7 @@
     "River": "Detroit River (U.S.)",
     "Year": 2017,
     "Fraction": "Annual TP Loading",
-    "Value": 792.02,
+    "Value": 792.0,
     "Source": "Santina August 2018"
   },
   {
@@ -852,7 +853,7 @@
     "River": "Detroit River (U.S.)",
     "Year": 2018,
     "Fraction": "Annual TP Loading",
-    "Value": 877.895,
+    "Value": 878.0,
     "Source": "Santina August 2018"
   },
   {
@@ -860,7 +861,7 @@
     "River": "Detroit River (U.S.)",
     "Year": 2019,
     "Fraction": "Annual TP Loading",
-    "Value": 988.268,
+    "Value": 988.0,
     "Source": "Santina August 2018"
   },
   {
@@ -868,7 +869,7 @@
     "River": "Detroit River (U.S.)",
     "Year": 2020,
     "Fraction": "Annual TP Loading",
-    "Value": 911.721,
+    "Value": 912.0,
     "Source": "Santina August 2018"
   },
   {
@@ -876,31 +877,31 @@
     "River": "Detroit River (U.S.)",
     "Year": 2021,
     "Fraction": "Annual TP Loading",
-    "Value": 671.373,
-    "Source": ""
+    "Value": 671.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 110,
     "River": "Detroit River (U.S.)",
     "Year": 2022,
     "Fraction": "Annual TP Loading",
-    "Value": 727.5,
-    "Source": ""
+    "Value": 728.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 111,
     "River": "Detroit River (U.S.)",
     "Year": 2023,
     "Fraction": "Annual TP Loading",
-    "Value": 777.955,
-    "Source": ""
+    "Value": 778.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 112,
     "River": "Grand River-OH",
     "Year": 2008,
     "Fraction": "Annual TP Loading",
-    "Value": 165.2273391,
+    "Value": 165.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -908,7 +909,7 @@
     "River": "Grand River-OH",
     "Year": 2009,
     "Fraction": "Annual TP Loading",
-    "Value": 66.26279952,
+    "Value": 66.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -916,7 +917,7 @@
     "River": "Grand River-OH",
     "Year": 2010,
     "Fraction": "Annual TP Loading",
-    "Value": 55.47292356,
+    "Value": 55.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -924,7 +925,7 @@
     "River": "Grand River-OH",
     "Year": 2011,
     "Fraction": "Annual TP Loading",
-    "Value": 107.5710336,
+    "Value": 108.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -932,7 +933,7 @@
     "River": "Grand River-OH",
     "Year": 2012,
     "Fraction": "Annual TP Loading",
-    "Value": 51.78086785,
+    "Value": 52.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -940,7 +941,7 @@
     "River": "Grand River-OH",
     "Year": 2013,
     "Fraction": "Annual TP Loading",
-    "Value": 54.18582571,
+    "Value": 54.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -948,7 +949,7 @@
     "River": "Grand River-OH",
     "Year": 2014,
     "Fraction": "Annual TP Loading",
-    "Value": 36.471,
+    "Value": 36.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -956,7 +957,7 @@
     "River": "Grand River-OH",
     "Year": 2015,
     "Fraction": "Annual TP Loading",
-    "Value": 65.085,
+    "Value": 65.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -964,7 +965,7 @@
     "River": "Grand River-OH",
     "Year": 2016,
     "Fraction": "Annual TP Loading",
-    "Value": 32.15,
+    "Value": 32.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -972,7 +973,7 @@
     "River": "Grand River-OH",
     "Year": 2017,
     "Fraction": "Annual TP Loading",
-    "Value": 131.671,
+    "Value": 132.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -980,7 +981,7 @@
     "River": "Grand River-OH",
     "Year": 2018,
     "Fraction": "Annual TP Loading",
-    "Value": 243.186,
+    "Value": 243.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -988,47 +989,47 @@
     "River": "Grand River-OH",
     "Year": 2019,
     "Fraction": "Annual TP Loading",
-    "Value": 480.861,
-    "Source": ""
+    "Value": 481.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 124,
     "River": "Grand River-OH",
     "Year": 2020,
     "Fraction": "Annual TP Loading",
-    "Value": 221.844,
-    "Source": ""
+    "Value": 222.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 125,
     "River": "Grand River-OH",
     "Year": 2021,
     "Fraction": "Annual TP Loading",
-    "Value": 250.553,
-    "Source": ""
+    "Value": 251.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 126,
     "River": "Grand River-OH",
     "Year": 2022,
     "Fraction": "Annual TP Loading",
-    "Value": 141.275,
-    "Source": ""
+    "Value": 141.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 127,
     "River": "Grand River-OH",
     "Year": 2023,
     "Fraction": "Annual TP Loading",
-    "Value": 182.60973,
-    "Source": ""
+    "Value": 183.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 128,
     "River": "Huron River-OH",
     "Year": 2008,
     "Fraction": "Annual TP Loading",
-    "Value": 204.8945143,
+    "Value": 205.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -1036,7 +1037,7 @@
     "River": "Huron River-OH",
     "Year": 2009,
     "Fraction": "Annual TP Loading",
-    "Value": 32.13010263,
+    "Value": 32.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -1044,7 +1045,7 @@
     "River": "Huron River-OH",
     "Year": 2010,
     "Fraction": "Annual TP Loading",
-    "Value": 68.84425621,
+    "Value": 69.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -1052,7 +1053,7 @@
     "River": "Huron River-OH",
     "Year": 2011,
     "Fraction": "Annual TP Loading",
-    "Value": 70.43720336,
+    "Value": 70.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -1060,7 +1061,7 @@
     "River": "Huron River-OH",
     "Year": 2012,
     "Fraction": "Annual TP Loading",
-    "Value": 47.56350473,
+    "Value": 48.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -1068,7 +1069,7 @@
     "River": "Huron River-OH",
     "Year": 2013,
     "Fraction": "Annual TP Loading",
-    "Value": 156.8180206,
+    "Value": 157.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -1076,7 +1077,7 @@
     "River": "Huron River-OH",
     "Year": 2014,
     "Fraction": "Annual TP Loading",
-    "Value": 63.189,
+    "Value": 63.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -1084,7 +1085,7 @@
     "River": "Huron River-OH",
     "Year": 2015,
     "Fraction": "Annual TP Loading",
-    "Value": 19.572,
+    "Value": 20.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -1092,7 +1093,7 @@
     "River": "Huron River-OH",
     "Year": 2016,
     "Fraction": "Annual TP Loading",
-    "Value": 79.328,
+    "Value": 79.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -1100,7 +1101,7 @@
     "River": "Huron River-OH",
     "Year": 2017,
     "Fraction": "Annual TP Loading",
-    "Value": 156.543,
+    "Value": 157.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -1108,7 +1109,7 @@
     "River": "Huron River-OH",
     "Year": 2018,
     "Fraction": "Annual TP Loading",
-    "Value": 307.992,
+    "Value": 308.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -1116,7 +1117,7 @@
     "River": "Huron River-OH",
     "Year": 2019,
     "Fraction": "Annual TP Loading",
-    "Value": 378.286,
+    "Value": 378.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -1124,7 +1125,7 @@
     "River": "Huron River-OH",
     "Year": 2020,
     "Fraction": "Annual TP Loading",
-    "Value": 291.714,
+    "Value": 292.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -1132,31 +1133,31 @@
     "River": "Huron River-OH",
     "Year": 2021,
     "Fraction": "Annual TP Loading",
-    "Value": 228.165,
-    "Source": ""
+    "Value": 228.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 142,
     "River": "Huron River-OH",
     "Year": 2022,
     "Fraction": "Annual TP Loading",
-    "Value": 324.607,
-    "Source": ""
+    "Value": 325.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 143,
     "River": "Huron River-OH",
     "Year": 2023,
     "Fraction": "Annual TP Loading",
-    "Value": 203.39227,
-    "Source": ""
+    "Value": 203.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 144,
     "River": "Huron River-OH",
     "Year": 2008,
     "Fraction": "Spring Discharge",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -1164,7 +1165,7 @@
     "River": "Huron River-OH",
     "Year": 2009,
     "Fraction": "Spring Discharge",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -1172,7 +1173,7 @@
     "River": "Huron River-OH",
     "Year": 2010,
     "Fraction": "Spring Discharge",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -1180,7 +1181,7 @@
     "River": "Huron River-OH",
     "Year": 2011,
     "Fraction": "Spring Discharge",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -1188,7 +1189,7 @@
     "River": "Huron River-OH",
     "Year": 2012,
     "Fraction": "Spring Discharge",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -1196,7 +1197,7 @@
     "River": "Huron River-OH",
     "Year": 2013,
     "Fraction": "Spring Discharge",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -1204,7 +1205,7 @@
     "River": "Huron River-OH",
     "Year": 2014,
     "Fraction": "Spring Discharge",
-    "Value": 217.6393,
+    "Value": 218.0,
     "Source": "Greg Koltun"
   },
   {
@@ -1212,7 +1213,7 @@
     "River": "Huron River-OH",
     "Year": 2015,
     "Fraction": "Spring Discharge",
-    "Value": 229.131,
+    "Value": 229.0,
     "Source": "Greg Koltun"
   },
   {
@@ -1220,7 +1221,7 @@
     "River": "Huron River-OH",
     "Year": 2016,
     "Fraction": "Spring Discharge",
-    "Value": 168.037,
+    "Value": 168.0,
     "Source": "Greg Koltun"
   },
   {
@@ -1228,7 +1229,7 @@
     "River": "Huron River-OH",
     "Year": 2017,
     "Fraction": "Spring Discharge",
-    "Value": 182.4549,
+    "Value": 182.0,
     "Source": "Greg Koltun"
   },
   {
@@ -1236,7 +1237,7 @@
     "River": "Huron River-OH",
     "Year": 2018,
     "Fraction": "Spring Discharge",
-    "Value": 166.8558057,
+    "Value": 167.0,
     "Source": "Greg Koltun"
   },
   {
@@ -1244,47 +1245,47 @@
     "River": "Huron River-OH",
     "Year": 2019,
     "Fraction": "Spring Discharge",
-    "Value": 221.1993351,
-    "Source": ""
+    "Value": 221.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 156,
     "River": "Huron River-OH",
     "Year": 2020,
     "Fraction": "Spring Discharge",
-    "Value": 201.3778762,
-    "Source": ""
+    "Value": 201.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 157,
     "River": "Huron River-OH",
     "Year": 2021,
     "Fraction": "Spring Discharge",
-    "Value": 185.280877,
-    "Source": ""
+    "Value": 185.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 158,
     "River": "Huron River-OH",
     "Year": 2022,
     "Fraction": "Spring Discharge",
-    "Value": 176.199,
-    "Source": ""
+    "Value": 176.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 159,
     "River": "Huron River-OH",
     "Year": 2023,
     "Fraction": "Spring Discharge",
-    "Value": 134.39229,
-    "Source": ""
+    "Value": 134.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 160,
     "River": "Huron River-OH",
     "Year": 2008,
     "Fraction": "Spring TP Loading",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -1292,7 +1293,7 @@
     "River": "Huron River-OH",
     "Year": 2009,
     "Fraction": "Spring TP Loading",
-    "Value": 10.045,
+    "Value": 10.0,
     "Source": "Greg Koltun"
   },
   {
@@ -1300,7 +1301,7 @@
     "River": "Huron River-OH",
     "Year": 2010,
     "Fraction": "Spring TP Loading",
-    "Value": 29.872,
+    "Value": 30.0,
     "Source": "Greg Koltun"
   },
   {
@@ -1308,7 +1309,7 @@
     "River": "Huron River-OH",
     "Year": 2011,
     "Fraction": "Spring TP Loading",
-    "Value": 20.783,
+    "Value": 21.0,
     "Source": "Greg Koltun"
   },
   {
@@ -1316,7 +1317,7 @@
     "River": "Huron River-OH",
     "Year": 2012,
     "Fraction": "Spring TP Loading",
-    "Value": 2.983,
+    "Value": 3.0,
     "Source": "Greg Koltun"
   },
   {
@@ -1324,7 +1325,7 @@
     "River": "Huron River-OH",
     "Year": 2013,
     "Fraction": "Spring TP Loading",
-    "Value": 37.356,
+    "Value": 37.0,
     "Source": "Greg Koltun"
   },
   {
@@ -1332,7 +1333,7 @@
     "River": "Huron River-OH",
     "Year": 2014,
     "Fraction": "Spring TP Loading",
-    "Value": 21.435,
+    "Value": 21.0,
     "Source": "Greg Koltun"
   },
   {
@@ -1340,7 +1341,7 @@
     "River": "Huron River-OH",
     "Year": 2015,
     "Fraction": "Spring TP Loading",
-    "Value": 9.987,
+    "Value": 10.0,
     "Source": "Greg Koltun"
   },
   {
@@ -1348,7 +1349,7 @@
     "River": "Huron River-OH",
     "Year": 2016,
     "Fraction": "Spring TP Loading",
-    "Value": 26.163,
+    "Value": 26.0,
     "Source": "Greg Koltun"
   },
   {
@@ -1356,7 +1357,7 @@
     "River": "Huron River-OH",
     "Year": 2017,
     "Fraction": "Spring TP Loading",
-    "Value": 50.75,
+    "Value": 51.0,
     "Source": "Greg Koltun"
   },
   {
@@ -1364,7 +1365,7 @@
     "River": "Huron River-OH",
     "Year": 2018,
     "Fraction": "Spring TP Loading",
-    "Value": 62.853,
+    "Value": 63.0,
     "Source": "Greg Koltun"
   },
   {
@@ -1372,47 +1373,47 @@
     "River": "Huron River-OH",
     "Year": 2019,
     "Fraction": "Spring TP Loading",
-    "Value": 93.838,
-    "Source": ""
+    "Value": 94.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 172,
     "River": "Huron River-OH",
     "Year": 2020,
     "Fraction": "Spring TP Loading",
-    "Value": 135.283,
-    "Source": ""
+    "Value": 135.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 173,
     "River": "Huron River-OH",
     "Year": 2021,
     "Fraction": "Spring TP Loading",
-    "Value": 68.941,
-    "Source": ""
+    "Value": 69.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 174,
     "River": "Huron River-OH",
     "Year": 2022,
     "Fraction": "Spring TP Loading",
-    "Value": 96.929,
-    "Source": ""
+    "Value": 97.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 175,
     "River": "Huron River-OH",
     "Year": 2023,
     "Fraction": "Spring TP Loading",
-    "Value": 53.588,
-    "Source": ""
+    "Value": 54.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 176,
     "River": "Huron River-OH",
     "Year": 2008,
     "Fraction": "Spring SRP Loading",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -1420,7 +1421,7 @@
     "River": "Huron River-OH",
     "Year": 2009,
     "Fraction": "Spring SRP Loading",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -1428,7 +1429,7 @@
     "River": "Huron River-OH",
     "Year": 2010,
     "Fraction": "Spring SRP Loading",
-    "Value": 7.638,
+    "Value": 8.0,
     "Source": "Greg Koltun"
   },
   {
@@ -1436,7 +1437,7 @@
     "River": "Huron River-OH",
     "Year": 2011,
     "Fraction": "Spring SRP Loading",
-    "Value": 14.29,
+    "Value": 14.0,
     "Source": "Greg Koltun"
   },
   {
@@ -1444,7 +1445,7 @@
     "River": "Huron River-OH",
     "Year": 2012,
     "Fraction": "Spring SRP Loading",
-    "Value": 1.097,
+    "Value": 1.0,
     "Source": "Greg Koltun"
   },
   {
@@ -1452,7 +1453,7 @@
     "River": "Huron River-OH",
     "Year": 2013,
     "Fraction": "Spring SRP Loading",
-    "Value": 10.292,
+    "Value": 10.0,
     "Source": "Greg Koltun"
   },
   {
@@ -1460,7 +1461,7 @@
     "River": "Huron River-OH",
     "Year": 2014,
     "Fraction": "Spring SRP Loading",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -1468,7 +1469,7 @@
     "River": "Huron River-OH",
     "Year": 2015,
     "Fraction": "Spring SRP Loading",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -1476,7 +1477,7 @@
     "River": "Huron River-OH",
     "Year": 2016,
     "Fraction": "Spring SRP Loading",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -1484,7 +1485,7 @@
     "River": "Huron River-OH",
     "Year": 2017,
     "Fraction": "Spring SRP Loading",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -1500,47 +1501,47 @@
     "River": "Huron River-OH",
     "Year": 2019,
     "Fraction": "Spring SRP Loading",
-    "Value": 9.012493183,
-    "Source": ""
+    "Value": 9.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 188,
     "River": "Huron River-OH",
     "Year": 2020,
     "Fraction": "Spring SRP Loading",
-    "Value": 7.519467917,
-    "Source": ""
+    "Value": 8.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 189,
     "River": "Huron River-OH",
     "Year": 2021,
     "Fraction": "Spring SRP Loading",
-    "Value": 11.28015545,
-    "Source": ""
+    "Value": 11.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 190,
     "River": "Huron River-OH",
     "Year": 2022,
     "Fraction": "Spring SRP Loading",
-    "Value": 8.639803,
-    "Source": ""
+    "Value": 9.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 191,
     "River": "Huron River-OH",
     "Year": 2023,
     "Fraction": "Spring SRP Loading",
-    "Value": 3.542923,
-    "Source": ""
+    "Value": 4.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 192,
     "River": "Huron River-OH",
     "Year": 2008,
     "Fraction": "Spring TP FWMC",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -1548,7 +1549,7 @@
     "River": "Huron River-OH",
     "Year": 2009,
     "Fraction": "Spring TP FWMC",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -1556,7 +1557,7 @@
     "River": "Huron River-OH",
     "Year": 2010,
     "Fraction": "Spring TP FWMC",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -1564,7 +1565,7 @@
     "River": "Huron River-OH",
     "Year": 2011,
     "Fraction": "Spring TP FWMC",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -1572,7 +1573,7 @@
     "River": "Huron River-OH",
     "Year": 2012,
     "Fraction": "Spring TP FWMC",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -1580,7 +1581,7 @@
     "River": "Huron River-OH",
     "Year": 2013,
     "Fraction": "Spring TP FWMC",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -1588,7 +1589,7 @@
     "River": "Huron River-OH",
     "Year": 2014,
     "Fraction": "Spring TP FWMC",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -1596,7 +1597,7 @@
     "River": "Huron River-OH",
     "Year": 2015,
     "Fraction": "Spring TP FWMC",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -1604,7 +1605,7 @@
     "River": "Huron River-OH",
     "Year": 2016,
     "Fraction": "Spring TP FWMC",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -1612,7 +1613,7 @@
     "River": "Huron River-OH",
     "Year": 2017,
     "Fraction": "Spring TP FWMC",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -1620,7 +1621,7 @@
     "River": "Huron River-OH",
     "Year": 2018,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.376680523,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -1628,47 +1629,47 @@
     "River": "Huron River-OH",
     "Year": 2019,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.424221669,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 204,
     "River": "Huron River-OH",
     "Year": 2020,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.671785397,
-    "Source": ""
+    "Value": 1.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 205,
     "River": "Huron River-OH",
     "Year": 2021,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.372089124,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 206,
     "River": "Huron River-OH",
     "Year": 2022,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.550110954,
-    "Source": ""
+    "Value": 1.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 207,
     "River": "Huron River-OH",
     "Year": 2023,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.39874311,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 208,
     "River": "Huron River-OH",
     "Year": 2008,
     "Fraction": "Spring SRP FWMC",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -1676,7 +1677,7 @@
     "River": "Huron River-OH",
     "Year": 2009,
     "Fraction": "Spring SRP FWMC",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -1684,7 +1685,7 @@
     "River": "Huron River-OH",
     "Year": 2010,
     "Fraction": "Spring SRP FWMC",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -1692,7 +1693,7 @@
     "River": "Huron River-OH",
     "Year": 2011,
     "Fraction": "Spring SRP FWMC",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -1700,7 +1701,7 @@
     "River": "Huron River-OH",
     "Year": 2012,
     "Fraction": "Spring SRP FWMC",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -1708,7 +1709,7 @@
     "River": "Huron River-OH",
     "Year": 2013,
     "Fraction": "Spring SRP FWMC",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -1716,7 +1717,7 @@
     "River": "Huron River-OH",
     "Year": 2014,
     "Fraction": "Spring SRP FWMC",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -1724,7 +1725,7 @@
     "River": "Huron River-OH",
     "Year": 2015,
     "Fraction": "Spring SRP FWMC",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -1732,7 +1733,7 @@
     "River": "Huron River-OH",
     "Year": 2016,
     "Fraction": "Spring SRP FWMC",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -1740,7 +1741,7 @@
     "River": "Huron River-OH",
     "Year": 2017,
     "Fraction": "Spring SRP FWMC",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -1748,7 +1749,7 @@
     "River": "Huron River-OH",
     "Year": 2018,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.041952391,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -1756,800 +1757,800 @@
     "River": "Huron River-OH",
     "Year": 2019,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.040743763,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 220,
     "River": "Huron River-OH",
     "Year": 2020,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.037340089,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 221,
     "River": "Huron River-OH",
     "Year": 2021,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.06088138,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 222,
     "River": "Huron River-OH",
     "Year": 2022,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.049034348,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 223,
     "River": "Huron River-OH",
     "Year": 2023,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.02636255,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 224,
     "River": "Leamington Tributaries",
     "Year": 2008,
     "Fraction": "Spring Discharge",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 225,
     "River": "Leamington Tributaries",
     "Year": 2009,
     "Fraction": "Spring Discharge",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 226,
     "River": "Leamington Tributaries",
     "Year": 2010,
     "Fraction": "Spring Discharge",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 227,
     "River": "Leamington Tributaries",
     "Year": 2011,
     "Fraction": "Spring Discharge",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 228,
     "River": "Leamington Tributaries",
     "Year": 2012,
     "Fraction": "Spring Discharge",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 229,
     "River": "Leamington Tributaries",
     "Year": 2013,
     "Fraction": "Spring Discharge",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 230,
     "River": "Leamington Tributaries",
     "Year": 2014,
     "Fraction": "Spring Discharge",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 231,
     "River": "Leamington Tributaries",
     "Year": 2015,
     "Fraction": "Spring Discharge",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 232,
     "River": "Leamington Tributaries",
     "Year": 2016,
     "Fraction": "Spring Discharge",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 233,
     "River": "Leamington Tributaries",
     "Year": 2017,
     "Fraction": "Spring Discharge",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 234,
     "River": "Leamington Tributaries",
     "Year": 2018,
     "Fraction": "Spring Discharge",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 235,
     "River": "Leamington Tributaries",
     "Year": 2019,
     "Fraction": "Spring Discharge",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 236,
     "River": "Leamington Tributaries",
     "Year": 2020,
     "Fraction": "Spring Discharge",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 237,
     "River": "Leamington Tributaries",
     "Year": 2021,
     "Fraction": "Spring Discharge",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 238,
     "River": "Leamington Tributaries",
     "Year": 2022,
     "Fraction": "Spring Discharge",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 239,
     "River": "Leamington Tributaries",
     "Year": 2023,
     "Fraction": "Spring Discharge",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 240,
     "River": "Leamington Tributaries",
     "Year": 2008,
     "Fraction": "Spring TP Loading",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 241,
     "River": "Leamington Tributaries",
     "Year": 2009,
     "Fraction": "Spring TP Loading",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 242,
     "River": "Leamington Tributaries",
     "Year": 2010,
     "Fraction": "Spring TP Loading",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 243,
     "River": "Leamington Tributaries",
     "Year": 2011,
     "Fraction": "Spring TP Loading",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 244,
     "River": "Leamington Tributaries",
     "Year": 2012,
     "Fraction": "Spring TP Loading",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 245,
     "River": "Leamington Tributaries",
     "Year": 2013,
     "Fraction": "Spring TP Loading",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 246,
     "River": "Leamington Tributaries",
     "Year": 2014,
     "Fraction": "Spring TP Loading",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 247,
     "River": "Leamington Tributaries",
     "Year": 2015,
     "Fraction": "Spring TP Loading",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 248,
     "River": "Leamington Tributaries",
     "Year": 2016,
     "Fraction": "Spring TP Loading",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 249,
     "River": "Leamington Tributaries",
     "Year": 2017,
     "Fraction": "Spring TP Loading",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 250,
     "River": "Leamington Tributaries",
     "Year": 2018,
     "Fraction": "Spring TP Loading",
-    "Value": 15.407,
-    "Source": ""
+    "Value": 15.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 251,
     "River": "Leamington Tributaries",
     "Year": 2019,
     "Fraction": "Spring TP Loading",
-    "Value": 8.384,
-    "Source": ""
+    "Value": 8.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 252,
     "River": "Leamington Tributaries",
     "Year": 2020,
     "Fraction": "Spring TP Loading",
-    "Value": 8.86,
-    "Source": ""
+    "Value": 9.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 253,
     "River": "Leamington Tributaries",
     "Year": 2021,
     "Fraction": "Spring TP Loading",
-    "Value": 8.415,
-    "Source": ""
+    "Value": 8.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 254,
     "River": "Leamington Tributaries",
     "Year": 2022,
     "Fraction": "Spring TP Loading",
-    "Value": 11.598,
-    "Source": ""
+    "Value": 12.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 255,
     "River": "Leamington Tributaries",
     "Year": 2023,
     "Fraction": "Spring TP Loading",
-    "Value": 12.301,
-    "Source": ""
+    "Value": 12.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 256,
     "River": "Leamington Tributaries",
     "Year": 2008,
     "Fraction": "Spring SRP Loading",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 257,
     "River": "Leamington Tributaries",
     "Year": 2009,
     "Fraction": "Spring SRP Loading",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 258,
     "River": "Leamington Tributaries",
     "Year": 2010,
     "Fraction": "Spring SRP Loading",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 259,
     "River": "Leamington Tributaries",
     "Year": 2011,
     "Fraction": "Spring SRP Loading",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 260,
     "River": "Leamington Tributaries",
     "Year": 2012,
     "Fraction": "Spring SRP Loading",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 261,
     "River": "Leamington Tributaries",
     "Year": 2013,
     "Fraction": "Spring SRP Loading",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 262,
     "River": "Leamington Tributaries",
     "Year": 2014,
     "Fraction": "Spring SRP Loading",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 263,
     "River": "Leamington Tributaries",
     "Year": 2015,
     "Fraction": "Spring SRP Loading",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 264,
     "River": "Leamington Tributaries",
     "Year": 2016,
     "Fraction": "Spring SRP Loading",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 265,
     "River": "Leamington Tributaries",
     "Year": 2017,
     "Fraction": "Spring SRP Loading",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 266,
     "River": "Leamington Tributaries",
     "Year": 2018,
     "Fraction": "Spring SRP Loading",
-    "Value": 11.413,
-    "Source": ""
+    "Value": 11.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 267,
     "River": "Leamington Tributaries",
     "Year": 2019,
     "Fraction": "Spring SRP Loading",
-    "Value": 4.529,
-    "Source": ""
+    "Value": 5.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 268,
     "River": "Leamington Tributaries",
     "Year": 2020,
     "Fraction": "Spring SRP Loading",
-    "Value": 3.213,
-    "Source": ""
+    "Value": 3.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 269,
     "River": "Leamington Tributaries",
     "Year": 2021,
     "Fraction": "Spring SRP Loading",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 270,
     "River": "Leamington Tributaries",
     "Year": 2022,
     "Fraction": "Spring SRP Loading",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 271,
     "River": "Leamington Tributaries",
     "Year": 2023,
     "Fraction": "Spring SRP Loading",
-    "Value": 6.526,
-    "Source": ""
+    "Value": 7.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 272,
     "River": "Leamington Tributaries",
     "Year": 2008,
     "Fraction": "Spring TP FWMC",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 273,
     "River": "Leamington Tributaries",
     "Year": 2009,
     "Fraction": "Spring TP FWMC",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 274,
     "River": "Leamington Tributaries",
     "Year": 2010,
     "Fraction": "Spring TP FWMC",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 275,
     "River": "Leamington Tributaries",
     "Year": 2011,
     "Fraction": "Spring TP FWMC",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 276,
     "River": "Leamington Tributaries",
     "Year": 2012,
     "Fraction": "Spring TP FWMC",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 277,
     "River": "Leamington Tributaries",
     "Year": 2013,
     "Fraction": "Spring TP FWMC",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 278,
     "River": "Leamington Tributaries",
     "Year": 2014,
     "Fraction": "Spring TP FWMC",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 279,
     "River": "Leamington Tributaries",
     "Year": 2015,
     "Fraction": "Spring TP FWMC",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 280,
     "River": "Leamington Tributaries",
     "Year": 2016,
     "Fraction": "Spring TP FWMC",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 281,
     "River": "Leamington Tributaries",
     "Year": 2017,
     "Fraction": "Spring TP FWMC",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 282,
     "River": "Leamington Tributaries",
     "Year": 2018,
     "Fraction": "Spring TP FWMC",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 283,
     "River": "Leamington Tributaries",
     "Year": 2019,
     "Fraction": "Spring TP FWMC",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 284,
     "River": "Leamington Tributaries",
     "Year": 2020,
     "Fraction": "Spring TP FWMC",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 285,
     "River": "Leamington Tributaries",
     "Year": 2021,
     "Fraction": "Spring TP FWMC",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 286,
     "River": "Leamington Tributaries",
     "Year": 2022,
     "Fraction": "Spring TP FWMC",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 287,
     "River": "Leamington Tributaries",
     "Year": 2023,
     "Fraction": "Spring TP FWMC",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 288,
     "River": "Leamington Tributaries",
     "Year": 2008,
     "Fraction": "Spring SRP FWMC",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 289,
     "River": "Leamington Tributaries",
     "Year": 2009,
     "Fraction": "Spring SRP FWMC",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 290,
     "River": "Leamington Tributaries",
     "Year": 2010,
     "Fraction": "Spring SRP FWMC",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 291,
     "River": "Leamington Tributaries",
     "Year": 2011,
     "Fraction": "Spring SRP FWMC",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 292,
     "River": "Leamington Tributaries",
     "Year": 2012,
     "Fraction": "Spring SRP FWMC",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 293,
     "River": "Leamington Tributaries",
     "Year": 2013,
     "Fraction": "Spring SRP FWMC",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 294,
     "River": "Leamington Tributaries",
     "Year": 2014,
     "Fraction": "Spring SRP FWMC",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 295,
     "River": "Leamington Tributaries",
     "Year": 2015,
     "Fraction": "Spring SRP FWMC",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 296,
     "River": "Leamington Tributaries",
     "Year": 2016,
     "Fraction": "Spring SRP FWMC",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 297,
     "River": "Leamington Tributaries",
     "Year": 2017,
     "Fraction": "Spring SRP FWMC",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 298,
     "River": "Leamington Tributaries",
     "Year": 2018,
     "Fraction": "Spring SRP FWMC",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 299,
     "River": "Leamington Tributaries",
     "Year": 2019,
     "Fraction": "Spring SRP FWMC",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 300,
     "River": "Leamington Tributaries",
     "Year": 2020,
     "Fraction": "Spring SRP FWMC",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 301,
     "River": "Leamington Tributaries",
     "Year": 2021,
     "Fraction": "Spring SRP FWMC",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 302,
     "River": "Leamington Tributaries",
     "Year": 2022,
     "Fraction": "Spring SRP FWMC",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 303,
     "River": "Leamington Tributaries",
     "Year": 2023,
     "Fraction": "Spring SRP FWMC",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 304,
     "River": "Leamington Tributaries",
     "Year": 2008,
     "Fraction": "Annual TP Loading",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 305,
     "River": "Leamington Tributaries",
     "Year": 2009,
     "Fraction": "Annual TP Loading",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 306,
     "River": "Leamington Tributaries",
     "Year": 2010,
     "Fraction": "Annual TP Loading",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 307,
     "River": "Leamington Tributaries",
     "Year": 2011,
     "Fraction": "Annual TP Loading",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 308,
     "River": "Leamington Tributaries",
     "Year": 2012,
     "Fraction": "Annual TP Loading",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 309,
     "River": "Leamington Tributaries",
     "Year": 2013,
     "Fraction": "Annual TP Loading",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 310,
     "River": "Leamington Tributaries",
     "Year": 2014,
     "Fraction": "Annual TP Loading",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 311,
     "River": "Leamington Tributaries",
     "Year": 2015,
     "Fraction": "Annual TP Loading",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 312,
     "River": "Leamington Tributaries",
     "Year": 2016,
     "Fraction": "Annual TP Loading",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 313,
     "River": "Leamington Tributaries",
     "Year": 2017,
     "Fraction": "Annual TP Loading",
-    "Value": "",
-    "Source": ""
+    "Value": NaN,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 314,
     "River": "Leamington Tributaries",
     "Year": 2018,
     "Fraction": "Annual TP Loading",
-    "Value": 51.643,
-    "Source": ""
+    "Value": 52.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 315,
     "River": "Leamington Tributaries",
     "Year": 2019,
     "Fraction": "Annual TP Loading",
-    "Value": 31.387,
-    "Source": ""
+    "Value": 31.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 316,
     "River": "Leamington Tributaries",
     "Year": 2020,
     "Fraction": "Annual TP Loading",
-    "Value": 35.746,
-    "Source": ""
+    "Value": 36.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 317,
     "River": "Leamington Tributaries",
     "Year": 2021,
     "Fraction": "Annual TP Loading",
-    "Value": 48.085,
-    "Source": ""
+    "Value": 48.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 318,
     "River": "Leamington Tributaries",
     "Year": 2022,
     "Fraction": "Annual TP Loading",
-    "Value": 49.835,
-    "Source": ""
+    "Value": 50.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 319,
@@ -2557,14 +2558,14 @@
     "Year": 2023,
     "Fraction": "Annual TP Loading",
     "Value": 47.0,
-    "Source": ""
+    "Source": NaN
   },
   {
     "Unnamed: 0": 320,
     "River": "Maumee River",
     "Year": 2008,
     "Fraction": "Spring Discharge",
-    "Value": 3756.453,
+    "Value": 3756.0,
     "Source": "Greg Koltun"
   },
   {
@@ -2572,7 +2573,7 @@
     "River": "Maumee River",
     "Year": 2009,
     "Fraction": "Spring Discharge",
-    "Value": 3335.141,
+    "Value": 3335.0,
     "Source": "Greg Koltun"
   },
   {
@@ -2580,7 +2581,7 @@
     "River": "Maumee River",
     "Year": 2010,
     "Fraction": "Spring Discharge",
-    "Value": 3612.797,
+    "Value": 3613.0,
     "Source": "Greg Koltun"
   },
   {
@@ -2588,7 +2589,7 @@
     "River": "Maumee River",
     "Year": 2011,
     "Fraction": "Spring Discharge",
-    "Value": 5097.134,
+    "Value": 5097.0,
     "Source": "Greg Koltun"
   },
   {
@@ -2596,7 +2597,7 @@
     "River": "Maumee River",
     "Year": 2012,
     "Fraction": "Spring Discharge",
-    "Value": 1038.777,
+    "Value": 1039.0,
     "Source": "Greg Koltun"
   },
   {
@@ -2604,7 +2605,7 @@
     "River": "Maumee River",
     "Year": 2013,
     "Fraction": "Spring Discharge",
-    "Value": 3341.66,
+    "Value": 3342.0,
     "Source": "Greg Koltun"
   },
   {
@@ -2612,7 +2613,7 @@
     "River": "Maumee River",
     "Year": 2014,
     "Fraction": "Spring Discharge",
-    "Value": 3474.709,
+    "Value": 3475.0,
     "Source": "Greg Koltun"
   },
   {
@@ -2620,7 +2621,7 @@
     "River": "Maumee River",
     "Year": 2015,
     "Fraction": "Spring Discharge",
-    "Value": 5546.935,
+    "Value": 5547.0,
     "Source": "Greg Koltun"
   },
   {
@@ -2628,7 +2629,7 @@
     "River": "Maumee River",
     "Year": 2016,
     "Fraction": "Spring Discharge",
-    "Value": 2490.466,
+    "Value": 2490.0,
     "Source": "Greg Koltun"
   },
   {
@@ -2652,7 +2653,7 @@
     "River": "Maumee River",
     "Year": 2019,
     "Fraction": "Spring Discharge",
-    "Value": 4982.519801,
+    "Value": 4983.0,
     "Source": "Greg Koltun"
   },
   {
@@ -2660,7 +2661,7 @@
     "River": "Maumee River",
     "Year": 2020,
     "Fraction": "Spring Discharge",
-    "Value": 2796.614427,
+    "Value": 2797.0,
     "Source": "Greg Koltun"
   },
   {
@@ -2668,7 +2669,7 @@
     "River": "Maumee River",
     "Year": 2021,
     "Fraction": "Spring Discharge",
-    "Value": 2800.497142,
+    "Value": 2800.0,
     "Source": "Greg Koltun"
   },
   {
@@ -2676,23 +2677,23 @@
     "River": "Maumee River",
     "Year": 2022,
     "Fraction": "Spring Discharge",
-    "Value": 2889.7798,
-    "Source": ""
+    "Value": 2890.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 335,
     "River": "Maumee River",
     "Year": 2023,
     "Fraction": "Spring Discharge",
-    "Value": 2414.21844,
-    "Source": ""
+    "Value": 2414.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 336,
     "River": "Maumee River",
     "Year": 2008,
     "Fraction": "Spring TP Loading",
-    "Value": 1414.108,
+    "Value": 1414.0,
     "Source": "Greg Koltun"
   },
   {
@@ -2700,7 +2701,7 @@
     "River": "Maumee River",
     "Year": 2009,
     "Fraction": "Spring TP Loading",
-    "Value": 1369.739,
+    "Value": 1370.0,
     "Source": "Greg Koltun"
   },
   {
@@ -2708,7 +2709,7 @@
     "River": "Maumee River",
     "Year": 2010,
     "Fraction": "Spring TP Loading",
-    "Value": 1307.353,
+    "Value": 1307.0,
     "Source": "Greg Koltun"
   },
   {
@@ -2716,7 +2717,7 @@
     "River": "Maumee River",
     "Year": 2011,
     "Fraction": "Spring TP Loading",
-    "Value": 2317.986,
+    "Value": 2318.0,
     "Source": "Greg Koltun"
   },
   {
@@ -2724,7 +2725,7 @@
     "River": "Maumee River",
     "Year": 2012,
     "Fraction": "Spring TP Loading",
-    "Value": 393.062,
+    "Value": 393.0,
     "Source": "Greg Koltun"
   },
   {
@@ -2732,7 +2733,7 @@
     "River": "Maumee River",
     "Year": 2013,
     "Fraction": "Spring TP Loading",
-    "Value": 1249.501,
+    "Value": 1250.0,
     "Source": "Greg Koltun"
   },
   {
@@ -2740,7 +2741,7 @@
     "River": "Maumee River",
     "Year": 2014,
     "Fraction": "Spring TP Loading",
-    "Value": 1155.23,
+    "Value": 1155.0,
     "Source": "Greg Koltun"
   },
   {
@@ -2748,7 +2749,7 @@
     "River": "Maumee River",
     "Year": 2015,
     "Fraction": "Spring TP Loading",
-    "Value": 2059.641,
+    "Value": 2060.0,
     "Source": "Greg Koltun"
   },
   {
@@ -2756,7 +2757,7 @@
     "River": "Maumee River",
     "Year": 2016,
     "Fraction": "Spring TP Loading",
-    "Value": 755.293,
+    "Value": 755.0,
     "Source": "Greg Koltun"
   },
   {
@@ -2764,7 +2765,7 @@
     "River": "Maumee River",
     "Year": 2017,
     "Fraction": "Spring TP Loading",
-    "Value": 1905.338,
+    "Value": 1905.0,
     "Source": "Greg Koltun"
   },
   {
@@ -2772,7 +2773,7 @@
     "River": "Maumee River",
     "Year": 2018,
     "Fraction": "Spring TP Loading",
-    "Value": 1079.272,
+    "Value": 1079.0,
     "Source": "Greg Koltun"
   },
   {
@@ -2780,7 +2781,7 @@
     "River": "Maumee River",
     "Year": 2019,
     "Fraction": "Spring TP Loading",
-    "Value": 2041.96792,
+    "Value": 2042.0,
     "Source": "Greg Koltun"
   },
   {
@@ -2788,7 +2789,7 @@
     "River": "Maumee River",
     "Year": 2020,
     "Fraction": "Spring TP Loading",
-    "Value": 1565.393,
+    "Value": 1565.0,
     "Source": "Greg Koltun"
   },
   {
@@ -2796,7 +2797,7 @@
     "River": "Maumee River",
     "Year": 2021,
     "Fraction": "Spring TP Loading",
-    "Value": 1049.299,
+    "Value": 1049.0,
     "Source": "Greg Koltun"
   },
   {
@@ -2804,23 +2805,23 @@
     "River": "Maumee River",
     "Year": 2022,
     "Fraction": "Spring TP Loading",
-    "Value": 1024.018,
-    "Source": ""
+    "Value": 1024.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 351,
     "River": "Maumee River",
     "Year": 2023,
     "Fraction": "Spring TP Loading",
-    "Value": 1192.081,
-    "Source": ""
+    "Value": 1192.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 352,
     "River": "Maumee River",
     "Year": 2008,
     "Fraction": "Spring SRP Loading",
-    "Value": 302.251,
+    "Value": 302.0,
     "Source": "Greg Koltun"
   },
   {
@@ -2828,7 +2829,7 @@
     "River": "Maumee River",
     "Year": 2009,
     "Fraction": "Spring SRP Loading",
-    "Value": 211.178,
+    "Value": 211.0,
     "Source": "Greg Koltun"
   },
   {
@@ -2836,7 +2837,7 @@
     "River": "Maumee River",
     "Year": 2010,
     "Fraction": "Spring SRP Loading",
-    "Value": 323.788,
+    "Value": 324.0,
     "Source": "Greg Koltun"
   },
   {
@@ -2844,7 +2845,7 @@
     "River": "Maumee River",
     "Year": 2011,
     "Fraction": "Spring SRP Loading",
-    "Value": 429.997,
+    "Value": 430.0,
     "Source": "Greg Koltun"
   },
   {
@@ -2852,7 +2853,7 @@
     "River": "Maumee River",
     "Year": 2012,
     "Fraction": "Spring SRP Loading",
-    "Value": 63.751,
+    "Value": 64.0,
     "Source": "Greg Koltun"
   },
   {
@@ -2860,7 +2861,7 @@
     "River": "Maumee River",
     "Year": 2013,
     "Fraction": "Spring SRP Loading",
-    "Value": 288.911,
+    "Value": 289.0,
     "Source": "Greg Koltun"
   },
   {
@@ -2868,7 +2869,7 @@
     "River": "Maumee River",
     "Year": 2014,
     "Fraction": "Spring SRP Loading",
-    "Value": 306.475,
+    "Value": 306.0,
     "Source": "Greg Koltun"
   },
   {
@@ -2884,7 +2885,7 @@
     "River": "Maumee River",
     "Year": 2016,
     "Fraction": "Spring SRP Loading",
-    "Value": 143.979,
+    "Value": 144.0,
     "Source": "Greg Koltun"
   },
   {
@@ -2908,7 +2909,7 @@
     "River": "Maumee River",
     "Year": 2019,
     "Fraction": "Spring SRP Loading",
-    "Value": 345.4479715,
+    "Value": 345.0,
     "Source": "Greg Koltun"
   },
   {
@@ -2916,7 +2917,7 @@
     "River": "Maumee River",
     "Year": 2020,
     "Fraction": "Spring SRP Loading",
-    "Value": 216.018,
+    "Value": 216.0,
     "Source": "Greg Koltun"
   },
   {
@@ -2924,7 +2925,7 @@
     "River": "Maumee River",
     "Year": 2021,
     "Fraction": "Spring SRP Loading",
-    "Value": 244.2958413,
+    "Value": 244.0,
     "Source": "Greg Koltun"
   },
   {
@@ -2932,23 +2933,23 @@
     "River": "Maumee River",
     "Year": 2022,
     "Fraction": "Spring SRP Loading",
-    "Value": 205.545024,
-    "Source": ""
+    "Value": 206.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 367,
     "River": "Maumee River",
     "Year": 2023,
     "Fraction": "Spring SRP Loading",
-    "Value": 148.4237,
-    "Source": ""
+    "Value": 148.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 368,
     "River": "Maumee River",
     "Year": 2008,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.376447676,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -2956,7 +2957,7 @@
     "River": "Maumee River",
     "Year": 2009,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.410698978,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -2964,7 +2965,7 @@
     "River": "Maumee River",
     "Year": 2010,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.361867273,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -2972,7 +2973,7 @@
     "River": "Maumee River",
     "Year": 2011,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.454762618,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -2980,7 +2981,7 @@
     "River": "Maumee River",
     "Year": 2012,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.378389202,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -2988,7 +2989,7 @@
     "River": "Maumee River",
     "Year": 2013,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.373916257,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -2996,7 +2997,7 @@
     "River": "Maumee River",
     "Year": 2014,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.332468129,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -3004,7 +3005,7 @@
     "River": "Maumee River",
     "Year": 2015,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.371311544,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -3012,7 +3013,7 @@
     "River": "Maumee River",
     "Year": 2016,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.303273765,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -3020,7 +3021,7 @@
     "River": "Maumee River",
     "Year": 2017,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.436226242,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -3028,7 +3029,7 @@
     "River": "Maumee River",
     "Year": 2018,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.357403114,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -3036,47 +3037,47 @@
     "River": "Maumee River",
     "Year": 2019,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.409826353,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 380,
     "River": "Maumee River",
     "Year": 2020,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.4999982,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 381,
     "River": "Maumee River",
     "Year": 2021,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.374683261,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 382,
     "River": "Maumee River",
     "Year": 2022,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.354358488,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 383,
     "River": "Maumee River",
     "Year": 2023,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.49377512,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 384,
     "River": "Maumee River",
     "Year": 2008,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.080461808,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -3084,7 +3085,7 @@
     "River": "Maumee River",
     "Year": 2009,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.063319062,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -3092,7 +3093,7 @@
     "River": "Maumee River",
     "Year": 2010,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.089622528,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -3100,7 +3101,7 @@
     "River": "Maumee River",
     "Year": 2011,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.084360545,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -3108,7 +3109,7 @@
     "River": "Maumee River",
     "Year": 2012,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.061371209,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -3116,7 +3117,7 @@
     "River": "Maumee River",
     "Year": 2013,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.08645733,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -3124,7 +3125,7 @@
     "River": "Maumee River",
     "Year": 2014,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.088201631,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -3132,7 +3133,7 @@
     "River": "Maumee River",
     "Year": 2015,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.109790362,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -3140,7 +3141,7 @@
     "River": "Maumee River",
     "Year": 2016,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.057812072,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -3148,7 +3149,7 @@
     "River": "Maumee River",
     "Year": 2017,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.091367071,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -3156,7 +3157,7 @@
     "River": "Maumee River",
     "Year": 2018,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.071878105,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -3164,47 +3165,47 @@
     "River": "Maumee River",
     "Year": 2019,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.069331982,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 396,
     "River": "Maumee River",
     "Year": 2020,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.076983318,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 397,
     "River": "Maumee River",
     "Year": 2021,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.087233026,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 398,
     "River": "Maumee River",
     "Year": 2022,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.071128265,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 399,
     "River": "Maumee River",
     "Year": 2023,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.06147899,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 400,
     "River": "Maumee River",
     "Year": 2008,
     "Fraction": "Annual TP Loading",
-    "Value": 3811.955724,
+    "Value": 3812.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -3212,7 +3213,7 @@
     "River": "Maumee River",
     "Year": 2009,
     "Fraction": "Annual TP Loading",
-    "Value": 2329.139396,
+    "Value": 2329.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -3220,7 +3221,7 @@
     "River": "Maumee River",
     "Year": 2010,
     "Fraction": "Annual TP Loading",
-    "Value": 1679.450676,
+    "Value": 1679.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -3228,7 +3229,7 @@
     "River": "Maumee River",
     "Year": 2011,
     "Fraction": "Annual TP Loading",
-    "Value": 3007.383402,
+    "Value": 3007.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -3236,7 +3237,7 @@
     "River": "Maumee River",
     "Year": 2012,
     "Fraction": "Annual TP Loading",
-    "Value": 2410.655716,
+    "Value": 2411.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -3244,7 +3245,7 @@
     "River": "Maumee River",
     "Year": 2013,
     "Fraction": "Annual TP Loading",
-    "Value": 2286.61192,
+    "Value": 2287.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -3252,7 +3253,7 @@
     "River": "Maumee River",
     "Year": 2014,
     "Fraction": "Annual TP Loading",
-    "Value": 2213.459,
+    "Value": 2213.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -3260,7 +3261,7 @@
     "River": "Maumee River",
     "Year": 2015,
     "Fraction": "Annual TP Loading",
-    "Value": 2466.999,
+    "Value": 2467.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -3268,7 +3269,7 @@
     "River": "Maumee River",
     "Year": 2016,
     "Fraction": "Annual TP Loading",
-    "Value": 1309.072,
+    "Value": 1309.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -3276,7 +3277,7 @@
     "River": "Maumee River",
     "Year": 2017,
     "Fraction": "Annual TP Loading",
-    "Value": 3138.223,
+    "Value": 3138.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -3284,7 +3285,7 @@
     "River": "Maumee River",
     "Year": 2018,
     "Fraction": "Annual TP Loading",
-    "Value": 2437.032,
+    "Value": 2437.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -3292,23 +3293,23 @@
     "River": "Maumee River",
     "Year": 2019,
     "Fraction": "Annual TP Loading",
-    "Value": 3887.658,
-    "Source": ""
+    "Value": 3888.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 412,
     "River": "Maumee River",
     "Year": 2020,
     "Fraction": "Annual TP Loading",
-    "Value": 2878.451,
-    "Source": ""
+    "Value": 2878.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 413,
     "River": "Maumee River",
     "Year": 2021,
     "Fraction": "Annual TP Loading",
-    "Value": 1466.645,
+    "Value": 1467.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -3316,23 +3317,23 @@
     "River": "Maumee River",
     "Year": 2022,
     "Fraction": "Annual TP Loading",
-    "Value": 2636.799,
-    "Source": ""
+    "Value": 2637.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 415,
     "River": "Maumee River",
     "Year": 2023,
     "Fraction": "Annual TP Loading",
-    "Value": 2184.92924,
-    "Source": ""
+    "Value": 2185.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 416,
     "River": "Portage River",
     "Year": 2008,
     "Fraction": "Spring Discharge",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -3340,7 +3341,7 @@
     "River": "Portage River",
     "Year": 2009,
     "Fraction": "Spring Discharge",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -3348,7 +3349,7 @@
     "River": "Portage River",
     "Year": 2010,
     "Fraction": "Spring Discharge",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -3356,7 +3357,7 @@
     "River": "Portage River",
     "Year": 2011,
     "Fraction": "Spring Discharge",
-    "Value": 415.748,
+    "Value": 416.0,
     "Source": "Greg Koltun"
   },
   {
@@ -3364,7 +3365,7 @@
     "River": "Portage River",
     "Year": 2012,
     "Fraction": "Spring Discharge",
-    "Value": 94.363,
+    "Value": 94.0,
     "Source": "Greg Koltun"
   },
   {
@@ -3372,7 +3373,7 @@
     "River": "Portage River",
     "Year": 2013,
     "Fraction": "Spring Discharge",
-    "Value": 218.636,
+    "Value": 219.0,
     "Source": "Greg Koltun"
   },
   {
@@ -3380,7 +3381,7 @@
     "River": "Portage River",
     "Year": 2014,
     "Fraction": "Spring Discharge",
-    "Value": 186.734,
+    "Value": 187.0,
     "Source": "Greg Koltun"
   },
   {
@@ -3388,7 +3389,7 @@
     "River": "Portage River",
     "Year": 2015,
     "Fraction": "Spring Discharge",
-    "Value": 388.791,
+    "Value": 389.0,
     "Source": "Greg Koltun"
   },
   {
@@ -3396,7 +3397,7 @@
     "River": "Portage River",
     "Year": 2016,
     "Fraction": "Spring Discharge",
-    "Value": 193.596,
+    "Value": 194.0,
     "Source": "Greg Koltun"
   },
   {
@@ -3420,7 +3421,7 @@
     "River": "Portage River",
     "Year": 2019,
     "Fraction": "Spring Discharge",
-    "Value": 386.6253634,
+    "Value": 387.0,
     "Source": "Greg Koltun"
   },
   {
@@ -3428,7 +3429,7 @@
     "River": "Portage River",
     "Year": 2020,
     "Fraction": "Spring Discharge",
-    "Value": 180.8989136,
+    "Value": 181.0,
     "Source": "Greg Koltun"
   },
   {
@@ -3444,23 +3445,23 @@
     "River": "Portage River",
     "Year": 2022,
     "Fraction": "Spring Discharge",
-    "Value": 188.4769,
-    "Source": ""
+    "Value": 188.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 431,
     "River": "Portage River",
     "Year": 2023,
     "Fraction": "Spring Discharge",
-    "Value": 146.83214,
-    "Source": ""
+    "Value": 147.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 432,
     "River": "Portage River",
     "Year": 2008,
     "Fraction": "Spring TP Loading",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -3468,7 +3469,7 @@
     "River": "Portage River",
     "Year": 2009,
     "Fraction": "Spring TP Loading",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -3476,7 +3477,7 @@
     "River": "Portage River",
     "Year": 2010,
     "Fraction": "Spring TP Loading",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -3484,7 +3485,7 @@
     "River": "Portage River",
     "Year": 2011,
     "Fraction": "Spring TP Loading",
-    "Value": 171.35,
+    "Value": 171.0,
     "Source": "Greg Koltun"
   },
   {
@@ -3492,7 +3493,7 @@
     "River": "Portage River",
     "Year": 2012,
     "Fraction": "Spring TP Loading",
-    "Value": 31.969,
+    "Value": 32.0,
     "Source": "Greg Koltun"
   },
   {
@@ -3500,7 +3501,7 @@
     "River": "Portage River",
     "Year": 2013,
     "Fraction": "Spring TP Loading",
-    "Value": 71.936,
+    "Value": 72.0,
     "Source": "Greg Koltun"
   },
   {
@@ -3508,7 +3509,7 @@
     "River": "Portage River",
     "Year": 2014,
     "Fraction": "Spring TP Loading",
-    "Value": 62.743,
+    "Value": 63.0,
     "Source": "Greg Koltun"
   },
   {
@@ -3516,7 +3517,7 @@
     "River": "Portage River",
     "Year": 2015,
     "Fraction": "Spring TP Loading",
-    "Value": 111.425,
+    "Value": 111.0,
     "Source": "Greg Koltun"
   },
   {
@@ -3524,7 +3525,7 @@
     "River": "Portage River",
     "Year": 2016,
     "Fraction": "Spring TP Loading",
-    "Value": 67.414,
+    "Value": 67.0,
     "Source": "Greg Koltun"
   },
   {
@@ -3532,7 +3533,7 @@
     "River": "Portage River",
     "Year": 2017,
     "Fraction": "Spring TP Loading",
-    "Value": 115.474,
+    "Value": 115.0,
     "Source": "Greg Koltun"
   },
   {
@@ -3540,7 +3541,7 @@
     "River": "Portage River",
     "Year": 2018,
     "Fraction": "Spring TP Loading",
-    "Value": 68.662,
+    "Value": 69.0,
     "Source": "Greg Koltun"
   },
   {
@@ -3548,47 +3549,47 @@
     "River": "Portage River",
     "Year": 2019,
     "Fraction": "Spring TP Loading",
-    "Value": 146.92,
-    "Source": ""
+    "Value": 147.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 444,
     "River": "Portage River",
     "Year": 2020,
     "Fraction": "Spring TP Loading",
-    "Value": 93.064,
-    "Source": ""
+    "Value": 93.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 445,
     "River": "Portage River",
     "Year": 2021,
     "Fraction": "Spring TP Loading",
-    "Value": 70.373,
-    "Source": ""
+    "Value": 70.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 446,
     "River": "Portage River",
     "Year": 2022,
     "Fraction": "Spring TP Loading",
-    "Value": 88.252,
-    "Source": ""
+    "Value": 88.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 447,
     "River": "Portage River",
     "Year": 2023,
     "Fraction": "Spring TP Loading",
-    "Value": 76.65,
-    "Source": ""
+    "Value": 77.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 448,
     "River": "Portage River",
     "Year": 2008,
     "Fraction": "Spring SRP Loading",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -3596,7 +3597,7 @@
     "River": "Portage River",
     "Year": 2009,
     "Fraction": "Spring SRP Loading",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -3604,7 +3605,7 @@
     "River": "Portage River",
     "Year": 2010,
     "Fraction": "Spring SRP Loading",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -3612,7 +3613,7 @@
     "River": "Portage River",
     "Year": 2011,
     "Fraction": "Spring SRP Loading",
-    "Value": 32.594,
+    "Value": 33.0,
     "Source": "Greg Koltun"
   },
   {
@@ -3620,7 +3621,7 @@
     "River": "Portage River",
     "Year": 2012,
     "Fraction": "Spring SRP Loading",
-    "Value": 6.559,
+    "Value": 7.0,
     "Source": "Greg Koltun"
   },
   {
@@ -3628,7 +3629,7 @@
     "River": "Portage River",
     "Year": 2013,
     "Fraction": "Spring SRP Loading",
-    "Value": 21.861,
+    "Value": 22.0,
     "Source": "Greg Koltun"
   },
   {
@@ -3636,7 +3637,7 @@
     "River": "Portage River",
     "Year": 2014,
     "Fraction": "Spring SRP Loading",
-    "Value": 14.131,
+    "Value": 14.0,
     "Source": "Greg Koltun"
   },
   {
@@ -3644,7 +3645,7 @@
     "River": "Portage River",
     "Year": 2015,
     "Fraction": "Spring SRP Loading",
-    "Value": 40.094,
+    "Value": 40.0,
     "Source": "Greg Koltun"
   },
   {
@@ -3652,7 +3653,7 @@
     "River": "Portage River",
     "Year": 2016,
     "Fraction": "Spring SRP Loading",
-    "Value": 10.992,
+    "Value": 11.0,
     "Source": "Greg Koltun"
   },
   {
@@ -3676,47 +3677,47 @@
     "River": "Portage River",
     "Year": 2019,
     "Fraction": "Spring SRP Loading",
-    "Value": 29.44794493,
-    "Source": ""
+    "Value": 29.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 460,
     "River": "Portage River",
     "Year": 2020,
     "Fraction": "Spring SRP Loading",
-    "Value": 12.61009553,
-    "Source": ""
+    "Value": 13.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 461,
     "River": "Portage River",
     "Year": 2021,
     "Fraction": "Spring SRP Loading",
-    "Value": 21.52677993,
-    "Source": ""
+    "Value": 22.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 462,
     "River": "Portage River",
     "Year": 2022,
     "Fraction": "Spring SRP Loading",
-    "Value": 18.572749,
-    "Source": ""
+    "Value": 19.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 463,
     "River": "Portage River",
     "Year": 2023,
     "Fraction": "Spring SRP Loading",
-    "Value": 11.20302,
-    "Source": ""
+    "Value": 11.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 464,
     "River": "Portage River",
     "Year": 2008,
     "Fraction": "Spring TP FWMC",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -3724,7 +3725,7 @@
     "River": "Portage River",
     "Year": 2009,
     "Fraction": "Spring TP FWMC",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -3732,7 +3733,7 @@
     "River": "Portage River",
     "Year": 2010,
     "Fraction": "Spring TP FWMC",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -3740,7 +3741,7 @@
     "River": "Portage River",
     "Year": 2011,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.412148705,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -3748,7 +3749,7 @@
     "River": "Portage River",
     "Year": 2012,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.338787448,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -3756,7 +3757,7 @@
     "River": "Portage River",
     "Year": 2013,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.329021753,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -3764,7 +3765,7 @@
     "River": "Portage River",
     "Year": 2014,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.334347253,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -3772,7 +3773,7 @@
     "River": "Portage River",
     "Year": 2015,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.286585852,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -3780,7 +3781,7 @@
     "River": "Portage River",
     "Year": 2016,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.347724127,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -3788,7 +3789,7 @@
     "River": "Portage River",
     "Year": 2017,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.393835616,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -3796,7 +3797,7 @@
     "River": "Portage River",
     "Year": 2018,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.365079365,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -3804,47 +3805,47 @@
     "River": "Portage River",
     "Year": 2019,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.380006933,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 476,
     "River": "Portage River",
     "Year": 2020,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.514451606,
-    "Source": ""
+    "Value": 1.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 477,
     "River": "Portage River",
     "Year": 2021,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.351863899,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 478,
     "River": "Portage River",
     "Year": 2022,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.468237752,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 479,
     "River": "Portage River",
     "Year": 2023,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.52202467,
-    "Source": ""
+    "Value": 1.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 480,
     "River": "Portage River",
     "Year": 2008,
     "Fraction": "Spring SRP FWMC",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -3852,7 +3853,7 @@
     "River": "Portage River",
     "Year": 2009,
     "Fraction": "Spring SRP FWMC",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -3860,7 +3861,7 @@
     "River": "Portage River",
     "Year": 2010,
     "Fraction": "Spring SRP FWMC",
-    "Value": "",
+    "Value": NaN,
     "Source": "Greg Koltun"
   },
   {
@@ -3868,7 +3869,7 @@
     "River": "Portage River",
     "Year": 2011,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.078398453,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -3876,7 +3877,7 @@
     "River": "Portage River",
     "Year": 2012,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.069508176,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -3884,7 +3885,7 @@
     "River": "Portage River",
     "Year": 2013,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.099988108,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -3892,7 +3893,7 @@
     "River": "Portage River",
     "Year": 2014,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.075674489,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -3900,7 +3901,7 @@
     "River": "Portage River",
     "Year": 2015,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.103124815,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -3908,7 +3909,7 @@
     "River": "Portage River",
     "Year": 2016,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.056778033,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -3916,7 +3917,7 @@
     "River": "Portage River",
     "Year": 2017,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.099315068,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -3924,7 +3925,7 @@
     "River": "Portage River",
     "Year": 2018,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.079365079,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -3932,47 +3933,47 @@
     "River": "Portage River",
     "Year": 2019,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.076166614,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 492,
     "River": "Portage River",
     "Year": 2020,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.069707967,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 493,
     "River": "Portage River",
     "Year": 2021,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.1076339,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 494,
     "River": "Portage River",
     "Year": 2022,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.098541248,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 495,
     "River": "Portage River",
     "Year": 2023,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.07629815,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 496,
     "River": "Portage River",
     "Year": 2008,
     "Fraction": "Annual TP Loading",
-    "Value": 359.1242923,
+    "Value": 359.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -3980,7 +3981,7 @@
     "River": "Portage River",
     "Year": 2009,
     "Fraction": "Annual TP Loading",
-    "Value": 255.2613456,
+    "Value": 255.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -3988,7 +3989,7 @@
     "River": "Portage River",
     "Year": 2010,
     "Fraction": "Annual TP Loading",
-    "Value": 131.4347922,
+    "Value": 131.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -3996,7 +3997,7 @@
     "River": "Portage River",
     "Year": 2011,
     "Fraction": "Annual TP Loading",
-    "Value": 544.2814105,
+    "Value": 544.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -4004,7 +4005,7 @@
     "River": "Portage River",
     "Year": 2012,
     "Fraction": "Annual TP Loading",
-    "Value": 452.0606509,
+    "Value": 452.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -4012,7 +4013,7 @@
     "River": "Portage River",
     "Year": 2013,
     "Fraction": "Annual TP Loading",
-    "Value": 304.962889,
+    "Value": 305.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -4020,7 +4021,7 @@
     "River": "Portage River",
     "Year": 2014,
     "Fraction": "Annual TP Loading",
-    "Value": 234.148,
+    "Value": 234.0,
     "Source": "Santina August 2018"
   },
   {
@@ -4028,7 +4029,7 @@
     "River": "Portage River",
     "Year": 2015,
     "Fraction": "Annual TP Loading",
-    "Value": 178.357,
+    "Value": 178.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -4036,7 +4037,7 @@
     "River": "Portage River",
     "Year": 2016,
     "Fraction": "Annual TP Loading",
-    "Value": 148.953,
+    "Value": 149.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -4044,7 +4045,7 @@
     "River": "Portage River",
     "Year": 2017,
     "Fraction": "Annual TP Loading",
-    "Value": 230.458,
+    "Value": 230.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -4052,7 +4053,7 @@
     "River": "Portage River",
     "Year": 2018,
     "Fraction": "Annual TP Loading",
-    "Value": 262.623,
+    "Value": 263.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -4060,7 +4061,7 @@
     "River": "Portage River",
     "Year": 2019,
     "Fraction": "Annual TP Loading",
-    "Value": 378.677,
+    "Value": 379.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -4068,7 +4069,7 @@
     "River": "Portage River",
     "Year": 2020,
     "Fraction": "Annual TP Loading",
-    "Value": 254.138,
+    "Value": 254.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -4076,31 +4077,31 @@
     "River": "Portage River",
     "Year": 2021,
     "Fraction": "Annual TP Loading",
-    "Value": 151.181,
-    "Source": ""
+    "Value": 151.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 510,
     "River": "Portage River",
     "Year": 2022,
     "Fraction": "Annual TP Loading",
-    "Value": 268.925,
-    "Source": ""
+    "Value": 269.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 511,
     "River": "Portage River",
     "Year": 2023,
     "Fraction": "Annual TP Loading",
-    "Value": 211.84905,
-    "Source": ""
+    "Value": 212.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 512,
     "River": "River Raisin",
     "Year": 2008,
     "Fraction": "Spring Discharge",
-    "Value": 561.848,
+    "Value": 562.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4108,7 +4109,7 @@
     "River": "River Raisin",
     "Year": 2009,
     "Fraction": "Spring Discharge",
-    "Value": 574.689,
+    "Value": 575.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4116,7 +4117,7 @@
     "River": "River Raisin",
     "Year": 2010,
     "Fraction": "Spring Discharge",
-    "Value": 536.699,
+    "Value": 537.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4124,7 +4125,7 @@
     "River": "River Raisin",
     "Year": 2011,
     "Fraction": "Spring Discharge",
-    "Value": 691.091,
+    "Value": 691.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4132,7 +4133,7 @@
     "River": "River Raisin",
     "Year": 2012,
     "Fraction": "Spring Discharge",
-    "Value": 249.947,
+    "Value": 250.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4140,7 +4141,7 @@
     "River": "River Raisin",
     "Year": 2013,
     "Fraction": "Spring Discharge",
-    "Value": 444.882,
+    "Value": 445.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4148,7 +4149,7 @@
     "River": "River Raisin",
     "Year": 2014,
     "Fraction": "Spring Discharge",
-    "Value": 455.295,
+    "Value": 455.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4156,7 +4157,7 @@
     "River": "River Raisin",
     "Year": 2015,
     "Fraction": "Spring Discharge",
-    "Value": 511.217,
+    "Value": 511.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4164,7 +4165,7 @@
     "River": "River Raisin",
     "Year": 2016,
     "Fraction": "Spring Discharge",
-    "Value": 333.185,
+    "Value": 333.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4172,7 +4173,7 @@
     "River": "River Raisin",
     "Year": 2017,
     "Fraction": "Spring Discharge",
-    "Value": 498.7290618,
+    "Value": 499.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4180,7 +4181,7 @@
     "River": "River Raisin",
     "Year": 2018,
     "Fraction": "Spring Discharge",
-    "Value": 516.1398556,
+    "Value": 516.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4188,47 +4189,47 @@
     "River": "River Raisin",
     "Year": 2019,
     "Fraction": "Spring Discharge",
-    "Value": 606.6816595,
-    "Source": ""
+    "Value": 607.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 524,
     "River": "River Raisin",
     "Year": 2020,
     "Fraction": "Spring Discharge",
-    "Value": 445.7220225,
-    "Source": ""
+    "Value": 446.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 525,
     "River": "River Raisin",
     "Year": 2021,
     "Fraction": "Spring Discharge",
-    "Value": 272.7956178,
-    "Source": ""
+    "Value": 273.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 526,
     "River": "River Raisin",
     "Year": 2022,
     "Fraction": "Spring Discharge",
-    "Value": 391.8138,
-    "Source": ""
+    "Value": 392.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 527,
     "River": "River Raisin",
     "Year": 2023,
     "Fraction": "Spring Discharge",
-    "Value": 405.64937,
-    "Source": ""
+    "Value": 406.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 528,
     "River": "River Raisin",
     "Year": 2008,
     "Fraction": "Spring TP Loading",
-    "Value": 83.455,
+    "Value": 83.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4236,7 +4237,7 @@
     "River": "River Raisin",
     "Year": 2009,
     "Fraction": "Spring TP Loading",
-    "Value": 92.042,
+    "Value": 92.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4244,7 +4245,7 @@
     "River": "River Raisin",
     "Year": 2010,
     "Fraction": "Spring TP Loading",
-    "Value": 68.229,
+    "Value": 68.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4252,7 +4253,7 @@
     "River": "River Raisin",
     "Year": 2011,
     "Fraction": "Spring TP Loading",
-    "Value": 132.969,
+    "Value": 133.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4260,7 +4261,7 @@
     "River": "River Raisin",
     "Year": 2012,
     "Fraction": "Spring TP Loading",
-    "Value": 27.09,
+    "Value": 27.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4268,7 +4269,7 @@
     "River": "River Raisin",
     "Year": 2013,
     "Fraction": "Spring TP Loading",
-    "Value": 56.876,
+    "Value": 57.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4276,7 +4277,7 @@
     "River": "River Raisin",
     "Year": 2014,
     "Fraction": "Spring TP Loading",
-    "Value": 58.826,
+    "Value": 59.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4284,7 +4285,7 @@
     "River": "River Raisin",
     "Year": 2015,
     "Fraction": "Spring TP Loading",
-    "Value": 74.875,
+    "Value": 75.0,
     "Source": "Santina August 2018"
   },
   {
@@ -4292,7 +4293,7 @@
     "River": "River Raisin",
     "Year": 2016,
     "Fraction": "Spring TP Loading",
-    "Value": 40.183,
+    "Value": 40.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4300,7 +4301,7 @@
     "River": "River Raisin",
     "Year": 2017,
     "Fraction": "Spring TP Loading",
-    "Value": 115.795,
+    "Value": 116.0,
     "Source": "Santina August 2018"
   },
   {
@@ -4308,7 +4309,7 @@
     "River": "River Raisin",
     "Year": 2018,
     "Fraction": "Spring TP Loading",
-    "Value": 88.82,
+    "Value": 89.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4316,47 +4317,47 @@
     "River": "River Raisin",
     "Year": 2019,
     "Fraction": "Spring TP Loading",
-    "Value": 129.411,
-    "Source": ""
+    "Value": 129.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 540,
     "River": "River Raisin",
     "Year": 2020,
     "Fraction": "Spring TP Loading",
-    "Value": 84.628,
-    "Source": ""
+    "Value": 85.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 541,
     "River": "River Raisin",
     "Year": 2021,
     "Fraction": "Spring TP Loading",
-    "Value": 34.492,
-    "Source": ""
+    "Value": 34.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 542,
     "River": "River Raisin",
     "Year": 2022,
     "Fraction": "Spring TP Loading",
-    "Value": 52.829,
-    "Source": ""
+    "Value": 53.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 543,
     "River": "River Raisin",
     "Year": 2023,
     "Fraction": "Spring TP Loading",
-    "Value": 99.463,
-    "Source": ""
+    "Value": 99.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 544,
     "River": "River Raisin",
     "Year": 2008,
     "Fraction": "Spring SRP Loading",
-    "Value": 19.589,
+    "Value": 20.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4364,7 +4365,7 @@
     "River": "River Raisin",
     "Year": 2009,
     "Fraction": "Spring SRP Loading",
-    "Value": 16.665,
+    "Value": 17.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4372,7 +4373,7 @@
     "River": "River Raisin",
     "Year": 2010,
     "Fraction": "Spring SRP Loading",
-    "Value": 16.747,
+    "Value": 17.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4380,7 +4381,7 @@
     "River": "River Raisin",
     "Year": 2011,
     "Fraction": "Spring SRP Loading",
-    "Value": 29.432,
+    "Value": 29.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4388,7 +4389,7 @@
     "River": "River Raisin",
     "Year": 2012,
     "Fraction": "Spring SRP Loading",
-    "Value": 6.363,
+    "Value": 6.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4396,7 +4397,7 @@
     "River": "River Raisin",
     "Year": 2013,
     "Fraction": "Spring SRP Loading",
-    "Value": 14.341,
+    "Value": 14.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4404,7 +4405,7 @@
     "River": "River Raisin",
     "Year": 2014,
     "Fraction": "Spring SRP Loading",
-    "Value": 17.841,
+    "Value": 18.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4412,7 +4413,7 @@
     "River": "River Raisin",
     "Year": 2015,
     "Fraction": "Spring SRP Loading",
-    "Value": 24.142,
+    "Value": 24.0,
     "Source": "Santina August 2018"
   },
   {
@@ -4420,7 +4421,7 @@
     "River": "River Raisin",
     "Year": 2016,
     "Fraction": "Spring SRP Loading",
-    "Value": 9.142,
+    "Value": 9.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4428,7 +4429,7 @@
     "River": "River Raisin",
     "Year": 2017,
     "Fraction": "Spring SRP Loading",
-    "Value": 20.8829316,
+    "Value": 21.0,
     "Source": "Santina August 2018"
   },
   {
@@ -4436,7 +4437,7 @@
     "River": "River Raisin",
     "Year": 2018,
     "Fraction": "Spring SRP Loading",
-    "Value": 18.93866238,
+    "Value": 19.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4444,47 +4445,47 @@
     "River": "River Raisin",
     "Year": 2019,
     "Fraction": "Spring SRP Loading",
-    "Value": 24.55009922,
-    "Source": ""
+    "Value": 25.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 556,
     "River": "River Raisin",
     "Year": 2020,
     "Fraction": "Spring SRP Loading",
-    "Value": 18.68869811,
-    "Source": ""
+    "Value": 19.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 557,
     "River": "River Raisin",
     "Year": 2021,
     "Fraction": "Spring SRP Loading",
-    "Value": 8.399606471,
-    "Source": ""
+    "Value": 8.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 558,
     "River": "River Raisin",
     "Year": 2022,
     "Fraction": "Spring SRP Loading",
-    "Value": 7.814823,
-    "Source": ""
+    "Value": 8.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 559,
     "River": "River Raisin",
     "Year": 2023,
     "Fraction": "Spring SRP Loading",
-    "Value": 13.984,
-    "Source": ""
+    "Value": 14.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 560,
     "River": "River Raisin",
     "Year": 2008,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.148536615,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4492,7 +4493,7 @@
     "River": "River Raisin",
     "Year": 2009,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.160159669,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4500,7 +4501,7 @@
     "River": "River Raisin",
     "Year": 2010,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.127127123,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4508,7 +4509,7 @@
     "River": "River Raisin",
     "Year": 2011,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.192404474,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4516,7 +4517,7 @@
     "River": "River Raisin",
     "Year": 2012,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.108382977,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4524,7 +4525,7 @@
     "River": "River Raisin",
     "Year": 2013,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.127845136,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4532,7 +4533,7 @@
     "River": "River Raisin",
     "Year": 2014,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.129204142,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4540,7 +4541,7 @@
     "River": "River Raisin",
     "Year": 2015,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.146464222,
+    "Value": 0.0,
     "Source": "Santina August 2018"
   },
   {
@@ -4548,7 +4549,7 @@
     "River": "River Raisin",
     "Year": 2016,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.120602668,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4556,7 +4557,7 @@
     "River": "River Raisin",
     "Year": 2017,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.232180173,
+    "Value": 0.0,
     "Source": "Santina August 2018"
   },
   {
@@ -4564,7 +4565,7 @@
     "River": "River Raisin",
     "Year": 2018,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.172085141,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4572,47 +4573,47 @@
     "River": "River Raisin",
     "Year": 2019,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.213309564,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 572,
     "River": "River Raisin",
     "Year": 2020,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.189867217,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 573,
     "River": "River Raisin",
     "Year": 2021,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.126438981,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 574,
     "River": "River Raisin",
     "Year": 2022,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.134831902,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 575,
     "River": "River Raisin",
     "Year": 2023,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.245194514,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 576,
     "River": "River Raisin",
     "Year": 2008,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.034865302,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4620,7 +4621,7 @@
     "River": "River Raisin",
     "Year": 2009,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.028998293,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4628,7 +4629,7 @@
     "River": "River Raisin",
     "Year": 2010,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.03120371,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4636,7 +4637,7 @@
     "River": "River Raisin",
     "Year": 2011,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.042587734,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4644,7 +4645,7 @@
     "River": "River Raisin",
     "Year": 2012,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.025457397,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4652,7 +4653,7 @@
     "River": "River Raisin",
     "Year": 2013,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.032235514,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4660,7 +4661,7 @@
     "River": "River Raisin",
     "Year": 2014,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.039185583,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4668,7 +4669,7 @@
     "River": "River Raisin",
     "Year": 2015,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.047224564,
+    "Value": 0.0,
     "Source": "Santina August 2018"
   },
   {
@@ -4676,7 +4677,7 @@
     "River": "River Raisin",
     "Year": 2016,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.02743821,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4684,7 +4685,7 @@
     "River": "River Raisin",
     "Year": 2017,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.041872297,
+    "Value": 0.0,
     "Source": "Santina August 2018"
   },
   {
@@ -4692,7 +4693,7 @@
     "River": "River Raisin",
     "Year": 2018,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.036692889,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4700,47 +4701,175 @@
     "River": "River Raisin",
     "Year": 2019,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.040466196,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 588,
     "River": "River Raisin",
     "Year": 2020,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.041929044,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 589,
     "River": "River Raisin",
     "Year": 2021,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.030790841,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 590,
     "River": "River Raisin",
     "Year": 2022,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.019945247,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 591,
     "River": "River Raisin",
     "Year": 2023,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.034473121,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
+  },
+  {
+    "Unnamed: 0": 592,
+    "River": "River Raisin",
+    "Year": 2008,
+    "Fraction": "Annual TP Loading",
+    "Value": 262.0,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 593,
+    "River": "River Raisin",
+    "Year": 2009,
+    "Fraction": "Annual TP Loading",
+    "Value": 172.0,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 594,
+    "River": "River Raisin",
+    "Year": 2010,
+    "Fraction": "Annual TP Loading",
+    "Value": 161.0,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 595,
+    "River": "River Raisin",
+    "Year": 2011,
+    "Fraction": "Annual TP Loading",
+    "Value": 185.0,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 596,
+    "River": "River Raisin",
+    "Year": 2012,
+    "Fraction": "Annual TP Loading",
+    "Value": 201.0,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 597,
+    "River": "River Raisin",
+    "Year": 2013,
+    "Fraction": "Annual TP Loading",
+    "Value": 88.0,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 598,
+    "River": "River Raisin",
+    "Year": 2014,
+    "Fraction": "Annual TP Loading",
+    "Value": 95.0,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 599,
+    "River": "River Raisin",
+    "Year": 2015,
+    "Fraction": "Annual TP Loading",
+    "Value": 105.0,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 600,
+    "River": "River Raisin",
+    "Year": 2016,
+    "Fraction": "Annual TP Loading",
+    "Value": 76.0,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 601,
+    "River": "River Raisin",
+    "Year": 2017,
+    "Fraction": "Annual TP Loading",
+    "Value": 220.0,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 602,
+    "River": "River Raisin",
+    "Year": 2018,
+    "Fraction": "Annual TP Loading",
+    "Value": 184.0,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 603,
+    "River": "River Raisin",
+    "Year": 2019,
+    "Fraction": "Annual TP Loading",
+    "Value": 243.0,
+    "Source": NaN
+  },
+  {
+    "Unnamed: 0": 604,
+    "River": "River Raisin",
+    "Year": 2020,
+    "Fraction": "Annual TP Loading",
+    "Value": 242.0,
+    "Source": NaN
+  },
+  {
+    "Unnamed: 0": 605,
+    "River": "River Raisin",
+    "Year": 2021,
+    "Fraction": "Annual TP Loading",
+    "Value": 62.0,
+    "Source": NaN
+  },
+  {
+    "Unnamed: 0": 606,
+    "River": "River Raisin",
+    "Year": 2022,
+    "Fraction": "Annual TP Loading",
+    "Value": 198.0,
+    "Source": NaN
+  },
+  {
+    "Unnamed: 0": 607,
+    "River": "River Raisin",
+    "Year": 2023,
+    "Fraction": "Annual TP Loading",
+    "Value": 189.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 608,
     "River": "Sandusky River",
     "Year": 2008,
     "Fraction": "Spring Discharge",
-    "Value": 962.07,
+    "Value": 962.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4748,7 +4877,7 @@
     "River": "Sandusky River",
     "Year": 2009,
     "Fraction": "Spring Discharge",
-    "Value": 437.34,
+    "Value": 437.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4756,7 +4885,7 @@
     "River": "Sandusky River",
     "Year": 2010,
     "Fraction": "Spring Discharge",
-    "Value": 731.45,
+    "Value": 731.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4764,7 +4893,7 @@
     "River": "Sandusky River",
     "Year": 2011,
     "Fraction": "Spring Discharge",
-    "Value": 1293.68,
+    "Value": 1294.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4772,7 +4901,7 @@
     "River": "Sandusky River",
     "Year": 2012,
     "Fraction": "Spring Discharge",
-    "Value": 270.61,
+    "Value": 271.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4780,7 +4909,7 @@
     "River": "Sandusky River",
     "Year": 2013,
     "Fraction": "Spring Discharge",
-    "Value": 871.69,
+    "Value": 872.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4788,7 +4917,7 @@
     "River": "Sandusky River",
     "Year": 2014,
     "Fraction": "Spring Discharge",
-    "Value": 650.948,
+    "Value": 651.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4796,7 +4925,7 @@
     "River": "Sandusky River",
     "Year": 2015,
     "Fraction": "Spring Discharge",
-    "Value": 911.136,
+    "Value": 911.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4804,7 +4933,7 @@
     "River": "Sandusky River",
     "Year": 2016,
     "Fraction": "Spring Discharge",
-    "Value": 494.829,
+    "Value": 495.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4828,47 +4957,47 @@
     "River": "Sandusky River",
     "Year": 2019,
     "Fraction": "Spring Discharge",
-    "Value": 902.9421063,
-    "Source": ""
+    "Value": 903.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 620,
     "River": "Sandusky River",
     "Year": 2020,
     "Fraction": "Spring Discharge",
-    "Value": 549.9192276,
-    "Source": ""
+    "Value": 550.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 621,
     "River": "Sandusky River",
     "Year": 2021,
     "Fraction": "Spring Discharge",
-    "Value": 564.8311054,
-    "Source": ""
+    "Value": 565.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 622,
     "River": "Sandusky River",
     "Year": 2022,
     "Fraction": "Spring Discharge",
-    "Value": 530.5223,
-    "Source": ""
+    "Value": 531.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 623,
     "River": "Sandusky River",
     "Year": 2023,
     "Fraction": "Spring Discharge",
-    "Value": 439.5337,
-    "Source": ""
+    "Value": 440.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 624,
     "River": "Sandusky River",
     "Year": 2008,
     "Fraction": "Spring TP Loading",
-    "Value": 366.89,
+    "Value": 367.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4876,7 +5005,7 @@
     "River": "Sandusky River",
     "Year": 2009,
     "Fraction": "Spring TP Loading",
-    "Value": 201.64,
+    "Value": 202.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4884,7 +5013,7 @@
     "River": "Sandusky River",
     "Year": 2010,
     "Fraction": "Spring TP Loading",
-    "Value": 311.61,
+    "Value": 312.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4892,7 +5021,7 @@
     "River": "Sandusky River",
     "Year": 2011,
     "Fraction": "Spring TP Loading",
-    "Value": 700.79,
+    "Value": 701.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4900,7 +5029,7 @@
     "River": "Sandusky River",
     "Year": 2012,
     "Fraction": "Spring TP Loading",
-    "Value": 142.65,
+    "Value": 143.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4908,7 +5037,7 @@
     "River": "Sandusky River",
     "Year": 2013,
     "Fraction": "Spring TP Loading",
-    "Value": 364.407,
+    "Value": 364.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4916,7 +5045,7 @@
     "River": "Sandusky River",
     "Year": 2014,
     "Fraction": "Spring TP Loading",
-    "Value": 270.834,
+    "Value": 271.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4924,7 +5053,7 @@
     "River": "Sandusky River",
     "Year": 2015,
     "Fraction": "Spring TP Loading",
-    "Value": 328.833,
+    "Value": 329.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4932,7 +5061,7 @@
     "River": "Sandusky River",
     "Year": 2016,
     "Fraction": "Spring TP Loading",
-    "Value": 160.808,
+    "Value": 161.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4940,7 +5069,7 @@
     "River": "Sandusky River",
     "Year": 2017,
     "Fraction": "Spring TP Loading",
-    "Value": 349.72,
+    "Value": 350.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4948,7 +5077,7 @@
     "River": "Sandusky River",
     "Year": 2018,
     "Fraction": "Spring TP Loading",
-    "Value": 244.408,
+    "Value": 244.0,
     "Source": "Greg Koltun"
   },
   {
@@ -4956,40 +5085,40 @@
     "River": "Sandusky River",
     "Year": 2019,
     "Fraction": "Spring TP Loading",
-    "Value": 417.571,
-    "Source": ""
+    "Value": 418.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 636,
     "River": "Sandusky River",
     "Year": 2020,
     "Fraction": "Spring TP Loading",
-    "Value": 329.366,
-    "Source": ""
+    "Value": 329.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 637,
     "River": "Sandusky River",
     "Year": 2021,
     "Fraction": "Spring TP Loading",
-    "Value": 245.204,
-    "Source": ""
+    "Value": 245.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 638,
     "River": "Sandusky River",
     "Year": 2022,
     "Fraction": "Spring TP Loading",
-    "Value": 333.854,
-    "Source": ""
+    "Value": 334.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 639,
     "River": "Sandusky River",
     "Year": 2023,
     "Fraction": "Spring TP Loading",
-    "Value": 238.033,
-    "Source": ""
+    "Value": 238.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 640,
@@ -5004,7 +5133,7 @@
     "River": "Sandusky River",
     "Year": 2009,
     "Fraction": "Spring SRP Loading",
-    "Value": 29.45,
+    "Value": 29.0,
     "Source": "Greg Koltun"
   },
   {
@@ -5012,7 +5141,7 @@
     "River": "Sandusky River",
     "Year": 2010,
     "Fraction": "Spring SRP Loading",
-    "Value": 65.96,
+    "Value": 66.0,
     "Source": "Greg Koltun"
   },
   {
@@ -5020,7 +5149,7 @@
     "River": "Sandusky River",
     "Year": 2011,
     "Fraction": "Spring SRP Loading",
-    "Value": 126.73,
+    "Value": 127.0,
     "Source": "Greg Koltun"
   },
   {
@@ -5028,7 +5157,7 @@
     "River": "Sandusky River",
     "Year": 2012,
     "Fraction": "Spring SRP Loading",
-    "Value": 15.5,
+    "Value": 16.0,
     "Source": "Greg Koltun"
   },
   {
@@ -5036,7 +5165,7 @@
     "River": "Sandusky River",
     "Year": 2013,
     "Fraction": "Spring SRP Loading",
-    "Value": 87.808,
+    "Value": 88.0,
     "Source": "Greg Koltun"
   },
   {
@@ -5044,7 +5173,7 @@
     "River": "Sandusky River",
     "Year": 2014,
     "Fraction": "Spring SRP Loading",
-    "Value": 59.64,
+    "Value": 60.0,
     "Source": "Greg Koltun"
   },
   {
@@ -5052,7 +5181,7 @@
     "River": "Sandusky River",
     "Year": 2015,
     "Fraction": "Spring SRP Loading",
-    "Value": 91.9294,
+    "Value": 92.0,
     "Source": "Greg Koltun"
   },
   {
@@ -5060,7 +5189,7 @@
     "River": "Sandusky River",
     "Year": 2016,
     "Fraction": "Spring SRP Loading",
-    "Value": 30.561,
+    "Value": 31.0,
     "Source": "Greg Koltun"
   },
   {
@@ -5068,7 +5197,7 @@
     "River": "Sandusky River",
     "Year": 2017,
     "Fraction": "Spring SRP Loading",
-    "Value": 90.12379402,
+    "Value": 90.0,
     "Source": "Greg Koltun"
   },
   {
@@ -5076,7 +5205,7 @@
     "River": "Sandusky River",
     "Year": 2018,
     "Fraction": "Spring SRP Loading",
-    "Value": 49.98042811,
+    "Value": 50.0,
     "Source": "Greg Koltun"
   },
   {
@@ -5084,47 +5213,47 @@
     "River": "Sandusky River",
     "Year": 2019,
     "Fraction": "Spring SRP Loading",
-    "Value": 78.89433412,
-    "Source": ""
+    "Value": 79.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 652,
     "River": "Sandusky River",
     "Year": 2020,
     "Fraction": "Spring SRP Loading",
-    "Value": 49.8465155,
-    "Source": ""
+    "Value": 50.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 653,
     "River": "Sandusky River",
     "Year": 2021,
     "Fraction": "Spring SRP Loading",
-    "Value": 59.34404471,
-    "Source": ""
+    "Value": 59.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 654,
     "River": "Sandusky River",
     "Year": 2022,
     "Fraction": "Spring SRP Loading",
-    "Value": 45.472018,
-    "Source": ""
+    "Value": 45.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 655,
     "River": "Sandusky River",
     "Year": 2023,
     "Fraction": "Spring SRP Loading",
-    "Value": 31.66613,
-    "Source": ""
+    "Value": 32.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 656,
     "River": "Sandusky River",
     "Year": 2008,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.381354787,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -5132,7 +5261,7 @@
     "River": "Sandusky River",
     "Year": 2009,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.461060045,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -5140,7 +5269,7 @@
     "River": "Sandusky River",
     "Year": 2010,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.426016816,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -5148,7 +5277,7 @@
     "River": "Sandusky River",
     "Year": 2011,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.541702739,
+    "Value": 1.0,
     "Source": "Greg Koltun"
   },
   {
@@ -5156,7 +5285,7 @@
     "River": "Sandusky River",
     "Year": 2012,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.527142382,
+    "Value": 1.0,
     "Source": "Greg Koltun"
   },
   {
@@ -5164,7 +5293,7 @@
     "River": "Sandusky River",
     "Year": 2013,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.418046553,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -5172,7 +5301,7 @@
     "River": "Sandusky River",
     "Year": 2014,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.416060884,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -5180,7 +5309,7 @@
     "River": "Sandusky River",
     "Year": 2015,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.360904409,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -5188,7 +5317,7 @@
     "River": "Sandusky River",
     "Year": 2016,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.324976911,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -5196,7 +5325,7 @@
     "River": "Sandusky River",
     "Year": 2017,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.447784891,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -5204,7 +5333,7 @@
     "River": "Sandusky River",
     "Year": 2018,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.425797909,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -5212,7 +5341,7 @@
     "River": "Sandusky River",
     "Year": 2019,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.462456006,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -5220,7 +5349,7 @@
     "River": "Sandusky River",
     "Year": 2020,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.598935232,
+    "Value": 1.0,
     "Source": "Greg Koltun"
   },
   {
@@ -5228,31 +5357,31 @@
     "River": "Sandusky River",
     "Year": 2021,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.434119151,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 670,
     "River": "Sandusky River",
     "Year": 2022,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.629293057,
-    "Source": ""
+    "Value": 1.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 671,
     "River": "Sandusky River",
     "Year": 2023,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.541558019,
-    "Source": ""
+    "Value": 1.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 672,
     "River": "Sandusky River",
     "Year": 2008,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.071720353,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -5260,7 +5389,7 @@
     "River": "Sandusky River",
     "Year": 2009,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.067338913,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -5268,7 +5397,7 @@
     "River": "Sandusky River",
     "Year": 2010,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.090177046,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -5276,7 +5405,7 @@
     "River": "Sandusky River",
     "Year": 2011,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.097960856,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -5284,7 +5413,7 @@
     "River": "Sandusky River",
     "Year": 2012,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.057278002,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -5292,7 +5421,7 @@
     "River": "Sandusky River",
     "Year": 2013,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.100733059,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -5300,7 +5429,7 @@
     "River": "Sandusky River",
     "Year": 2014,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.091620222,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -5308,7 +5437,7 @@
     "River": "Sandusky River",
     "Year": 2015,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.100895366,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -5316,7 +5445,7 @@
     "River": "Sandusky River",
     "Year": 2016,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.061760729,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -5324,7 +5453,7 @@
     "River": "Sandusky River",
     "Year": 2017,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.115395383,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -5332,7 +5461,7 @@
     "River": "Sandusky River",
     "Year": 2018,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.087073917,
+    "Value": 0.0,
     "Source": "Greg Koltun"
   },
   {
@@ -5340,47 +5469,47 @@
     "River": "Sandusky River",
     "Year": 2019,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.087374743,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 684,
     "River": "Sandusky River",
     "Year": 2020,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.09064334,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 685,
     "River": "Sandusky River",
     "Year": 2021,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.105065114,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 686,
     "River": "Sandusky River",
     "Year": 2022,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.085711794,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 687,
     "River": "Sandusky River",
     "Year": 2023,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.072044828,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 688,
     "River": "Sandusky River",
     "Year": 2008,
     "Fraction": "Annual TP Loading",
-    "Value": 1100.984577,
+    "Value": 1101.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -5388,7 +5517,7 @@
     "River": "Sandusky River",
     "Year": 2009,
     "Fraction": "Annual TP Loading",
-    "Value": 511.2414844,
+    "Value": 511.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -5396,7 +5525,7 @@
     "River": "Sandusky River",
     "Year": 2010,
     "Fraction": "Annual TP Loading",
-    "Value": 429.0974676,
+    "Value": 429.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -5404,7 +5533,7 @@
     "River": "Sandusky River",
     "Year": 2011,
     "Fraction": "Annual TP Loading",
-    "Value": 1164.560664,
+    "Value": 1165.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -5412,7 +5541,7 @@
     "River": "Sandusky River",
     "Year": 2012,
     "Fraction": "Annual TP Loading",
-    "Value": 792.8861815,
+    "Value": 793.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -5420,7 +5549,7 @@
     "River": "Sandusky River",
     "Year": 2013,
     "Fraction": "Annual TP Loading",
-    "Value": 773.1713065,
+    "Value": 773.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -5428,7 +5557,7 @@
     "River": "Sandusky River",
     "Year": 2014,
     "Fraction": "Annual TP Loading",
-    "Value": 698.304,
+    "Value": 698.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -5436,7 +5565,7 @@
     "River": "Sandusky River",
     "Year": 2015,
     "Fraction": "Annual TP Loading",
-    "Value": 455.798,
+    "Value": 456.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -5444,7 +5573,7 @@
     "River": "Sandusky River",
     "Year": 2016,
     "Fraction": "Annual TP Loading",
-    "Value": 389.262,
+    "Value": 389.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -5452,7 +5581,7 @@
     "River": "Sandusky River",
     "Year": 2017,
     "Fraction": "Annual TP Loading",
-    "Value": 682.956,
+    "Value": 683.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -5460,7 +5589,7 @@
     "River": "Sandusky River",
     "Year": 2018,
     "Fraction": "Annual TP Loading",
-    "Value": 761.816,
+    "Value": 762.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -5468,144 +5597,144 @@
     "River": "Sandusky River",
     "Year": 2019,
     "Fraction": "Annual TP Loading",
-    "Value": 1031.247,
-    "Source": ""
+    "Value": 1031.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 700,
     "River": "Sandusky River",
     "Year": 2020,
     "Fraction": "Annual TP Loading",
-    "Value": 616.275,
-    "Source": ""
+    "Value": 616.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 701,
     "River": "Sandusky River",
     "Year": 2021,
     "Fraction": "Annual TP Loading",
-    "Value": 484.559,
-    "Source": ""
+    "Value": 485.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 702,
     "River": "Sandusky River",
     "Year": 2022,
     "Fraction": "Annual TP Loading",
-    "Value": 799.856,
-    "Source": ""
+    "Value": 800.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 703,
     "River": "Sandusky River",
     "Year": 2023,
     "Fraction": "Annual TP Loading",
-    "Value": 515.45715,
-    "Source": ""
+    "Value": 515.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 704,
     "River": "Thames River",
     "Year": 2008,
     "Fraction": "Spring Discharge",
-    "Value": 954.9946656,
-    "Source": ""
+    "Value": 955.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 705,
     "River": "Thames River",
     "Year": 2009,
     "Fraction": "Spring Discharge",
-    "Value": 1101.582374,
-    "Source": ""
+    "Value": 1102.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 706,
     "River": "Thames River",
     "Year": 2010,
     "Fraction": "Spring Discharge",
-    "Value": 691.3377216,
-    "Source": ""
+    "Value": 691.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 707,
     "River": "Thames River",
     "Year": 2011,
     "Fraction": "Spring Discharge",
-    "Value": 1542.535229,
-    "Source": ""
+    "Value": 1543.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 708,
     "River": "Thames River",
     "Year": 2012,
     "Fraction": "Spring Discharge",
-    "Value": 357.5661408,
-    "Source": ""
+    "Value": 358.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 709,
     "River": "Thames River",
     "Year": 2013,
     "Fraction": "Spring Discharge",
-    "Value": 1163.567203,
-    "Source": ""
+    "Value": 1164.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 710,
     "River": "Thames River",
     "Year": 2014,
     "Fraction": "Spring Discharge",
-    "Value": 1135.833322,
-    "Source": ""
+    "Value": 1136.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 711,
     "River": "Thames River",
     "Year": 2015,
     "Fraction": "Spring Discharge",
-    "Value": 879.275088,
-    "Source": ""
+    "Value": 879.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 712,
     "River": "Thames River",
     "Year": 2016,
     "Fraction": "Spring Discharge",
-    "Value": 844.8126336,
-    "Source": ""
+    "Value": 845.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 713,
     "River": "Thames River",
     "Year": 2017,
     "Fraction": "Spring Discharge",
-    "Value": 1016.649014,
-    "Source": ""
+    "Value": 1017.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 714,
     "River": "Thames River",
     "Year": 2018,
     "Fraction": "Spring Discharge",
-    "Value": 755.411184,
-    "Source": ""
+    "Value": 755.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 715,
     "River": "Thames River",
     "Year": 2019,
     "Fraction": "Spring Discharge",
-    "Value": 1137.34031,
-    "Source": ""
+    "Value": 1137.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 716,
     "River": "Thames River",
     "Year": 2020,
     "Fraction": "Spring Discharge",
-    "Value": 647.4367584,
-    "Source": ""
+    "Value": 647.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 717,
@@ -5613,7 +5742,7 @@
     "Year": 2021,
     "Fraction": "Spring Discharge",
     "Value": 607.0,
-    "Source": ""
+    "Source": NaN
   },
   {
     "Unnamed: 0": 718,
@@ -5621,662 +5750,662 @@
     "Year": 2022,
     "Fraction": "Spring Discharge",
     "Value": 720.0,
-    "Source": ""
+    "Source": NaN
   },
   {
     "Unnamed: 0": 719,
     "River": "Thames River",
     "Year": 2023,
     "Fraction": "Spring Discharge",
-    "Value": 1177.962912,
-    "Source": ""
+    "Value": 1178.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 720,
     "River": "Thames River",
     "Year": 2008,
     "Fraction": "Spring TP Loading",
-    "Value": 70.87,
-    "Source": ""
+    "Value": 71.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 721,
     "River": "Thames River",
     "Year": 2009,
     "Fraction": "Spring TP Loading",
-    "Value": 106.366,
-    "Source": ""
+    "Value": 106.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 722,
     "River": "Thames River",
     "Year": 2010,
     "Fraction": "Spring TP Loading",
-    "Value": 48.516,
-    "Source": ""
+    "Value": 49.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 723,
     "River": "Thames River",
     "Year": 2011,
     "Fraction": "Spring TP Loading",
-    "Value": 366.619,
-    "Source": ""
+    "Value": 367.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 724,
     "River": "Thames River",
     "Year": 2012,
     "Fraction": "Spring TP Loading",
-    "Value": 27.861,
-    "Source": ""
+    "Value": 28.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 725,
     "River": "Thames River",
     "Year": 2013,
     "Fraction": "Spring TP Loading",
-    "Value": 79.07,
-    "Source": ""
+    "Value": 79.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 726,
     "River": "Thames River",
     "Year": 2014,
     "Fraction": "Spring TP Loading",
-    "Value": 194.432,
-    "Source": ""
+    "Value": 194.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 727,
     "River": "Thames River",
     "Year": 2015,
     "Fraction": "Spring TP Loading",
-    "Value": 159.717,
-    "Source": ""
+    "Value": 160.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 728,
     "River": "Thames River",
     "Year": 2016,
     "Fraction": "Spring TP Loading",
-    "Value": 39.566,
-    "Source": ""
+    "Value": 40.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 729,
     "River": "Thames River",
     "Year": 2017,
     "Fraction": "Spring TP Loading",
-    "Value": 185.558,
-    "Source": ""
+    "Value": 186.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 730,
     "River": "Thames River",
     "Year": 2018,
     "Fraction": "Spring TP Loading",
-    "Value": 126.363,
-    "Source": ""
+    "Value": 126.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 731,
     "River": "Thames River",
     "Year": 2019,
     "Fraction": "Spring TP Loading",
-    "Value": 272.003,
-    "Source": ""
+    "Value": 272.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 732,
     "River": "Thames River",
     "Year": 2020,
     "Fraction": "Spring TP Loading",
-    "Value": 89.272,
-    "Source": ""
+    "Value": 89.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 733,
     "River": "Thames River",
     "Year": 2021,
     "Fraction": "Spring TP Loading",
-    "Value": 174.022,
-    "Source": ""
+    "Value": 174.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 734,
     "River": "Thames River",
     "Year": 2022,
     "Fraction": "Spring TP Loading",
-    "Value": 104.147,
-    "Source": ""
+    "Value": 104.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 735,
     "River": "Thames River",
     "Year": 2023,
     "Fraction": "Spring TP Loading",
-    "Value": 288.298,
-    "Source": ""
+    "Value": 288.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 736,
     "River": "Thames River",
     "Year": 2008,
     "Fraction": "Spring SRP Loading",
-    "Value": 30.554,
-    "Source": ""
+    "Value": 31.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 737,
     "River": "Thames River",
     "Year": 2009,
     "Fraction": "Spring SRP Loading",
-    "Value": 24.098,
-    "Source": ""
+    "Value": 24.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 738,
     "River": "Thames River",
     "Year": 2010,
     "Fraction": "Spring SRP Loading",
-    "Value": 5.722,
-    "Source": ""
+    "Value": 6.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 739,
     "River": "Thames River",
     "Year": 2011,
     "Fraction": "Spring SRP Loading",
-    "Value": 130.188,
-    "Source": ""
+    "Value": 130.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 740,
     "River": "Thames River",
     "Year": 2012,
     "Fraction": "Spring SRP Loading",
-    "Value": 5.34,
-    "Source": ""
+    "Value": 5.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 741,
     "River": "Thames River",
     "Year": 2013,
     "Fraction": "Spring SRP Loading",
-    "Value": 27.479,
-    "Source": ""
+    "Value": 27.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 742,
     "River": "Thames River",
     "Year": 2014,
     "Fraction": "Spring SRP Loading",
-    "Value": 66.739,
-    "Source": ""
+    "Value": 67.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 743,
     "River": "Thames River",
     "Year": 2015,
     "Fraction": "Spring SRP Loading",
-    "Value": 56.625,
-    "Source": ""
+    "Value": 57.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 744,
     "River": "Thames River",
     "Year": 2016,
     "Fraction": "Spring SRP Loading",
-    "Value": 6.962,
-    "Source": ""
+    "Value": 7.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 745,
     "River": "Thames River",
     "Year": 2017,
     "Fraction": "Spring SRP Loading",
-    "Value": 35.236,
-    "Source": ""
+    "Value": 35.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 746,
     "River": "Thames River",
     "Year": 2018,
     "Fraction": "Spring SRP Loading",
-    "Value": 26.943,
-    "Source": ""
+    "Value": 27.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 747,
     "River": "Thames River",
     "Year": 2019,
     "Fraction": "Spring SRP Loading",
-    "Value": 66.509,
-    "Source": ""
+    "Value": 67.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 748,
     "River": "Thames River",
     "Year": 2020,
     "Fraction": "Spring SRP Loading",
-    "Value": 36.123,
-    "Source": ""
+    "Value": 36.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 749,
     "River": "Thames River",
     "Year": 2021,
     "Fraction": "Spring SRP Loading",
-    "Value": 41.251,
-    "Source": ""
+    "Value": 41.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 750,
     "River": "Thames River",
     "Year": 2022,
     "Fraction": "Spring SRP Loading",
-    "Value": 22.353,
-    "Source": ""
+    "Value": 22.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 751,
     "River": "Thames River",
     "Year": 2023,
     "Fraction": "Spring SRP Loading",
-    "Value": 66.922,
-    "Source": ""
+    "Value": 67.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 752,
     "River": "Thames River",
     "Year": 2008,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.07421,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 753,
     "River": "Thames River",
     "Year": 2009,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.09656,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 754,
     "River": "Thames River",
     "Year": 2010,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.07018,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 755,
     "River": "Thames River",
     "Year": 2011,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.23767,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 756,
     "River": "Thames River",
     "Year": 2012,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.07792,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 757,
     "River": "Thames River",
     "Year": 2013,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.06795,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 758,
     "River": "Thames River",
     "Year": 2014,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.17118,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 759,
     "River": "Thames River",
     "Year": 2015,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.18165,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 760,
     "River": "Thames River",
     "Year": 2016,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.04683,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 761,
     "River": "Thames River",
     "Year": 2017,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.18252,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 762,
     "River": "Thames River",
     "Year": 2018,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.16728,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 763,
     "River": "Thames River",
     "Year": 2019,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.23916,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 764,
     "River": "Thames River",
     "Year": 2020,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.137885282,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 765,
     "River": "Thames River",
     "Year": 2021,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.286691928,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 766,
     "River": "Thames River",
     "Year": 2022,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.144648611,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 767,
     "River": "Thames River",
     "Year": 2023,
     "Fraction": "Spring TP FWMC",
-    "Value": 0.24474285,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 768,
     "River": "Thames River",
     "Year": 2008,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.01105,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 769,
     "River": "Thames River",
     "Year": 2009,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.02188,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 770,
     "River": "Thames River",
     "Year": 2010,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.00828,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 771,
     "River": "Thames River",
     "Year": 2011,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.0844,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 772,
     "River": "Thames River",
     "Year": 2012,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.01416,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 773,
     "River": "Thames River",
     "Year": 2013,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.02362,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 774,
     "River": "Thames River",
     "Year": 2014,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.05816,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 775,
     "River": "Thames River",
     "Year": 2015,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.06417,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 776,
     "River": "Thames River",
     "Year": 2016,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.00824,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 777,
     "River": "Thames River",
     "Year": 2017,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.0315,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 778,
     "River": "Thames River",
     "Year": 2018,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.03486,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 779,
     "River": "Thames River",
     "Year": 2019,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.05848,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 780,
     "River": "Thames River",
     "Year": 2020,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.055793866,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 781,
     "River": "Thames River",
     "Year": 2021,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.067950022,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 782,
     "River": "Thames River",
     "Year": 2022,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.031045833,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 783,
     "River": "Thames River",
     "Year": 2023,
     "Fraction": "Spring SRP FWMC",
-    "Value": 0.056811636,
-    "Source": ""
+    "Value": 0.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 784,
     "River": "Thames River",
     "Year": 2008,
     "Fraction": "Annual TP Loading",
-    "Value": 196.331,
-    "Source": ""
+    "Value": 196.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 785,
     "River": "Thames River",
     "Year": 2009,
     "Fraction": "Annual TP Loading",
-    "Value": 382.55001,
-    "Source": ""
+    "Value": 383.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 786,
     "River": "Thames River",
     "Year": 2010,
     "Fraction": "Annual TP Loading",
-    "Value": 99.39569,
-    "Source": ""
+    "Value": 99.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 787,
     "River": "Thames River",
     "Year": 2011,
     "Fraction": "Annual TP Loading",
-    "Value": 588.48229,
-    "Source": ""
+    "Value": 588.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 788,
     "River": "Thames River",
     "Year": 2012,
     "Fraction": "Annual TP Loading",
-    "Value": 179.82073,
-    "Source": ""
+    "Value": 180.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 789,
     "River": "Thames River",
     "Year": 2013,
     "Fraction": "Annual TP Loading",
-    "Value": 362.66898,
-    "Source": ""
+    "Value": 363.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 790,
     "River": "Thames River",
     "Year": 2014,
     "Fraction": "Annual TP Loading",
-    "Value": 552.77413,
-    "Source": ""
+    "Value": 553.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 791,
     "River": "Thames River",
     "Year": 2015,
     "Fraction": "Annual TP Loading",
-    "Value": 330.03092,
-    "Source": ""
+    "Value": 330.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 792,
     "River": "Thames River",
     "Year": 2016,
     "Fraction": "Annual TP Loading",
-    "Value": 284.65676,
-    "Source": ""
+    "Value": 285.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 793,
     "River": "Thames River",
     "Year": 2017,
     "Fraction": "Annual TP Loading",
-    "Value": 411.48179,
-    "Source": ""
+    "Value": 411.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 794,
     "River": "Thames River",
     "Year": 2018,
     "Fraction": "Annual TP Loading",
-    "Value": 590.11877,
-    "Source": ""
+    "Value": 590.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 795,
     "River": "Thames River",
     "Year": 2019,
     "Fraction": "Annual TP Loading",
-    "Value": 673.65044,
-    "Source": ""
+    "Value": 674.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 796,
     "River": "Thames River",
     "Year": 2020,
     "Fraction": "Annual TP Loading",
-    "Value": 424.11212,
-    "Source": ""
+    "Value": 424.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 797,
     "River": "Thames River",
     "Year": 2021,
     "Fraction": "Annual TP Loading",
-    "Value": 406.92405,
-    "Source": ""
+    "Value": 407.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 798,
     "River": "Thames River",
     "Year": 2022,
     "Fraction": "Annual TP Loading",
-    "Value": 474.24655,
-    "Source": ""
+    "Value": 474.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 799,
     "River": "Thames River",
     "Year": 2023,
     "Fraction": "Annual TP Loading",
-    "Value": 547.39779,
-    "Source": ""
+    "Value": 547.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 800,
     "River": "Vermilion River",
     "Year": 2008,
     "Fraction": "Annual TP Loading",
-    "Value": 202.3853079,
+    "Value": 202.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -6284,7 +6413,7 @@
     "River": "Vermilion River",
     "Year": 2009,
     "Fraction": "Annual TP Loading",
-    "Value": 20.63955906,
+    "Value": 21.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -6292,7 +6421,7 @@
     "River": "Vermilion River",
     "Year": 2010,
     "Fraction": "Annual TP Loading",
-    "Value": 46.97642878,
+    "Value": 47.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -6300,7 +6429,7 @@
     "River": "Vermilion River",
     "Year": 2011,
     "Fraction": "Annual TP Loading",
-    "Value": 141.8985733,
+    "Value": 142.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -6308,7 +6437,7 @@
     "River": "Vermilion River",
     "Year": 2012,
     "Fraction": "Annual TP Loading",
-    "Value": 113.1287337,
+    "Value": 113.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -6316,7 +6445,7 @@
     "River": "Vermilion River",
     "Year": 2013,
     "Fraction": "Annual TP Loading",
-    "Value": 215.1182105,
+    "Value": 215.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -6324,7 +6453,7 @@
     "River": "Vermilion River",
     "Year": 2014,
     "Fraction": "Annual TP Loading",
-    "Value": 139.891,
+    "Value": 140.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -6332,7 +6461,7 @@
     "River": "Vermilion River",
     "Year": 2015,
     "Fraction": "Annual TP Loading",
-    "Value": 19.285,
+    "Value": 19.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -6340,7 +6469,7 @@
     "River": "Vermilion River",
     "Year": 2016,
     "Fraction": "Annual TP Loading",
-    "Value": 92.369,
+    "Value": 92.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -6348,7 +6477,7 @@
     "River": "Vermilion River",
     "Year": 2017,
     "Fraction": "Annual TP Loading",
-    "Value": 94.179,
+    "Value": 94.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -6356,7 +6485,7 @@
     "River": "Vermilion River",
     "Year": 2018,
     "Fraction": "Annual TP Loading",
-    "Value": 53.178,
+    "Value": 53.0,
     "Source": "Santina and Maccoux"
   },
   {
@@ -6364,39 +6493,40 @@
     "River": "Vermilion River",
     "Year": 2019,
     "Fraction": "Annual TP Loading",
-    "Value": 81.883,
-    "Source": ""
+    "Value": 82.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 812,
     "River": "Vermilion River",
     "Year": 2020,
     "Fraction": "Annual TP Loading",
-    "Value": 46.57,
-    "Source": ""
+    "Value": 47.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 813,
     "River": "Vermilion River",
     "Year": 2021,
     "Fraction": "Annual TP Loading",
-    "Value": 79.798,
-    "Source": ""
+    "Value": 80.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 814,
     "River": "Vermilion River",
     "Year": 2022,
     "Fraction": "Annual TP Loading",
-    "Value": 49.321,
-    "Source": ""
+    "Value": 49.0,
+    "Source": NaN
   },
   {
     "Unnamed: 0": 815,
     "River": "Vermilion River",
     "Year": 2023,
     "Fraction": "Annual TP Loading",
-    "Value": 90.17055,
-    "Source": ""
+    "Value": 90.0,
+    "Source": NaN
   }
 ]
+
