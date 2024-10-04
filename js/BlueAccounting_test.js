@@ -140,6 +140,9 @@ function BlueAccounting(){
                 },
                 groupPadding: 0.1,
             },
+            tooltip: {
+                valueDecimals: 1,
+            },
             series: [
                 {
                     name: seriesName,
