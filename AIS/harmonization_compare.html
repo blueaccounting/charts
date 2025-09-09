@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Lake Erie Bloom Severity Index</title>
+
+    <script src="https://code.jquery.com/jquery-3.1.1.js"></script>
+
+    <script src="//code.highcharts.com/highcharts.js"></script>
+    <script src="https://code.highcharts.com/modules/exporting.js"></script>
+    <script src="https://code.highcharts.com/highcharts-more.src.js"></script> 
+    <!--<script src="js/ba_chart2.js"></script>-->
+    <script src="https://code.highcharts.com/modules/accessibility.js"></script>
+    <script src="../js/export-csv_glc.js"></script>
+    <link rel="stylesheet" href="../css/BA_Style.css">
+    <!-- Bootstrap styles -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <!-- Montserrat font -->
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,700" rel="stylesheet">
+</head>
+    
+<body>
+<!--<div id="chart-canvas">-->
+    <div id="chart" style="mr-20">
+    <!--</div>-->
+    <!--<div id="chart2" style="margin-right: 20px">-->
+    <!--</div>-->
+    <!--<div id="chart3">-->
+    <!--</div>-->
+</div>
+
+<script>
+    var chart = Highcharts.chart("chart", {
+            chart: {
+            },
+
+            title: {
+                text: 'Number of "Least Wanted" Species Regulated by Jurisdiction',
+                style: {
+                    fontFamily: '"Montserrat", sans-serif',
+                    color: "#333333",
+                    fontSize: "18px",
+                    fontWeight: "normal",
+                    fontStyle: "normal",
+                  },
+                  margin: 15,
+                  widthAdjust: -44,
+            },
+
+            subtitle: {
+
+                text: "The number of “least wanted” species that are regulated by each jurisdiction has continued to increase. The possession and sale of most of the original (2013) least wanted species are now restricted across most Great Lakes states and provinces.",
+                align: "left",
+                y: -10,
+                verticalAlign: "bottom",
+            },
+
+            exporting: {
+                enabled: true
+            },
+
+            yAxis: {
+                title: {
+                    text: '# of Least Wanted Species Regulated (Out of 21)',                    
+                },
+                plotLines: [{
+                    color: '#E07000',
+                    width: 2,
+                    value: 21
+                }]
+            },
+
+            xAxis: {
+                title: {},
+                type: "category",
+                categories: ['IL','IN','MI','MN','NY','OH','ON','PA','QC','WI']
+            },
+
+
+            
+            legend: { 
+                padding: 8, 
+                symbolHeight: 11,
+                symbolWidth: 11,
+                symbolRadius: 0,
+                itemStyle: {fontWeight: "normal"}
+            },
+
+            credits: {
+                enabled: false,
+            },
+            
+
+            plotOptions: {
+                series: { 
+                    dataLabels: { enabled: false }, 
+                    animation: false,
+                    
+                 },
+            },
+       
+            series: [{
+                name: '2008',
+                data: [4, 5, 12, 11, 4, 5, 5, 5, 8, 0],
+                type: "column",
+                color: "#0D5E87"
+            }, {
+                name: '2014',
+                data: [10, 12, 18, 16, 14, 10, 5, 5, 8, 16],
+                type: "column",
+                color: "#3f8884"
+            }, {
+                name: '2020',
+                data: [17, 15, 21, 16, 14, 17, 16, 12, 10, 19],
+                type: "column",
+                color: "#6fb182"
+            }, {
+                name: '2022',
+                data: [17, 15, 21, 16, 14, 18, 16, 12, 10, 19],
+                type: "column",
+                color: "#9FDB7F"
+
+            }],
+       
+            responsive: {
+                rules: [{
+                    condition: {
+                        maxWidth: 500
+                    },
+                    chartOptions: {
+                        legend: {
+                            layout: 'horizontal',
+                            align: 'center',
+                            verticalAlign: 'bottom'
+                        }
+                    }
+                }]
+            }
+       
+        });
+        
+</script>
+</body>
+</html>
