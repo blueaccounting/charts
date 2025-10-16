@@ -1,0 +1,6802 @@
+[
+  {
+    "Unnamed: 0": 0.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2008,
+    "Fraction": "Spring Discharge",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 1.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2009,
+    "Fraction": "Spring Discharge",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 2.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2010,
+    "Fraction": "Spring Discharge",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 3.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2011,
+    "Fraction": "Spring Discharge",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 4.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2012,
+    "Fraction": "Spring Discharge",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 5.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2013,
+    "Fraction": "Spring Discharge",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 6.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2014,
+    "Fraction": "Spring Discharge",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 7.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2015,
+    "Fraction": "Spring Discharge",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 8.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2016,
+    "Fraction": "Spring Discharge",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 9.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2017,
+    "Fraction": "Spring Discharge",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 10.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2018,
+    "Fraction": "Spring Discharge",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 11.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2019,
+    "Fraction": "Spring Discharge",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 12.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2020,
+    "Fraction": "Spring Discharge",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 13.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2021,
+    "Fraction": "Spring Discharge",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 14.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2022,
+    "Fraction": "Spring Discharge",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 15.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2023,
+    "Fraction": "Spring Discharge",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": "",
+    "River": "Cedar-Toussaint",
+    "Year": 2024,
+    "Fraction": "Spring Discharge",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 16.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2008,
+    "Fraction": "Spring TP Loading",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 17.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2009,
+    "Fraction": "Spring TP Loading",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 18.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2010,
+    "Fraction": "Spring TP Loading",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 19.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2011,
+    "Fraction": "Spring TP Loading",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 20.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2012,
+    "Fraction": "Spring TP Loading",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 21.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2013,
+    "Fraction": "Spring TP Loading",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 22.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2014,
+    "Fraction": "Spring TP Loading",
+    "Value": 50,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 23.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2015,
+    "Fraction": "Spring TP Loading",
+    "Value": 89,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 24.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2016,
+    "Fraction": "Spring TP Loading",
+    "Value": 53,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 25.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2017,
+    "Fraction": "Spring TP Loading",
+    "Value": 92,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 26.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2018,
+    "Fraction": "Spring TP Loading",
+    "Value": 54,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 27.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2019,
+    "Fraction": "Spring TP Loading",
+    "Value": 119,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 28.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2020,
+    "Fraction": "Spring TP Loading",
+    "Value": 75,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 29.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2021,
+    "Fraction": "Spring TP Loading",
+    "Value": 56,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 30.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2022,
+    "Fraction": "Spring TP Loading",
+    "Value": 71,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 31.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2023,
+    "Fraction": "Spring TP Loading",
+    "Value": 61,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": "",
+    "River": "Cedar-Toussaint",
+    "Year": 2024,
+    "Fraction": "Spring TP Loading",
+    "Value": 86,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 32.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2008,
+    "Fraction": "Spring SRP Loading",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 33.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2009,
+    "Fraction": "Spring SRP Loading",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 34.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2010,
+    "Fraction": "Spring SRP Loading",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 35.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2011,
+    "Fraction": "Spring SRP Loading",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 36.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2012,
+    "Fraction": "Spring SRP Loading",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 37.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2013,
+    "Fraction": "Spring SRP Loading",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 38.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2014,
+    "Fraction": "Spring SRP Loading",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 39.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2015,
+    "Fraction": "Spring SRP Loading",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 40.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2016,
+    "Fraction": "Spring SRP Loading",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 41.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2017,
+    "Fraction": "Spring SRP Loading",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 42.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2018,
+    "Fraction": "Spring SRP Loading",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 43.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2019,
+    "Fraction": "Spring SRP Loading",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 44.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2020,
+    "Fraction": "Spring SRP Loading",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 45.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2021,
+    "Fraction": "Spring SRP Loading",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 46.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2022,
+    "Fraction": "Spring SRP Loading",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 47.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2023,
+    "Fraction": "Spring SRP Loading",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": "",
+    "River": "Cedar-Toussaint",
+    "Year": 2024,
+    "Fraction": "Spring SRP Loading",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 48.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2008,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 49.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2009,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 50.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2010,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 51.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2011,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 52.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2012,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 53.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2013,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 54.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2014,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 55.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2015,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 56.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2016,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 57.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2017,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 58.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2018,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 59.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2019,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 60.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2020,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 61.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2021,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 62.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2022,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 63.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2023,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": "",
+    "River": "Cedar-Toussaint",
+    "Year": 2024,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 64.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2008,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 65.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2009,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 66.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2010,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 67.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2011,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 68.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2012,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 69.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2013,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 70.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2014,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 71.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2015,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 72.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2016,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 73.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2017,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 74.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2018,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 75.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2019,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 76.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2020,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 77.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2021,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 78.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2022,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 79.0,
+    "River": "Cedar-Toussaint",
+    "Year": 2023,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": "",
+    "River": "Cedar-Toussaint",
+    "Year": 2024,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 80.0,
+    "River": "Cuyahoga River",
+    "Year": 2008,
+    "Fraction": "Annual TP Loading",
+    "Value": 452,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 81.0,
+    "River": "Cuyahoga River",
+    "Year": 2009,
+    "Fraction": "Annual TP Loading",
+    "Value": 398,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 82.0,
+    "River": "Cuyahoga River",
+    "Year": 2010,
+    "Fraction": "Annual TP Loading",
+    "Value": 269,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 83.0,
+    "River": "Cuyahoga River",
+    "Year": 2011,
+    "Fraction": "Annual TP Loading",
+    "Value": 468,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 84.0,
+    "River": "Cuyahoga River",
+    "Year": 2012,
+    "Fraction": "Annual TP Loading",
+    "Value": 299,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 85.0,
+    "River": "Cuyahoga River",
+    "Year": 2013,
+    "Fraction": "Annual TP Loading",
+    "Value": 389,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 86.0,
+    "River": "Cuyahoga River",
+    "Year": 2014,
+    "Fraction": "Annual TP Loading",
+    "Value": 351,
+    "Source": "Santina August 2018"
+  },
+  {
+    "Unnamed: 0": 87.0,
+    "River": "Cuyahoga River",
+    "Year": 2015,
+    "Fraction": "Annual TP Loading",
+    "Value": 304,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 88.0,
+    "River": "Cuyahoga River",
+    "Year": 2016,
+    "Fraction": "Annual TP Loading",
+    "Value": 213,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 89.0,
+    "River": "Cuyahoga River",
+    "Year": 2017,
+    "Fraction": "Annual TP Loading",
+    "Value": 344,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 90.0,
+    "River": "Cuyahoga River",
+    "Year": 2018,
+    "Fraction": "Annual TP Loading",
+    "Value": 307,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 91.0,
+    "River": "Cuyahoga River",
+    "Year": 2019,
+    "Fraction": "Annual TP Loading",
+    "Value": 384,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 92.0,
+    "River": "Cuyahoga River",
+    "Year": 2020,
+    "Fraction": "Annual TP Loading",
+    "Value": 263,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 93.0,
+    "River": "Cuyahoga River",
+    "Year": 2021,
+    "Fraction": "Annual TP Loading",
+    "Value": 278,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 94.0,
+    "River": "Cuyahoga River",
+    "Year": 2022,
+    "Fraction": "Annual TP Loading",
+    "Value": 270,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 95.0,
+    "River": "Cuyahoga River",
+    "Year": 2023,
+    "Fraction": "Annual TP Loading",
+    "Value": 251,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": "",
+    "River": "Cuyahoga River",
+    "Year": 2024,
+    "Fraction": "Annual TP Loading",
+    "Value": 235,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 96.0,
+    "River": "Detroit River (U.S.)",
+    "Year": 2008,
+    "Fraction": "Annual TP Loading",
+    "Value": 1261,
+    "Source": "Santina August 2018"
+  },
+  {
+    "Unnamed: 0": 97.0,
+    "River": "Detroit River (U.S.)",
+    "Year": 2009,
+    "Fraction": "Annual TP Loading",
+    "Value": 1242,
+    "Source": "Santina August 2018"
+  },
+  {
+    "Unnamed: 0": 98.0,
+    "River": "Detroit River (U.S.)",
+    "Year": 2010,
+    "Fraction": "Annual TP Loading",
+    "Value": 1241,
+    "Source": "Santina August 2018"
+  },
+  {
+    "Unnamed: 0": 99.0,
+    "River": "Detroit River (U.S.)",
+    "Year": 2011,
+    "Fraction": "Annual TP Loading",
+    "Value": 1216,
+    "Source": "Santina August 2018"
+  },
+  {
+    "Unnamed: 0": 100.0,
+    "River": "Detroit River (U.S.)",
+    "Year": 2012,
+    "Fraction": "Annual TP Loading",
+    "Value": 1014,
+    "Source": "Santina August 2018"
+  },
+  {
+    "Unnamed: 0": 101.0,
+    "River": "Detroit River (U.S.)",
+    "Year": 2013,
+    "Fraction": "Annual TP Loading",
+    "Value": 958,
+    "Source": "Santina August 2018"
+  },
+  {
+    "Unnamed: 0": 102.0,
+    "River": "Detroit River (U.S.)",
+    "Year": 2014,
+    "Fraction": "Annual TP Loading",
+    "Value": 650,
+    "Source": "Santina August 2018"
+  },
+  {
+    "Unnamed: 0": 103.0,
+    "River": "Detroit River (U.S.)",
+    "Year": 2015,
+    "Fraction": "Annual TP Loading",
+    "Value": 738,
+    "Source": "Santina August 2018"
+  },
+  {
+    "Unnamed: 0": 104.0,
+    "River": "Detroit River (U.S.)",
+    "Year": 2016,
+    "Fraction": "Annual TP Loading",
+    "Value": 699,
+    "Source": "Santina August 2018"
+  },
+  {
+    "Unnamed: 0": 105.0,
+    "River": "Detroit River (U.S.)",
+    "Year": 2017,
+    "Fraction": "Annual TP Loading",
+    "Value": 792,
+    "Source": "Santina August 2018"
+  },
+  {
+    "Unnamed: 0": 106.0,
+    "River": "Detroit River (U.S.)",
+    "Year": 2018,
+    "Fraction": "Annual TP Loading",
+    "Value": 878,
+    "Source": "Santina August 2018"
+  },
+  {
+    "Unnamed: 0": 107.0,
+    "River": "Detroit River (U.S.)",
+    "Year": 2019,
+    "Fraction": "Annual TP Loading",
+    "Value": 988,
+    "Source": "Santina August 2018"
+  },
+  {
+    "Unnamed: 0": 108.0,
+    "River": "Detroit River (U.S.)",
+    "Year": 2020,
+    "Fraction": "Annual TP Loading",
+    "Value": 912,
+    "Source": "Santina August 2018"
+  },
+  {
+    "Unnamed: 0": 109.0,
+    "River": "Detroit River (U.S.)",
+    "Year": 2021,
+    "Fraction": "Annual TP Loading",
+    "Value": 671,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 110.0,
+    "River": "Detroit River (U.S.)",
+    "Year": 2022,
+    "Fraction": "Annual TP Loading",
+    "Value": 728,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 111.0,
+    "River": "Detroit River (U.S.)",
+    "Year": 2023,
+    "Fraction": "Annual TP Loading",
+    "Value": 778,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": "",
+    "River": "Detroit River (U.S.)",
+    "Year": 2024,
+    "Fraction": "Annual TP Loading",
+    "Value": 695,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 112.0,
+    "River": "Grand River-OH",
+    "Year": 2008,
+    "Fraction": "Annual TP Loading",
+    "Value": 165,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 113.0,
+    "River": "Grand River-OH",
+    "Year": 2009,
+    "Fraction": "Annual TP Loading",
+    "Value": 66,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 114.0,
+    "River": "Grand River-OH",
+    "Year": 2010,
+    "Fraction": "Annual TP Loading",
+    "Value": 55,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 115.0,
+    "River": "Grand River-OH",
+    "Year": 2011,
+    "Fraction": "Annual TP Loading",
+    "Value": 108,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 116.0,
+    "River": "Grand River-OH",
+    "Year": 2012,
+    "Fraction": "Annual TP Loading",
+    "Value": 52,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 117.0,
+    "River": "Grand River-OH",
+    "Year": 2013,
+    "Fraction": "Annual TP Loading",
+    "Value": 54,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 118.0,
+    "River": "Grand River-OH",
+    "Year": 2014,
+    "Fraction": "Annual TP Loading",
+    "Value": 36,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 119.0,
+    "River": "Grand River-OH",
+    "Year": 2015,
+    "Fraction": "Annual TP Loading",
+    "Value": 65,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 120.0,
+    "River": "Grand River-OH",
+    "Year": 2016,
+    "Fraction": "Annual TP Loading",
+    "Value": 32,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 121.0,
+    "River": "Grand River-OH",
+    "Year": 2017,
+    "Fraction": "Annual TP Loading",
+    "Value": 132,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 122.0,
+    "River": "Grand River-OH",
+    "Year": 2018,
+    "Fraction": "Annual TP Loading",
+    "Value": 243,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 123.0,
+    "River": "Grand River-OH",
+    "Year": 2019,
+    "Fraction": "Annual TP Loading",
+    "Value": 481,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 124.0,
+    "River": "Grand River-OH",
+    "Year": 2020,
+    "Fraction": "Annual TP Loading",
+    "Value": 222,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 125.0,
+    "River": "Grand River-OH",
+    "Year": 2021,
+    "Fraction": "Annual TP Loading",
+    "Value": 251,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 126.0,
+    "River": "Grand River-OH",
+    "Year": 2022,
+    "Fraction": "Annual TP Loading",
+    "Value": 141,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 127.0,
+    "River": "Grand River-OH",
+    "Year": 2023,
+    "Fraction": "Annual TP Loading",
+    "Value": 183,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": "",
+    "River": "Grand River-OH",
+    "Year": 2024,
+    "Fraction": "Annual TP Loading",
+    "Value": 94,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 128.0,
+    "River": "Huron River-OH",
+    "Year": 2008,
+    "Fraction": "Annual TP Loading",
+    "Value": 205,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 129.0,
+    "River": "Huron River-OH",
+    "Year": 2009,
+    "Fraction": "Annual TP Loading",
+    "Value": 32,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 130.0,
+    "River": "Huron River-OH",
+    "Year": 2010,
+    "Fraction": "Annual TP Loading",
+    "Value": 69,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 131.0,
+    "River": "Huron River-OH",
+    "Year": 2011,
+    "Fraction": "Annual TP Loading",
+    "Value": 70,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 132.0,
+    "River": "Huron River-OH",
+    "Year": 2012,
+    "Fraction": "Annual TP Loading",
+    "Value": 48,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 133.0,
+    "River": "Huron River-OH",
+    "Year": 2013,
+    "Fraction": "Annual TP Loading",
+    "Value": 157,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 134.0,
+    "River": "Huron River-OH",
+    "Year": 2014,
+    "Fraction": "Annual TP Loading",
+    "Value": 63,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 135.0,
+    "River": "Huron River-OH",
+    "Year": 2015,
+    "Fraction": "Annual TP Loading",
+    "Value": 20,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 136.0,
+    "River": "Huron River-OH",
+    "Year": 2016,
+    "Fraction": "Annual TP Loading",
+    "Value": 79,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 137.0,
+    "River": "Huron River-OH",
+    "Year": 2017,
+    "Fraction": "Annual TP Loading",
+    "Value": 157,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 138.0,
+    "River": "Huron River-OH",
+    "Year": 2018,
+    "Fraction": "Annual TP Loading",
+    "Value": 308,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 139.0,
+    "River": "Huron River-OH",
+    "Year": 2019,
+    "Fraction": "Annual TP Loading",
+    "Value": 378,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 140.0,
+    "River": "Huron River-OH",
+    "Year": 2020,
+    "Fraction": "Annual TP Loading",
+    "Value": 292,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 141.0,
+    "River": "Huron River-OH",
+    "Year": 2021,
+    "Fraction": "Annual TP Loading",
+    "Value": 228,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 142.0,
+    "River": "Huron River-OH",
+    "Year": 2022,
+    "Fraction": "Annual TP Loading",
+    "Value": 325,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 143.0,
+    "River": "Huron River-OH",
+    "Year": 2023,
+    "Fraction": "Annual TP Loading",
+    "Value": 203,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": "",
+    "River": "Huron River-OH",
+    "Year": 2024,
+    "Fraction": "Annual TP Loading",
+    "Value": 197,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 144.0,
+    "River": "Huron River-OH",
+    "Year": 2008,
+    "Fraction": "Spring Discharge",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 145.0,
+    "River": "Huron River-OH",
+    "Year": 2009,
+    "Fraction": "Spring Discharge",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 146.0,
+    "River": "Huron River-OH",
+    "Year": 2010,
+    "Fraction": "Spring Discharge",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 147.0,
+    "River": "Huron River-OH",
+    "Year": 2011,
+    "Fraction": "Spring Discharge",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 148.0,
+    "River": "Huron River-OH",
+    "Year": 2012,
+    "Fraction": "Spring Discharge",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 149.0,
+    "River": "Huron River-OH",
+    "Year": 2013,
+    "Fraction": "Spring Discharge",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 150.0,
+    "River": "Huron River-OH",
+    "Year": 2014,
+    "Fraction": "Spring Discharge",
+    "Value": 218,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 151.0,
+    "River": "Huron River-OH",
+    "Year": 2015,
+    "Fraction": "Spring Discharge",
+    "Value": 229,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 152.0,
+    "River": "Huron River-OH",
+    "Year": 2016,
+    "Fraction": "Spring Discharge",
+    "Value": 168,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 153.0,
+    "River": "Huron River-OH",
+    "Year": 2017,
+    "Fraction": "Spring Discharge",
+    "Value": 182,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 154.0,
+    "River": "Huron River-OH",
+    "Year": 2018,
+    "Fraction": "Spring Discharge",
+    "Value": 167,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 155.0,
+    "River": "Huron River-OH",
+    "Year": 2019,
+    "Fraction": "Spring Discharge",
+    "Value": 221,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 156.0,
+    "River": "Huron River-OH",
+    "Year": 2020,
+    "Fraction": "Spring Discharge",
+    "Value": 201,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 157.0,
+    "River": "Huron River-OH",
+    "Year": 2021,
+    "Fraction": "Spring Discharge",
+    "Value": 185,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 158.0,
+    "River": "Huron River-OH",
+    "Year": 2022,
+    "Fraction": "Spring Discharge",
+    "Value": 176,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 159.0,
+    "River": "Huron River-OH",
+    "Year": 2023,
+    "Fraction": "Spring Discharge",
+    "Value": 134,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": "",
+    "River": "Huron River-OH",
+    "Year": 2024,
+    "Fraction": "Spring Discharge",
+    "Value": 142,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 160.0,
+    "River": "Huron River-OH",
+    "Year": 2008,
+    "Fraction": "Spring TP Loading",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 161.0,
+    "River": "Huron River-OH",
+    "Year": 2009,
+    "Fraction": "Spring TP Loading",
+    "Value": 10,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 162.0,
+    "River": "Huron River-OH",
+    "Year": 2010,
+    "Fraction": "Spring TP Loading",
+    "Value": 30,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 163.0,
+    "River": "Huron River-OH",
+    "Year": 2011,
+    "Fraction": "Spring TP Loading",
+    "Value": 21,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 164.0,
+    "River": "Huron River-OH",
+    "Year": 2012,
+    "Fraction": "Spring TP Loading",
+    "Value": 3,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 165.0,
+    "River": "Huron River-OH",
+    "Year": 2013,
+    "Fraction": "Spring TP Loading",
+    "Value": 37,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 166.0,
+    "River": "Huron River-OH",
+    "Year": 2014,
+    "Fraction": "Spring TP Loading",
+    "Value": 21,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 167.0,
+    "River": "Huron River-OH",
+    "Year": 2015,
+    "Fraction": "Spring TP Loading",
+    "Value": 10,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 168.0,
+    "River": "Huron River-OH",
+    "Year": 2016,
+    "Fraction": "Spring TP Loading",
+    "Value": 26,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 169.0,
+    "River": "Huron River-OH",
+    "Year": 2017,
+    "Fraction": "Spring TP Loading",
+    "Value": 51,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 170.0,
+    "River": "Huron River-OH",
+    "Year": 2018,
+    "Fraction": "Spring TP Loading",
+    "Value": 63,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 171.0,
+    "River": "Huron River-OH",
+    "Year": 2019,
+    "Fraction": "Spring TP Loading",
+    "Value": 94,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 172.0,
+    "River": "Huron River-OH",
+    "Year": 2020,
+    "Fraction": "Spring TP Loading",
+    "Value": 135,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 173.0,
+    "River": "Huron River-OH",
+    "Year": 2021,
+    "Fraction": "Spring TP Loading",
+    "Value": 69,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 174.0,
+    "River": "Huron River-OH",
+    "Year": 2022,
+    "Fraction": "Spring TP Loading",
+    "Value": 97,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 175.0,
+    "River": "Huron River-OH",
+    "Year": 2023,
+    "Fraction": "Spring TP Loading",
+    "Value": 54,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": "",
+    "River": "Huron River-OH",
+    "Year": 2024,
+    "Fraction": "Spring TP Loading",
+    "Value": 67,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 176.0,
+    "River": "Huron River-OH",
+    "Year": 2008,
+    "Fraction": "Spring SRP Loading",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 177.0,
+    "River": "Huron River-OH",
+    "Year": 2009,
+    "Fraction": "Spring SRP Loading",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 178.0,
+    "River": "Huron River-OH",
+    "Year": 2010,
+    "Fraction": "Spring SRP Loading",
+    "Value": 8,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 179.0,
+    "River": "Huron River-OH",
+    "Year": 2011,
+    "Fraction": "Spring SRP Loading",
+    "Value": 14,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 180.0,
+    "River": "Huron River-OH",
+    "Year": 2012,
+    "Fraction": "Spring SRP Loading",
+    "Value": 1,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 181.0,
+    "River": "Huron River-OH",
+    "Year": 2013,
+    "Fraction": "Spring SRP Loading",
+    "Value": 10,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 182.0,
+    "River": "Huron River-OH",
+    "Year": 2014,
+    "Fraction": "Spring SRP Loading",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 183.0,
+    "River": "Huron River-OH",
+    "Year": 2015,
+    "Fraction": "Spring SRP Loading",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 184.0,
+    "River": "Huron River-OH",
+    "Year": 2016,
+    "Fraction": "Spring SRP Loading",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 185.0,
+    "River": "Huron River-OH",
+    "Year": 2017,
+    "Fraction": "Spring SRP Loading",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 186.0,
+    "River": "Huron River-OH",
+    "Year": 2018,
+    "Fraction": "Spring SRP Loading",
+    "Value": 7,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 187.0,
+    "River": "Huron River-OH",
+    "Year": 2019,
+    "Fraction": "Spring SRP Loading",
+    "Value": 9,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 188.0,
+    "River": "Huron River-OH",
+    "Year": 2020,
+    "Fraction": "Spring SRP Loading",
+    "Value": 8,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 189.0,
+    "River": "Huron River-OH",
+    "Year": 2021,
+    "Fraction": "Spring SRP Loading",
+    "Value": 11,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 190.0,
+    "River": "Huron River-OH",
+    "Year": 2022,
+    "Fraction": "Spring SRP Loading",
+    "Value": 9,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 191.0,
+    "River": "Huron River-OH",
+    "Year": 2023,
+    "Fraction": "Spring SRP Loading",
+    "Value": 4,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": "",
+    "River": "Huron River-OH",
+    "Year": 2024,
+    "Fraction": "Spring SRP Loading",
+    "Value": 5,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 192.0,
+    "River": "Huron River-OH",
+    "Year": 2008,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 193.0,
+    "River": "Huron River-OH",
+    "Year": 2009,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 194.0,
+    "River": "Huron River-OH",
+    "Year": 2010,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 195.0,
+    "River": "Huron River-OH",
+    "Year": 2011,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 196.0,
+    "River": "Huron River-OH",
+    "Year": 2012,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 197.0,
+    "River": "Huron River-OH",
+    "Year": 2013,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 198.0,
+    "River": "Huron River-OH",
+    "Year": 2014,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 199.0,
+    "River": "Huron River-OH",
+    "Year": 2015,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 200.0,
+    "River": "Huron River-OH",
+    "Year": 2016,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 201.0,
+    "River": "Huron River-OH",
+    "Year": 2017,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 202.0,
+    "River": "Huron River-OH",
+    "Year": 2018,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 203.0,
+    "River": "Huron River-OH",
+    "Year": 2019,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 204.0,
+    "River": "Huron River-OH",
+    "Year": 2020,
+    "Fraction": "Spring TP FWMC",
+    "Value": 1,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 205.0,
+    "River": "Huron River-OH",
+    "Year": 2021,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 206.0,
+    "River": "Huron River-OH",
+    "Year": 2022,
+    "Fraction": "Spring TP FWMC",
+    "Value": 1,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 207.0,
+    "River": "Huron River-OH",
+    "Year": 2023,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": "",
+    "River": "Huron River-OH",
+    "Year": 2024,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 208.0,
+    "River": "Huron River-OH",
+    "Year": 2008,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 209.0,
+    "River": "Huron River-OH",
+    "Year": 2009,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 210.0,
+    "River": "Huron River-OH",
+    "Year": 2010,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 211.0,
+    "River": "Huron River-OH",
+    "Year": 2011,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 212.0,
+    "River": "Huron River-OH",
+    "Year": 2012,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 213.0,
+    "River": "Huron River-OH",
+    "Year": 2013,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 214.0,
+    "River": "Huron River-OH",
+    "Year": 2014,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 215.0,
+    "River": "Huron River-OH",
+    "Year": 2015,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 216.0,
+    "River": "Huron River-OH",
+    "Year": 2016,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 217.0,
+    "River": "Huron River-OH",
+    "Year": 2017,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 218.0,
+    "River": "Huron River-OH",
+    "Year": 2018,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 219.0,
+    "River": "Huron River-OH",
+    "Year": 2019,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 220.0,
+    "River": "Huron River-OH",
+    "Year": 2020,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 221.0,
+    "River": "Huron River-OH",
+    "Year": 2021,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 222.0,
+    "River": "Huron River-OH",
+    "Year": 2022,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 223.0,
+    "River": "Huron River-OH",
+    "Year": 2023,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": "",
+    "River": "Huron River-OH",
+    "Year": 2024,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 224.0,
+    "River": "Leamington Tributaries",
+    "Year": 2008,
+    "Fraction": "Spring Discharge",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 225.0,
+    "River": "Leamington Tributaries",
+    "Year": 2009,
+    "Fraction": "Spring Discharge",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 226.0,
+    "River": "Leamington Tributaries",
+    "Year": 2010,
+    "Fraction": "Spring Discharge",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 227.0,
+    "River": "Leamington Tributaries",
+    "Year": 2011,
+    "Fraction": "Spring Discharge",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 228.0,
+    "River": "Leamington Tributaries",
+    "Year": 2012,
+    "Fraction": "Spring Discharge",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 229.0,
+    "River": "Leamington Tributaries",
+    "Year": 2013,
+    "Fraction": "Spring Discharge",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 230.0,
+    "River": "Leamington Tributaries",
+    "Year": 2014,
+    "Fraction": "Spring Discharge",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 231.0,
+    "River": "Leamington Tributaries",
+    "Year": 2015,
+    "Fraction": "Spring Discharge",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 232.0,
+    "River": "Leamington Tributaries",
+    "Year": 2016,
+    "Fraction": "Spring Discharge",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 233.0,
+    "River": "Leamington Tributaries",
+    "Year": 2017,
+    "Fraction": "Spring Discharge",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 234.0,
+    "River": "Leamington Tributaries",
+    "Year": 2018,
+    "Fraction": "Spring Discharge",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 235.0,
+    "River": "Leamington Tributaries",
+    "Year": 2019,
+    "Fraction": "Spring Discharge",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 236.0,
+    "River": "Leamington Tributaries",
+    "Year": 2020,
+    "Fraction": "Spring Discharge",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 237.0,
+    "River": "Leamington Tributaries",
+    "Year": 2021,
+    "Fraction": "Spring Discharge",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 238.0,
+    "River": "Leamington Tributaries",
+    "Year": 2022,
+    "Fraction": "Spring Discharge",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 239.0,
+    "River": "Leamington Tributaries",
+    "Year": 2023,
+    "Fraction": "Spring Discharge",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": "",
+    "River": "Leamington Tributaries",
+    "Year": 2024,
+    "Fraction": "Spring Discharge",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 240.0,
+    "River": "Leamington Tributaries",
+    "Year": 2008,
+    "Fraction": "Spring TP Loading",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 241.0,
+    "River": "Leamington Tributaries",
+    "Year": 2009,
+    "Fraction": "Spring TP Loading",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 242.0,
+    "River": "Leamington Tributaries",
+    "Year": 2010,
+    "Fraction": "Spring TP Loading",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 243.0,
+    "River": "Leamington Tributaries",
+    "Year": 2011,
+    "Fraction": "Spring TP Loading",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 244.0,
+    "River": "Leamington Tributaries",
+    "Year": 2012,
+    "Fraction": "Spring TP Loading",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 245.0,
+    "River": "Leamington Tributaries",
+    "Year": 2013,
+    "Fraction": "Spring TP Loading",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 246.0,
+    "River": "Leamington Tributaries",
+    "Year": 2014,
+    "Fraction": "Spring TP Loading",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 247.0,
+    "River": "Leamington Tributaries",
+    "Year": 2015,
+    "Fraction": "Spring TP Loading",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 248.0,
+    "River": "Leamington Tributaries",
+    "Year": 2016,
+    "Fraction": "Spring TP Loading",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 249.0,
+    "River": "Leamington Tributaries",
+    "Year": 2017,
+    "Fraction": "Spring TP Loading",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 250.0,
+    "River": "Leamington Tributaries",
+    "Year": 2018,
+    "Fraction": "Spring TP Loading",
+    "Value": 15,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 251.0,
+    "River": "Leamington Tributaries",
+    "Year": 2019,
+    "Fraction": "Spring TP Loading",
+    "Value": 8,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 252.0,
+    "River": "Leamington Tributaries",
+    "Year": 2020,
+    "Fraction": "Spring TP Loading",
+    "Value": 9,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 253.0,
+    "River": "Leamington Tributaries",
+    "Year": 2021,
+    "Fraction": "Spring TP Loading",
+    "Value": 8,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 254.0,
+    "River": "Leamington Tributaries",
+    "Year": 2022,
+    "Fraction": "Spring TP Loading",
+    "Value": 12,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 255.0,
+    "River": "Leamington Tributaries",
+    "Year": 2023,
+    "Fraction": "Spring TP Loading",
+    "Value": 12,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": "",
+    "River": "Leamington Tributaries",
+    "Year": 2024,
+    "Fraction": "Spring TP Loading",
+    "Value": 14,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 256.0,
+    "River": "Leamington Tributaries",
+    "Year": 2008,
+    "Fraction": "Spring SRP Loading",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 257.0,
+    "River": "Leamington Tributaries",
+    "Year": 2009,
+    "Fraction": "Spring SRP Loading",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 258.0,
+    "River": "Leamington Tributaries",
+    "Year": 2010,
+    "Fraction": "Spring SRP Loading",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 259.0,
+    "River": "Leamington Tributaries",
+    "Year": 2011,
+    "Fraction": "Spring SRP Loading",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 260.0,
+    "River": "Leamington Tributaries",
+    "Year": 2012,
+    "Fraction": "Spring SRP Loading",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 261.0,
+    "River": "Leamington Tributaries",
+    "Year": 2013,
+    "Fraction": "Spring SRP Loading",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 262.0,
+    "River": "Leamington Tributaries",
+    "Year": 2014,
+    "Fraction": "Spring SRP Loading",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 263.0,
+    "River": "Leamington Tributaries",
+    "Year": 2015,
+    "Fraction": "Spring SRP Loading",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 264.0,
+    "River": "Leamington Tributaries",
+    "Year": 2016,
+    "Fraction": "Spring SRP Loading",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 265.0,
+    "River": "Leamington Tributaries",
+    "Year": 2017,
+    "Fraction": "Spring SRP Loading",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 266.0,
+    "River": "Leamington Tributaries",
+    "Year": 2018,
+    "Fraction": "Spring SRP Loading",
+    "Value": 11,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 267.0,
+    "River": "Leamington Tributaries",
+    "Year": 2019,
+    "Fraction": "Spring SRP Loading",
+    "Value": 5,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 268.0,
+    "River": "Leamington Tributaries",
+    "Year": 2020,
+    "Fraction": "Spring SRP Loading",
+    "Value": 3,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 269.0,
+    "River": "Leamington Tributaries",
+    "Year": 2021,
+    "Fraction": "Spring SRP Loading",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 270.0,
+    "River": "Leamington Tributaries",
+    "Year": 2022,
+    "Fraction": "Spring SRP Loading",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 271.0,
+    "River": "Leamington Tributaries",
+    "Year": 2023,
+    "Fraction": "Spring SRP Loading",
+    "Value": 7,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": "",
+    "River": "Leamington Tributaries",
+    "Year": 2024,
+    "Fraction": "Spring SRP Loading",
+    "Value": 10,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 272.0,
+    "River": "Leamington Tributaries",
+    "Year": 2008,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 273.0,
+    "River": "Leamington Tributaries",
+    "Year": 2009,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 274.0,
+    "River": "Leamington Tributaries",
+    "Year": 2010,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 275.0,
+    "River": "Leamington Tributaries",
+    "Year": 2011,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 276.0,
+    "River": "Leamington Tributaries",
+    "Year": 2012,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 277.0,
+    "River": "Leamington Tributaries",
+    "Year": 2013,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 278.0,
+    "River": "Leamington Tributaries",
+    "Year": 2014,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 279.0,
+    "River": "Leamington Tributaries",
+    "Year": 2015,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 280.0,
+    "River": "Leamington Tributaries",
+    "Year": 2016,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 281.0,
+    "River": "Leamington Tributaries",
+    "Year": 2017,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 282.0,
+    "River": "Leamington Tributaries",
+    "Year": 2018,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 283.0,
+    "River": "Leamington Tributaries",
+    "Year": 2019,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 284.0,
+    "River": "Leamington Tributaries",
+    "Year": 2020,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 285.0,
+    "River": "Leamington Tributaries",
+    "Year": 2021,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 286.0,
+    "River": "Leamington Tributaries",
+    "Year": 2022,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 287.0,
+    "River": "Leamington Tributaries",
+    "Year": 2023,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": "",
+    "River": "Leamington Tributaries",
+    "Year": 2024,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 288.0,
+    "River": "Leamington Tributaries",
+    "Year": 2008,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 289.0,
+    "River": "Leamington Tributaries",
+    "Year": 2009,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 290.0,
+    "River": "Leamington Tributaries",
+    "Year": 2010,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 291.0,
+    "River": "Leamington Tributaries",
+    "Year": 2011,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 292.0,
+    "River": "Leamington Tributaries",
+    "Year": 2012,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 293.0,
+    "River": "Leamington Tributaries",
+    "Year": 2013,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 294.0,
+    "River": "Leamington Tributaries",
+    "Year": 2014,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 295.0,
+    "River": "Leamington Tributaries",
+    "Year": 2015,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 296.0,
+    "River": "Leamington Tributaries",
+    "Year": 2016,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 297.0,
+    "River": "Leamington Tributaries",
+    "Year": 2017,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 298.0,
+    "River": "Leamington Tributaries",
+    "Year": 2018,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 299.0,
+    "River": "Leamington Tributaries",
+    "Year": 2019,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 300.0,
+    "River": "Leamington Tributaries",
+    "Year": 2020,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 301.0,
+    "River": "Leamington Tributaries",
+    "Year": 2021,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 302.0,
+    "River": "Leamington Tributaries",
+    "Year": 2022,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 303.0,
+    "River": "Leamington Tributaries",
+    "Year": 2023,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": "",
+    "River": "Leamington Tributaries",
+    "Year": 2024,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 304.0,
+    "River": "Leamington Tributaries",
+    "Year": 2008,
+    "Fraction": "Annual TP Loading",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 305.0,
+    "River": "Leamington Tributaries",
+    "Year": 2009,
+    "Fraction": "Annual TP Loading",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 306.0,
+    "River": "Leamington Tributaries",
+    "Year": 2010,
+    "Fraction": "Annual TP Loading",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 307.0,
+    "River": "Leamington Tributaries",
+    "Year": 2011,
+    "Fraction": "Annual TP Loading",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 308.0,
+    "River": "Leamington Tributaries",
+    "Year": 2012,
+    "Fraction": "Annual TP Loading",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 309.0,
+    "River": "Leamington Tributaries",
+    "Year": 2013,
+    "Fraction": "Annual TP Loading",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 310.0,
+    "River": "Leamington Tributaries",
+    "Year": 2014,
+    "Fraction": "Annual TP Loading",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 311.0,
+    "River": "Leamington Tributaries",
+    "Year": 2015,
+    "Fraction": "Annual TP Loading",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 312.0,
+    "River": "Leamington Tributaries",
+    "Year": 2016,
+    "Fraction": "Annual TP Loading",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 313.0,
+    "River": "Leamington Tributaries",
+    "Year": 2017,
+    "Fraction": "Annual TP Loading",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 314.0,
+    "River": "Leamington Tributaries",
+    "Year": 2018,
+    "Fraction": "Annual TP Loading",
+    "Value": 52,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 315.0,
+    "River": "Leamington Tributaries",
+    "Year": 2019,
+    "Fraction": "Annual TP Loading",
+    "Value": 31,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 316.0,
+    "River": "Leamington Tributaries",
+    "Year": 2020,
+    "Fraction": "Annual TP Loading",
+    "Value": 36,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 317.0,
+    "River": "Leamington Tributaries",
+    "Year": 2021,
+    "Fraction": "Annual TP Loading",
+    "Value": 48,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 318.0,
+    "River": "Leamington Tributaries",
+    "Year": 2022,
+    "Fraction": "Annual TP Loading",
+    "Value": 50,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 319.0,
+    "River": "Leamington Tributaries",
+    "Year": 2023,
+    "Fraction": "Annual TP Loading",
+    "Value": 47,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": "",
+    "River": "Leamington Tributaries",
+    "Year": 2024,
+    "Fraction": "Annual TP Loading",
+    "Value": 62,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 320.0,
+    "River": "Maumee River",
+    "Year": 2008,
+    "Fraction": "Spring Discharge",
+    "Value": 3756,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 321.0,
+    "River": "Maumee River",
+    "Year": 2009,
+    "Fraction": "Spring Discharge",
+    "Value": 3335,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 322.0,
+    "River": "Maumee River",
+    "Year": 2010,
+    "Fraction": "Spring Discharge",
+    "Value": 3613,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 323.0,
+    "River": "Maumee River",
+    "Year": 2011,
+    "Fraction": "Spring Discharge",
+    "Value": 5097,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 324.0,
+    "River": "Maumee River",
+    "Year": 2012,
+    "Fraction": "Spring Discharge",
+    "Value": 1039,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 325.0,
+    "River": "Maumee River",
+    "Year": 2013,
+    "Fraction": "Spring Discharge",
+    "Value": 3342,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 326.0,
+    "River": "Maumee River",
+    "Year": 2014,
+    "Fraction": "Spring Discharge",
+    "Value": 3475,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 327.0,
+    "River": "Maumee River",
+    "Year": 2015,
+    "Fraction": "Spring Discharge",
+    "Value": 5547,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 328.0,
+    "River": "Maumee River",
+    "Year": 2016,
+    "Fraction": "Spring Discharge",
+    "Value": 2490,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 329.0,
+    "River": "Maumee River",
+    "Year": 2017,
+    "Fraction": "Spring Discharge",
+    "Value": 4367,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 330.0,
+    "River": "Maumee River",
+    "Year": 2018,
+    "Fraction": "Spring Discharge",
+    "Value": 3019,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 331.0,
+    "River": "Maumee River",
+    "Year": 2019,
+    "Fraction": "Spring Discharge",
+    "Value": 4983,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 332.0,
+    "River": "Maumee River",
+    "Year": 2020,
+    "Fraction": "Spring Discharge",
+    "Value": 2797,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 333.0,
+    "River": "Maumee River",
+    "Year": 2021,
+    "Fraction": "Spring Discharge",
+    "Value": 2800,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 334.0,
+    "River": "Maumee River",
+    "Year": 2022,
+    "Fraction": "Spring Discharge",
+    "Value": 2890,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 335.0,
+    "River": "Maumee River",
+    "Year": 2023,
+    "Fraction": "Spring Discharge",
+    "Value": 2414,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": "",
+    "River": "Maumee River",
+    "Year": 2024,
+    "Fraction": "Spring Discharge",
+    "Value": 2904,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 336.0,
+    "River": "Maumee River",
+    "Year": 2008,
+    "Fraction": "Spring TP Loading",
+    "Value": 1414,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 337.0,
+    "River": "Maumee River",
+    "Year": 2009,
+    "Fraction": "Spring TP Loading",
+    "Value": 1370,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 338.0,
+    "River": "Maumee River",
+    "Year": 2010,
+    "Fraction": "Spring TP Loading",
+    "Value": 1307,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 339.0,
+    "River": "Maumee River",
+    "Year": 2011,
+    "Fraction": "Spring TP Loading",
+    "Value": 2318,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 340.0,
+    "River": "Maumee River",
+    "Year": 2012,
+    "Fraction": "Spring TP Loading",
+    "Value": 393,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 341.0,
+    "River": "Maumee River",
+    "Year": 2013,
+    "Fraction": "Spring TP Loading",
+    "Value": 1250,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 342.0,
+    "River": "Maumee River",
+    "Year": 2014,
+    "Fraction": "Spring TP Loading",
+    "Value": 1155,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 343.0,
+    "River": "Maumee River",
+    "Year": 2015,
+    "Fraction": "Spring TP Loading",
+    "Value": 2060,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 344.0,
+    "River": "Maumee River",
+    "Year": 2016,
+    "Fraction": "Spring TP Loading",
+    "Value": 755,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 345.0,
+    "River": "Maumee River",
+    "Year": 2017,
+    "Fraction": "Spring TP Loading",
+    "Value": 1905,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 346.0,
+    "River": "Maumee River",
+    "Year": 2018,
+    "Fraction": "Spring TP Loading",
+    "Value": 1079,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 347.0,
+    "River": "Maumee River",
+    "Year": 2019,
+    "Fraction": "Spring TP Loading",
+    "Value": 2042,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 348.0,
+    "River": "Maumee River",
+    "Year": 2020,
+    "Fraction": "Spring TP Loading",
+    "Value": 1565,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 349.0,
+    "River": "Maumee River",
+    "Year": 2021,
+    "Fraction": "Spring TP Loading",
+    "Value": 1049,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 350.0,
+    "River": "Maumee River",
+    "Year": 2022,
+    "Fraction": "Spring TP Loading",
+    "Value": 1024,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 351.0,
+    "River": "Maumee River",
+    "Year": 2023,
+    "Fraction": "Spring TP Loading",
+    "Value": 1192,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": "",
+    "River": "Maumee River",
+    "Year": 2024,
+    "Fraction": "Spring TP Loading",
+    "Value": 1301,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 352.0,
+    "River": "Maumee River",
+    "Year": 2008,
+    "Fraction": "Spring SRP Loading",
+    "Value": 302,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 353.0,
+    "River": "Maumee River",
+    "Year": 2009,
+    "Fraction": "Spring SRP Loading",
+    "Value": 211,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 354.0,
+    "River": "Maumee River",
+    "Year": 2010,
+    "Fraction": "Spring SRP Loading",
+    "Value": 324,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 355.0,
+    "River": "Maumee River",
+    "Year": 2011,
+    "Fraction": "Spring SRP Loading",
+    "Value": 430,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 356.0,
+    "River": "Maumee River",
+    "Year": 2012,
+    "Fraction": "Spring SRP Loading",
+    "Value": 64,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 357.0,
+    "River": "Maumee River",
+    "Year": 2013,
+    "Fraction": "Spring SRP Loading",
+    "Value": 289,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 358.0,
+    "River": "Maumee River",
+    "Year": 2014,
+    "Fraction": "Spring SRP Loading",
+    "Value": 306,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 359.0,
+    "River": "Maumee River",
+    "Year": 2015,
+    "Fraction": "Spring SRP Loading",
+    "Value": 609,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 360.0,
+    "River": "Maumee River",
+    "Year": 2016,
+    "Fraction": "Spring SRP Loading",
+    "Value": 144,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 361.0,
+    "River": "Maumee River",
+    "Year": 2017,
+    "Fraction": "Spring SRP Loading",
+    "Value": 399,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 362.0,
+    "River": "Maumee River",
+    "Year": 2018,
+    "Fraction": "Spring SRP Loading",
+    "Value": 217,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 363.0,
+    "River": "Maumee River",
+    "Year": 2019,
+    "Fraction": "Spring SRP Loading",
+    "Value": 345,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 364.0,
+    "River": "Maumee River",
+    "Year": 2020,
+    "Fraction": "Spring SRP Loading",
+    "Value": 216,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 365.0,
+    "River": "Maumee River",
+    "Year": 2021,
+    "Fraction": "Spring SRP Loading",
+    "Value": 244,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 366.0,
+    "River": "Maumee River",
+    "Year": 2022,
+    "Fraction": "Spring SRP Loading",
+    "Value": 206,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 367.0,
+    "River": "Maumee River",
+    "Year": 2023,
+    "Fraction": "Spring SRP Loading",
+    "Value": 148,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": "",
+    "River": "Maumee River",
+    "Year": 2024,
+    "Fraction": "Spring SRP Loading",
+    "Value": 207,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 368.0,
+    "River": "Maumee River",
+    "Year": 2008,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 369.0,
+    "River": "Maumee River",
+    "Year": 2009,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 370.0,
+    "River": "Maumee River",
+    "Year": 2010,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 371.0,
+    "River": "Maumee River",
+    "Year": 2011,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 372.0,
+    "River": "Maumee River",
+    "Year": 2012,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 373.0,
+    "River": "Maumee River",
+    "Year": 2013,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 374.0,
+    "River": "Maumee River",
+    "Year": 2014,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 375.0,
+    "River": "Maumee River",
+    "Year": 2015,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 376.0,
+    "River": "Maumee River",
+    "Year": 2016,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 377.0,
+    "River": "Maumee River",
+    "Year": 2017,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 378.0,
+    "River": "Maumee River",
+    "Year": 2018,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 379.0,
+    "River": "Maumee River",
+    "Year": 2019,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 380.0,
+    "River": "Maumee River",
+    "Year": 2020,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 381.0,
+    "River": "Maumee River",
+    "Year": 2021,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 382.0,
+    "River": "Maumee River",
+    "Year": 2022,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 383.0,
+    "River": "Maumee River",
+    "Year": 2023,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": "",
+    "River": "Maumee River",
+    "Year": 2024,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 384.0,
+    "River": "Maumee River",
+    "Year": 2008,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 385.0,
+    "River": "Maumee River",
+    "Year": 2009,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 386.0,
+    "River": "Maumee River",
+    "Year": 2010,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 387.0,
+    "River": "Maumee River",
+    "Year": 2011,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 388.0,
+    "River": "Maumee River",
+    "Year": 2012,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 389.0,
+    "River": "Maumee River",
+    "Year": 2013,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 390.0,
+    "River": "Maumee River",
+    "Year": 2014,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 391.0,
+    "River": "Maumee River",
+    "Year": 2015,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 392.0,
+    "River": "Maumee River",
+    "Year": 2016,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 393.0,
+    "River": "Maumee River",
+    "Year": 2017,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 394.0,
+    "River": "Maumee River",
+    "Year": 2018,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 395.0,
+    "River": "Maumee River",
+    "Year": 2019,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 396.0,
+    "River": "Maumee River",
+    "Year": 2020,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 397.0,
+    "River": "Maumee River",
+    "Year": 2021,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 398.0,
+    "River": "Maumee River",
+    "Year": 2022,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 399.0,
+    "River": "Maumee River",
+    "Year": 2023,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": "",
+    "River": "Maumee River",
+    "Year": 2024,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 400.0,
+    "River": "Maumee River",
+    "Year": 2008,
+    "Fraction": "Annual TP Loading",
+    "Value": 3812,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 401.0,
+    "River": "Maumee River",
+    "Year": 2009,
+    "Fraction": "Annual TP Loading",
+    "Value": 2329,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 402.0,
+    "River": "Maumee River",
+    "Year": 2010,
+    "Fraction": "Annual TP Loading",
+    "Value": 1679,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 403.0,
+    "River": "Maumee River",
+    "Year": 2011,
+    "Fraction": "Annual TP Loading",
+    "Value": 3007,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 404.0,
+    "River": "Maumee River",
+    "Year": 2012,
+    "Fraction": "Annual TP Loading",
+    "Value": 2411,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 405.0,
+    "River": "Maumee River",
+    "Year": 2013,
+    "Fraction": "Annual TP Loading",
+    "Value": 2287,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 406.0,
+    "River": "Maumee River",
+    "Year": 2014,
+    "Fraction": "Annual TP Loading",
+    "Value": 2213,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 407.0,
+    "River": "Maumee River",
+    "Year": 2015,
+    "Fraction": "Annual TP Loading",
+    "Value": 2467,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 408.0,
+    "River": "Maumee River",
+    "Year": 2016,
+    "Fraction": "Annual TP Loading",
+    "Value": 1309,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 409.0,
+    "River": "Maumee River",
+    "Year": 2017,
+    "Fraction": "Annual TP Loading",
+    "Value": 3138,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 410.0,
+    "River": "Maumee River",
+    "Year": 2018,
+    "Fraction": "Annual TP Loading",
+    "Value": 2437,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 411.0,
+    "River": "Maumee River",
+    "Year": 2019,
+    "Fraction": "Annual TP Loading",
+    "Value": 3888,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 412.0,
+    "River": "Maumee River",
+    "Year": 2020,
+    "Fraction": "Annual TP Loading",
+    "Value": 2878,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 413.0,
+    "River": "Maumee River",
+    "Year": 2021,
+    "Fraction": "Annual TP Loading",
+    "Value": 1467,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 414.0,
+    "River": "Maumee River",
+    "Year": 2022,
+    "Fraction": "Annual TP Loading",
+    "Value": 2637,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 415.0,
+    "River": "Maumee River",
+    "Year": 2023,
+    "Fraction": "Annual TP Loading",
+    "Value": 2185,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": "",
+    "River": "Maumee River",
+    "Year": 2024,
+    "Fraction": "Annual TP Loading",
+    "Value": 1808,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 416.0,
+    "River": "Portage River",
+    "Year": 2008,
+    "Fraction": "Spring Discharge",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 417.0,
+    "River": "Portage River",
+    "Year": 2009,
+    "Fraction": "Spring Discharge",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 418.0,
+    "River": "Portage River",
+    "Year": 2010,
+    "Fraction": "Spring Discharge",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 419.0,
+    "River": "Portage River",
+    "Year": 2011,
+    "Fraction": "Spring Discharge",
+    "Value": 416,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 420.0,
+    "River": "Portage River",
+    "Year": 2012,
+    "Fraction": "Spring Discharge",
+    "Value": 94,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 421.0,
+    "River": "Portage River",
+    "Year": 2013,
+    "Fraction": "Spring Discharge",
+    "Value": 219,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 422.0,
+    "River": "Portage River",
+    "Year": 2014,
+    "Fraction": "Spring Discharge",
+    "Value": 187,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 423.0,
+    "River": "Portage River",
+    "Year": 2015,
+    "Fraction": "Spring Discharge",
+    "Value": 389,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 424.0,
+    "River": "Portage River",
+    "Year": 2016,
+    "Fraction": "Spring Discharge",
+    "Value": 194,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 425.0,
+    "River": "Portage River",
+    "Year": 2017,
+    "Fraction": "Spring Discharge",
+    "Value": 292,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 426.0,
+    "River": "Portage River",
+    "Year": 2018,
+    "Fraction": "Spring Discharge",
+    "Value": 189,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 427.0,
+    "River": "Portage River",
+    "Year": 2019,
+    "Fraction": "Spring Discharge",
+    "Value": 387,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 428.0,
+    "River": "Portage River",
+    "Year": 2020,
+    "Fraction": "Spring Discharge",
+    "Value": 181,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 429.0,
+    "River": "Portage River",
+    "Year": 2021,
+    "Fraction": "Spring Discharge",
+    "Value": 200,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 430.0,
+    "River": "Portage River",
+    "Year": 2022,
+    "Fraction": "Spring Discharge",
+    "Value": 188,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 431.0,
+    "River": "Portage River",
+    "Year": 2023,
+    "Fraction": "Spring Discharge",
+    "Value": 147,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": "",
+    "River": "Portage River",
+    "Year": 2024,
+    "Fraction": "Spring Discharge",
+    "Value": 207,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 432.0,
+    "River": "Portage River",
+    "Year": 2008,
+    "Fraction": "Spring TP Loading",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 433.0,
+    "River": "Portage River",
+    "Year": 2009,
+    "Fraction": "Spring TP Loading",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 434.0,
+    "River": "Portage River",
+    "Year": 2010,
+    "Fraction": "Spring TP Loading",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 435.0,
+    "River": "Portage River",
+    "Year": 2011,
+    "Fraction": "Spring TP Loading",
+    "Value": 171,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 436.0,
+    "River": "Portage River",
+    "Year": 2012,
+    "Fraction": "Spring TP Loading",
+    "Value": 32,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 437.0,
+    "River": "Portage River",
+    "Year": 2013,
+    "Fraction": "Spring TP Loading",
+    "Value": 72,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 438.0,
+    "River": "Portage River",
+    "Year": 2014,
+    "Fraction": "Spring TP Loading",
+    "Value": 63,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 439.0,
+    "River": "Portage River",
+    "Year": 2015,
+    "Fraction": "Spring TP Loading",
+    "Value": 111,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 440.0,
+    "River": "Portage River",
+    "Year": 2016,
+    "Fraction": "Spring TP Loading",
+    "Value": 67,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 441.0,
+    "River": "Portage River",
+    "Year": 2017,
+    "Fraction": "Spring TP Loading",
+    "Value": 115,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 442.0,
+    "River": "Portage River",
+    "Year": 2018,
+    "Fraction": "Spring TP Loading",
+    "Value": 69,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 443.0,
+    "River": "Portage River",
+    "Year": 2019,
+    "Fraction": "Spring TP Loading",
+    "Value": 147,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 444.0,
+    "River": "Portage River",
+    "Year": 2020,
+    "Fraction": "Spring TP Loading",
+    "Value": 93,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 445.0,
+    "River": "Portage River",
+    "Year": 2021,
+    "Fraction": "Spring TP Loading",
+    "Value": 70,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 446.0,
+    "River": "Portage River",
+    "Year": 2022,
+    "Fraction": "Spring TP Loading",
+    "Value": 88,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 447.0,
+    "River": "Portage River",
+    "Year": 2023,
+    "Fraction": "Spring TP Loading",
+    "Value": 77,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": "",
+    "River": "Portage River",
+    "Year": 2024,
+    "Fraction": "Spring TP Loading",
+    "Value": 107,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 448.0,
+    "River": "Portage River",
+    "Year": 2008,
+    "Fraction": "Spring SRP Loading",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 449.0,
+    "River": "Portage River",
+    "Year": 2009,
+    "Fraction": "Spring SRP Loading",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 450.0,
+    "River": "Portage River",
+    "Year": 2010,
+    "Fraction": "Spring SRP Loading",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 451.0,
+    "River": "Portage River",
+    "Year": 2011,
+    "Fraction": "Spring SRP Loading",
+    "Value": 33,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 452.0,
+    "River": "Portage River",
+    "Year": 2012,
+    "Fraction": "Spring SRP Loading",
+    "Value": 7,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 453.0,
+    "River": "Portage River",
+    "Year": 2013,
+    "Fraction": "Spring SRP Loading",
+    "Value": 22,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 454.0,
+    "River": "Portage River",
+    "Year": 2014,
+    "Fraction": "Spring SRP Loading",
+    "Value": 14,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 455.0,
+    "River": "Portage River",
+    "Year": 2015,
+    "Fraction": "Spring SRP Loading",
+    "Value": 40,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 456.0,
+    "River": "Portage River",
+    "Year": 2016,
+    "Fraction": "Spring SRP Loading",
+    "Value": 11,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 457.0,
+    "River": "Portage River",
+    "Year": 2017,
+    "Fraction": "Spring SRP Loading",
+    "Value": 29,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 458.0,
+    "River": "Portage River",
+    "Year": 2018,
+    "Fraction": "Spring SRP Loading",
+    "Value": 15,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 459.0,
+    "River": "Portage River",
+    "Year": 2019,
+    "Fraction": "Spring SRP Loading",
+    "Value": 29,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 460.0,
+    "River": "Portage River",
+    "Year": 2020,
+    "Fraction": "Spring SRP Loading",
+    "Value": 13,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 461.0,
+    "River": "Portage River",
+    "Year": 2021,
+    "Fraction": "Spring SRP Loading",
+    "Value": 22,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 462.0,
+    "River": "Portage River",
+    "Year": 2022,
+    "Fraction": "Spring SRP Loading",
+    "Value": 19,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 463.0,
+    "River": "Portage River",
+    "Year": 2023,
+    "Fraction": "Spring SRP Loading",
+    "Value": 11,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": "",
+    "River": "Portage River",
+    "Year": 2024,
+    "Fraction": "Spring SRP Loading",
+    "Value": 18,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 464.0,
+    "River": "Portage River",
+    "Year": 2008,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 465.0,
+    "River": "Portage River",
+    "Year": 2009,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 466.0,
+    "River": "Portage River",
+    "Year": 2010,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 467.0,
+    "River": "Portage River",
+    "Year": 2011,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 468.0,
+    "River": "Portage River",
+    "Year": 2012,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 469.0,
+    "River": "Portage River",
+    "Year": 2013,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 470.0,
+    "River": "Portage River",
+    "Year": 2014,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 471.0,
+    "River": "Portage River",
+    "Year": 2015,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 472.0,
+    "River": "Portage River",
+    "Year": 2016,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 473.0,
+    "River": "Portage River",
+    "Year": 2017,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 474.0,
+    "River": "Portage River",
+    "Year": 2018,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 475.0,
+    "River": "Portage River",
+    "Year": 2019,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 476.0,
+    "River": "Portage River",
+    "Year": 2020,
+    "Fraction": "Spring TP FWMC",
+    "Value": 1,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 477.0,
+    "River": "Portage River",
+    "Year": 2021,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 478.0,
+    "River": "Portage River",
+    "Year": 2022,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 479.0,
+    "River": "Portage River",
+    "Year": 2023,
+    "Fraction": "Spring TP FWMC",
+    "Value": 1,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": "",
+    "River": "Portage River",
+    "Year": 2024,
+    "Fraction": "Spring TP FWMC",
+    "Value": 1,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 480.0,
+    "River": "Portage River",
+    "Year": 2008,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 481.0,
+    "River": "Portage River",
+    "Year": 2009,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 482.0,
+    "River": "Portage River",
+    "Year": 2010,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 483.0,
+    "River": "Portage River",
+    "Year": 2011,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 484.0,
+    "River": "Portage River",
+    "Year": 2012,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 485.0,
+    "River": "Portage River",
+    "Year": 2013,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 486.0,
+    "River": "Portage River",
+    "Year": 2014,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 487.0,
+    "River": "Portage River",
+    "Year": 2015,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 488.0,
+    "River": "Portage River",
+    "Year": 2016,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 489.0,
+    "River": "Portage River",
+    "Year": 2017,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 490.0,
+    "River": "Portage River",
+    "Year": 2018,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 491.0,
+    "River": "Portage River",
+    "Year": 2019,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 492.0,
+    "River": "Portage River",
+    "Year": 2020,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 493.0,
+    "River": "Portage River",
+    "Year": 2021,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 494.0,
+    "River": "Portage River",
+    "Year": 2022,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 495.0,
+    "River": "Portage River",
+    "Year": 2023,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": "",
+    "River": "Portage River",
+    "Year": 2024,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 496.0,
+    "River": "Portage River",
+    "Year": 2008,
+    "Fraction": "Annual TP Loading",
+    "Value": 359,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 497.0,
+    "River": "Portage River",
+    "Year": 2009,
+    "Fraction": "Annual TP Loading",
+    "Value": 255,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 498.0,
+    "River": "Portage River",
+    "Year": 2010,
+    "Fraction": "Annual TP Loading",
+    "Value": 131,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 499.0,
+    "River": "Portage River",
+    "Year": 2011,
+    "Fraction": "Annual TP Loading",
+    "Value": 544,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 500.0,
+    "River": "Portage River",
+    "Year": 2012,
+    "Fraction": "Annual TP Loading",
+    "Value": 452,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 501.0,
+    "River": "Portage River",
+    "Year": 2013,
+    "Fraction": "Annual TP Loading",
+    "Value": 305,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 502.0,
+    "River": "Portage River",
+    "Year": 2014,
+    "Fraction": "Annual TP Loading",
+    "Value": 234,
+    "Source": "Santina August 2018"
+  },
+  {
+    "Unnamed: 0": 503.0,
+    "River": "Portage River",
+    "Year": 2015,
+    "Fraction": "Annual TP Loading",
+    "Value": 178,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 504.0,
+    "River": "Portage River",
+    "Year": 2016,
+    "Fraction": "Annual TP Loading",
+    "Value": 149,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 505.0,
+    "River": "Portage River",
+    "Year": 2017,
+    "Fraction": "Annual TP Loading",
+    "Value": 230,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 506.0,
+    "River": "Portage River",
+    "Year": 2018,
+    "Fraction": "Annual TP Loading",
+    "Value": 263,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 507.0,
+    "River": "Portage River",
+    "Year": 2019,
+    "Fraction": "Annual TP Loading",
+    "Value": 379,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 508.0,
+    "River": "Portage River",
+    "Year": 2020,
+    "Fraction": "Annual TP Loading",
+    "Value": 254,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 509.0,
+    "River": "Portage River",
+    "Year": 2021,
+    "Fraction": "Annual TP Loading",
+    "Value": 151,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 510.0,
+    "River": "Portage River",
+    "Year": 2022,
+    "Fraction": "Annual TP Loading",
+    "Value": 269,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 511.0,
+    "River": "Portage River",
+    "Year": 2023,
+    "Fraction": "Annual TP Loading",
+    "Value": 212,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": "",
+    "River": "Portage River",
+    "Year": 2024,
+    "Fraction": "Annual TP Loading",
+    "Value": 225,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 512.0,
+    "River": "River Raisin",
+    "Year": 2008,
+    "Fraction": "Spring Discharge",
+    "Value": 562,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 513.0,
+    "River": "River Raisin",
+    "Year": 2009,
+    "Fraction": "Spring Discharge",
+    "Value": 575,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 514.0,
+    "River": "River Raisin",
+    "Year": 2010,
+    "Fraction": "Spring Discharge",
+    "Value": 537,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 515.0,
+    "River": "River Raisin",
+    "Year": 2011,
+    "Fraction": "Spring Discharge",
+    "Value": 691,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 516.0,
+    "River": "River Raisin",
+    "Year": 2012,
+    "Fraction": "Spring Discharge",
+    "Value": 250,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 517.0,
+    "River": "River Raisin",
+    "Year": 2013,
+    "Fraction": "Spring Discharge",
+    "Value": 445,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 518.0,
+    "River": "River Raisin",
+    "Year": 2014,
+    "Fraction": "Spring Discharge",
+    "Value": 455,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 519.0,
+    "River": "River Raisin",
+    "Year": 2015,
+    "Fraction": "Spring Discharge",
+    "Value": 511,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 520.0,
+    "River": "River Raisin",
+    "Year": 2016,
+    "Fraction": "Spring Discharge",
+    "Value": 333,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 521.0,
+    "River": "River Raisin",
+    "Year": 2017,
+    "Fraction": "Spring Discharge",
+    "Value": 499,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 522.0,
+    "River": "River Raisin",
+    "Year": 2018,
+    "Fraction": "Spring Discharge",
+    "Value": 516,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 523.0,
+    "River": "River Raisin",
+    "Year": 2019,
+    "Fraction": "Spring Discharge",
+    "Value": 607,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 524.0,
+    "River": "River Raisin",
+    "Year": 2020,
+    "Fraction": "Spring Discharge",
+    "Value": 446,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 525.0,
+    "River": "River Raisin",
+    "Year": 2021,
+    "Fraction": "Spring Discharge",
+    "Value": 273,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 526.0,
+    "River": "River Raisin",
+    "Year": 2022,
+    "Fraction": "Spring Discharge",
+    "Value": 392,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 527.0,
+    "River": "River Raisin",
+    "Year": 2023,
+    "Fraction": "Spring Discharge",
+    "Value": 406,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": "",
+    "River": "River Raisin",
+    "Year": 2024,
+    "Fraction": "Spring Discharge",
+    "Value": 312,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 528.0,
+    "River": "River Raisin",
+    "Year": 2008,
+    "Fraction": "Spring TP Loading",
+    "Value": 83,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 529.0,
+    "River": "River Raisin",
+    "Year": 2009,
+    "Fraction": "Spring TP Loading",
+    "Value": 92,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 530.0,
+    "River": "River Raisin",
+    "Year": 2010,
+    "Fraction": "Spring TP Loading",
+    "Value": 68,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 531.0,
+    "River": "River Raisin",
+    "Year": 2011,
+    "Fraction": "Spring TP Loading",
+    "Value": 133,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 532.0,
+    "River": "River Raisin",
+    "Year": 2012,
+    "Fraction": "Spring TP Loading",
+    "Value": 27,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 533.0,
+    "River": "River Raisin",
+    "Year": 2013,
+    "Fraction": "Spring TP Loading",
+    "Value": 57,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 534.0,
+    "River": "River Raisin",
+    "Year": 2014,
+    "Fraction": "Spring TP Loading",
+    "Value": 59,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 535.0,
+    "River": "River Raisin",
+    "Year": 2015,
+    "Fraction": "Spring TP Loading",
+    "Value": 75,
+    "Source": "Santina August 2018"
+  },
+  {
+    "Unnamed: 0": 536.0,
+    "River": "River Raisin",
+    "Year": 2016,
+    "Fraction": "Spring TP Loading",
+    "Value": 40,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 537.0,
+    "River": "River Raisin",
+    "Year": 2017,
+    "Fraction": "Spring TP Loading",
+    "Value": 116,
+    "Source": "Santina August 2018"
+  },
+  {
+    "Unnamed: 0": 538.0,
+    "River": "River Raisin",
+    "Year": 2018,
+    "Fraction": "Spring TP Loading",
+    "Value": 89,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 539.0,
+    "River": "River Raisin",
+    "Year": 2019,
+    "Fraction": "Spring TP Loading",
+    "Value": 129,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 540.0,
+    "River": "River Raisin",
+    "Year": 2020,
+    "Fraction": "Spring TP Loading",
+    "Value": 85,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 541.0,
+    "River": "River Raisin",
+    "Year": 2021,
+    "Fraction": "Spring TP Loading",
+    "Value": 34,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 542.0,
+    "River": "River Raisin",
+    "Year": 2022,
+    "Fraction": "Spring TP Loading",
+    "Value": 53,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 543.0,
+    "River": "River Raisin",
+    "Year": 2023,
+    "Fraction": "Spring TP Loading",
+    "Value": 99,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": "",
+    "River": "River Raisin",
+    "Year": 2024,
+    "Fraction": "Spring TP Loading",
+    "Value": 52,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 544.0,
+    "River": "River Raisin",
+    "Year": 2008,
+    "Fraction": "Spring SRP Loading",
+    "Value": 20,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 545.0,
+    "River": "River Raisin",
+    "Year": 2009,
+    "Fraction": "Spring SRP Loading",
+    "Value": 17,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 546.0,
+    "River": "River Raisin",
+    "Year": 2010,
+    "Fraction": "Spring SRP Loading",
+    "Value": 17,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 547.0,
+    "River": "River Raisin",
+    "Year": 2011,
+    "Fraction": "Spring SRP Loading",
+    "Value": 29,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 548.0,
+    "River": "River Raisin",
+    "Year": 2012,
+    "Fraction": "Spring SRP Loading",
+    "Value": 6,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 549.0,
+    "River": "River Raisin",
+    "Year": 2013,
+    "Fraction": "Spring SRP Loading",
+    "Value": 14,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 550.0,
+    "River": "River Raisin",
+    "Year": 2014,
+    "Fraction": "Spring SRP Loading",
+    "Value": 18,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 551.0,
+    "River": "River Raisin",
+    "Year": 2015,
+    "Fraction": "Spring SRP Loading",
+    "Value": 24,
+    "Source": "Santina August 2018"
+  },
+  {
+    "Unnamed: 0": 552.0,
+    "River": "River Raisin",
+    "Year": 2016,
+    "Fraction": "Spring SRP Loading",
+    "Value": 9,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 553.0,
+    "River": "River Raisin",
+    "Year": 2017,
+    "Fraction": "Spring SRP Loading",
+    "Value": 21,
+    "Source": "Santina August 2018"
+  },
+  {
+    "Unnamed: 0": 554.0,
+    "River": "River Raisin",
+    "Year": 2018,
+    "Fraction": "Spring SRP Loading",
+    "Value": 19,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 555.0,
+    "River": "River Raisin",
+    "Year": 2019,
+    "Fraction": "Spring SRP Loading",
+    "Value": 25,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 556.0,
+    "River": "River Raisin",
+    "Year": 2020,
+    "Fraction": "Spring SRP Loading",
+    "Value": 19,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 557.0,
+    "River": "River Raisin",
+    "Year": 2021,
+    "Fraction": "Spring SRP Loading",
+    "Value": 8,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 558.0,
+    "River": "River Raisin",
+    "Year": 2022,
+    "Fraction": "Spring SRP Loading",
+    "Value": 8,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 559.0,
+    "River": "River Raisin",
+    "Year": 2023,
+    "Fraction": "Spring SRP Loading",
+    "Value": 14,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": "",
+    "River": "River Raisin",
+    "Year": 2024,
+    "Fraction": "Spring SRP Loading",
+    "Value": 12,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 560.0,
+    "River": "River Raisin",
+    "Year": 2008,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 561.0,
+    "River": "River Raisin",
+    "Year": 2009,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 562.0,
+    "River": "River Raisin",
+    "Year": 2010,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 563.0,
+    "River": "River Raisin",
+    "Year": 2011,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 564.0,
+    "River": "River Raisin",
+    "Year": 2012,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 565.0,
+    "River": "River Raisin",
+    "Year": 2013,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 566.0,
+    "River": "River Raisin",
+    "Year": 2014,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 567.0,
+    "River": "River Raisin",
+    "Year": 2015,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Santina August 2018"
+  },
+  {
+    "Unnamed: 0": 568.0,
+    "River": "River Raisin",
+    "Year": 2016,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 569.0,
+    "River": "River Raisin",
+    "Year": 2017,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Santina August 2018"
+  },
+  {
+    "Unnamed: 0": 570.0,
+    "River": "River Raisin",
+    "Year": 2018,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 571.0,
+    "River": "River Raisin",
+    "Year": 2019,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 572.0,
+    "River": "River Raisin",
+    "Year": 2020,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 573.0,
+    "River": "River Raisin",
+    "Year": 2021,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 574.0,
+    "River": "River Raisin",
+    "Year": 2022,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 575.0,
+    "River": "River Raisin",
+    "Year": 2023,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": "",
+    "River": "River Raisin",
+    "Year": 2024,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 576.0,
+    "River": "River Raisin",
+    "Year": 2008,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 577.0,
+    "River": "River Raisin",
+    "Year": 2009,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 578.0,
+    "River": "River Raisin",
+    "Year": 2010,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 579.0,
+    "River": "River Raisin",
+    "Year": 2011,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 580.0,
+    "River": "River Raisin",
+    "Year": 2012,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 581.0,
+    "River": "River Raisin",
+    "Year": 2013,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 582.0,
+    "River": "River Raisin",
+    "Year": 2014,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 583.0,
+    "River": "River Raisin",
+    "Year": 2015,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Santina August 2018"
+  },
+  {
+    "Unnamed: 0": 584.0,
+    "River": "River Raisin",
+    "Year": 2016,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 585.0,
+    "River": "River Raisin",
+    "Year": 2017,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Santina August 2018"
+  },
+  {
+    "Unnamed: 0": 586.0,
+    "River": "River Raisin",
+    "Year": 2018,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 587.0,
+    "River": "River Raisin",
+    "Year": 2019,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 588.0,
+    "River": "River Raisin",
+    "Year": 2020,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 589.0,
+    "River": "River Raisin",
+    "Year": 2021,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 590.0,
+    "River": "River Raisin",
+    "Year": 2022,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 591.0,
+    "River": "River Raisin",
+    "Year": 2023,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": "",
+    "River": "River Raisin",
+    "Year": 2024,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 608.0,
+    "River": "Sandusky River",
+    "Year": 2008,
+    "Fraction": "Spring Discharge",
+    "Value": 962,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 609.0,
+    "River": "Sandusky River",
+    "Year": 2009,
+    "Fraction": "Spring Discharge",
+    "Value": 437,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 610.0,
+    "River": "Sandusky River",
+    "Year": 2010,
+    "Fraction": "Spring Discharge",
+    "Value": 731,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 611.0,
+    "River": "Sandusky River",
+    "Year": 2011,
+    "Fraction": "Spring Discharge",
+    "Value": 1294,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 612.0,
+    "River": "Sandusky River",
+    "Year": 2012,
+    "Fraction": "Spring Discharge",
+    "Value": 271,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 613.0,
+    "River": "Sandusky River",
+    "Year": 2013,
+    "Fraction": "Spring Discharge",
+    "Value": 872,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 614.0,
+    "River": "Sandusky River",
+    "Year": 2014,
+    "Fraction": "Spring Discharge",
+    "Value": 651,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 615.0,
+    "River": "Sandusky River",
+    "Year": 2015,
+    "Fraction": "Spring Discharge",
+    "Value": 911,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 616.0,
+    "River": "Sandusky River",
+    "Year": 2016,
+    "Fraction": "Spring Discharge",
+    "Value": 495,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 617.0,
+    "River": "Sandusky River",
+    "Year": 2017,
+    "Fraction": "Spring Discharge",
+    "Value": 781,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 618.0,
+    "River": "Sandusky River",
+    "Year": 2018,
+    "Fraction": "Spring Discharge",
+    "Value": 574,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 619.0,
+    "River": "Sandusky River",
+    "Year": 2019,
+    "Fraction": "Spring Discharge",
+    "Value": 903,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 620.0,
+    "River": "Sandusky River",
+    "Year": 2020,
+    "Fraction": "Spring Discharge",
+    "Value": 550,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 621.0,
+    "River": "Sandusky River",
+    "Year": 2021,
+    "Fraction": "Spring Discharge",
+    "Value": 565,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 622.0,
+    "River": "Sandusky River",
+    "Year": 2022,
+    "Fraction": "Spring Discharge",
+    "Value": 531,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 623.0,
+    "River": "Sandusky River",
+    "Year": 2023,
+    "Fraction": "Spring Discharge",
+    "Value": 440,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": "",
+    "River": "Sandusky River",
+    "Year": 2024,
+    "Fraction": "Spring Discharge",
+    "Value": 564,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 624.0,
+    "River": "Sandusky River",
+    "Year": 2008,
+    "Fraction": "Spring TP Loading",
+    "Value": 367,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 625.0,
+    "River": "Sandusky River",
+    "Year": 2009,
+    "Fraction": "Spring TP Loading",
+    "Value": 202,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 626.0,
+    "River": "Sandusky River",
+    "Year": 2010,
+    "Fraction": "Spring TP Loading",
+    "Value": 312,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 627.0,
+    "River": "Sandusky River",
+    "Year": 2011,
+    "Fraction": "Spring TP Loading",
+    "Value": 701,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 628.0,
+    "River": "Sandusky River",
+    "Year": 2012,
+    "Fraction": "Spring TP Loading",
+    "Value": 143,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 629.0,
+    "River": "Sandusky River",
+    "Year": 2013,
+    "Fraction": "Spring TP Loading",
+    "Value": 364,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 630.0,
+    "River": "Sandusky River",
+    "Year": 2014,
+    "Fraction": "Spring TP Loading",
+    "Value": 271,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 631.0,
+    "River": "Sandusky River",
+    "Year": 2015,
+    "Fraction": "Spring TP Loading",
+    "Value": 329,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 632.0,
+    "River": "Sandusky River",
+    "Year": 2016,
+    "Fraction": "Spring TP Loading",
+    "Value": 161,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 633.0,
+    "River": "Sandusky River",
+    "Year": 2017,
+    "Fraction": "Spring TP Loading",
+    "Value": 350,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 634.0,
+    "River": "Sandusky River",
+    "Year": 2018,
+    "Fraction": "Spring TP Loading",
+    "Value": 244,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 635.0,
+    "River": "Sandusky River",
+    "Year": 2019,
+    "Fraction": "Spring TP Loading",
+    "Value": 418,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 636.0,
+    "River": "Sandusky River",
+    "Year": 2020,
+    "Fraction": "Spring TP Loading",
+    "Value": 329,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 637.0,
+    "River": "Sandusky River",
+    "Year": 2021,
+    "Fraction": "Spring TP Loading",
+    "Value": 245,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 638.0,
+    "River": "Sandusky River",
+    "Year": 2022,
+    "Fraction": "Spring TP Loading",
+    "Value": 334,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 639.0,
+    "River": "Sandusky River",
+    "Year": 2023,
+    "Fraction": "Spring TP Loading",
+    "Value": 238,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": "",
+    "River": "Sandusky River",
+    "Year": 2024,
+    "Fraction": "Spring TP Loading",
+    "Value": 307,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 640.0,
+    "River": "Sandusky River",
+    "Year": 2008,
+    "Fraction": "Spring SRP Loading",
+    "Value": 69,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 641.0,
+    "River": "Sandusky River",
+    "Year": 2009,
+    "Fraction": "Spring SRP Loading",
+    "Value": 29,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 642.0,
+    "River": "Sandusky River",
+    "Year": 2010,
+    "Fraction": "Spring SRP Loading",
+    "Value": 66,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 643.0,
+    "River": "Sandusky River",
+    "Year": 2011,
+    "Fraction": "Spring SRP Loading",
+    "Value": 127,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 644.0,
+    "River": "Sandusky River",
+    "Year": 2012,
+    "Fraction": "Spring SRP Loading",
+    "Value": 16,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 645.0,
+    "River": "Sandusky River",
+    "Year": 2013,
+    "Fraction": "Spring SRP Loading",
+    "Value": 88,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 646.0,
+    "River": "Sandusky River",
+    "Year": 2014,
+    "Fraction": "Spring SRP Loading",
+    "Value": 60,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 647.0,
+    "River": "Sandusky River",
+    "Year": 2015,
+    "Fraction": "Spring SRP Loading",
+    "Value": 92,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 648.0,
+    "River": "Sandusky River",
+    "Year": 2016,
+    "Fraction": "Spring SRP Loading",
+    "Value": 31,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 649.0,
+    "River": "Sandusky River",
+    "Year": 2017,
+    "Fraction": "Spring SRP Loading",
+    "Value": 90,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 650.0,
+    "River": "Sandusky River",
+    "Year": 2018,
+    "Fraction": "Spring SRP Loading",
+    "Value": 50,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 651.0,
+    "River": "Sandusky River",
+    "Year": 2019,
+    "Fraction": "Spring SRP Loading",
+    "Value": 79,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 652.0,
+    "River": "Sandusky River",
+    "Year": 2020,
+    "Fraction": "Spring SRP Loading",
+    "Value": 50,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 653.0,
+    "River": "Sandusky River",
+    "Year": 2021,
+    "Fraction": "Spring SRP Loading",
+    "Value": 59,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 654.0,
+    "River": "Sandusky River",
+    "Year": 2022,
+    "Fraction": "Spring SRP Loading",
+    "Value": 45,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 655.0,
+    "River": "Sandusky River",
+    "Year": 2023,
+    "Fraction": "Spring SRP Loading",
+    "Value": 32,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": "",
+    "River": "Sandusky River",
+    "Year": 2024,
+    "Fraction": "Spring SRP Loading",
+    "Value": 44,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 656.0,
+    "River": "Sandusky River",
+    "Year": 2008,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 657.0,
+    "River": "Sandusky River",
+    "Year": 2009,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 658.0,
+    "River": "Sandusky River",
+    "Year": 2010,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 659.0,
+    "River": "Sandusky River",
+    "Year": 2011,
+    "Fraction": "Spring TP FWMC",
+    "Value": 1,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 660.0,
+    "River": "Sandusky River",
+    "Year": 2012,
+    "Fraction": "Spring TP FWMC",
+    "Value": 1,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 661.0,
+    "River": "Sandusky River",
+    "Year": 2013,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 662.0,
+    "River": "Sandusky River",
+    "Year": 2014,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 663.0,
+    "River": "Sandusky River",
+    "Year": 2015,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 664.0,
+    "River": "Sandusky River",
+    "Year": 2016,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 665.0,
+    "River": "Sandusky River",
+    "Year": 2017,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 666.0,
+    "River": "Sandusky River",
+    "Year": 2018,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 667.0,
+    "River": "Sandusky River",
+    "Year": 2019,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 668.0,
+    "River": "Sandusky River",
+    "Year": 2020,
+    "Fraction": "Spring TP FWMC",
+    "Value": 1,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 669.0,
+    "River": "Sandusky River",
+    "Year": 2021,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 670.0,
+    "River": "Sandusky River",
+    "Year": 2022,
+    "Fraction": "Spring TP FWMC",
+    "Value": 1,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 671.0,
+    "River": "Sandusky River",
+    "Year": 2023,
+    "Fraction": "Spring TP FWMC",
+    "Value": 1,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": "",
+    "River": "Sandusky River",
+    "Year": 2024,
+    "Fraction": "Spring TP FWMC",
+    "Value": 1,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 672.0,
+    "River": "Sandusky River",
+    "Year": 2008,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 673.0,
+    "River": "Sandusky River",
+    "Year": 2009,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 674.0,
+    "River": "Sandusky River",
+    "Year": 2010,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 675.0,
+    "River": "Sandusky River",
+    "Year": 2011,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 676.0,
+    "River": "Sandusky River",
+    "Year": 2012,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 677.0,
+    "River": "Sandusky River",
+    "Year": 2013,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 678.0,
+    "River": "Sandusky River",
+    "Year": 2014,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 679.0,
+    "River": "Sandusky River",
+    "Year": 2015,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 680.0,
+    "River": "Sandusky River",
+    "Year": 2016,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 681.0,
+    "River": "Sandusky River",
+    "Year": 2017,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 682.0,
+    "River": "Sandusky River",
+    "Year": 2018,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": "Greg Koltun"
+  },
+  {
+    "Unnamed: 0": 683.0,
+    "River": "Sandusky River",
+    "Year": 2019,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 684.0,
+    "River": "Sandusky River",
+    "Year": 2020,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 685.0,
+    "River": "Sandusky River",
+    "Year": 2021,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 686.0,
+    "River": "Sandusky River",
+    "Year": 2022,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 687.0,
+    "River": "Sandusky River",
+    "Year": 2023,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": "",
+    "River": "Sandusky River",
+    "Year": 2024,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 688.0,
+    "River": "Sandusky River",
+    "Year": 2008,
+    "Fraction": "Annual TP Loading",
+    "Value": 1101,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 689.0,
+    "River": "Sandusky River",
+    "Year": 2009,
+    "Fraction": "Annual TP Loading",
+    "Value": 511,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 690.0,
+    "River": "Sandusky River",
+    "Year": 2010,
+    "Fraction": "Annual TP Loading",
+    "Value": 429,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 691.0,
+    "River": "Sandusky River",
+    "Year": 2011,
+    "Fraction": "Annual TP Loading",
+    "Value": 1165,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 692.0,
+    "River": "Sandusky River",
+    "Year": 2012,
+    "Fraction": "Annual TP Loading",
+    "Value": 793,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 693.0,
+    "River": "Sandusky River",
+    "Year": 2013,
+    "Fraction": "Annual TP Loading",
+    "Value": 773,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 694.0,
+    "River": "Sandusky River",
+    "Year": 2014,
+    "Fraction": "Annual TP Loading",
+    "Value": 698,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 695.0,
+    "River": "Sandusky River",
+    "Year": 2015,
+    "Fraction": "Annual TP Loading",
+    "Value": 456,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 696.0,
+    "River": "Sandusky River",
+    "Year": 2016,
+    "Fraction": "Annual TP Loading",
+    "Value": 389,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 697.0,
+    "River": "Sandusky River",
+    "Year": 2017,
+    "Fraction": "Annual TP Loading",
+    "Value": 683,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 698.0,
+    "River": "Sandusky River",
+    "Year": 2018,
+    "Fraction": "Annual TP Loading",
+    "Value": 762,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 699.0,
+    "River": "Sandusky River",
+    "Year": 2019,
+    "Fraction": "Annual TP Loading",
+    "Value": 1031,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 700.0,
+    "River": "Sandusky River",
+    "Year": 2020,
+    "Fraction": "Annual TP Loading",
+    "Value": 616,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 701.0,
+    "River": "Sandusky River",
+    "Year": 2021,
+    "Fraction": "Annual TP Loading",
+    "Value": 485,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 702.0,
+    "River": "Sandusky River",
+    "Year": 2022,
+    "Fraction": "Annual TP Loading",
+    "Value": 800,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 703.0,
+    "River": "Sandusky River",
+    "Year": 2023,
+    "Fraction": "Annual TP Loading",
+    "Value": 515,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": "",
+    "River": "Sandusky River",
+    "Year": 2024,
+    "Fraction": "Annual TP Loading",
+    "Value": 545,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 704.0,
+    "River": "Thames River",
+    "Year": 2008,
+    "Fraction": "Spring Discharge",
+    "Value": 955,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 705.0,
+    "River": "Thames River",
+    "Year": 2009,
+    "Fraction": "Spring Discharge",
+    "Value": 1102,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 706.0,
+    "River": "Thames River",
+    "Year": 2010,
+    "Fraction": "Spring Discharge",
+    "Value": 691,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 707.0,
+    "River": "Thames River",
+    "Year": 2011,
+    "Fraction": "Spring Discharge",
+    "Value": 1543,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 708.0,
+    "River": "Thames River",
+    "Year": 2012,
+    "Fraction": "Spring Discharge",
+    "Value": 358,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 709.0,
+    "River": "Thames River",
+    "Year": 2013,
+    "Fraction": "Spring Discharge",
+    "Value": 1164,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 710.0,
+    "River": "Thames River",
+    "Year": 2014,
+    "Fraction": "Spring Discharge",
+    "Value": 1136,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 711.0,
+    "River": "Thames River",
+    "Year": 2015,
+    "Fraction": "Spring Discharge",
+    "Value": 879,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 712.0,
+    "River": "Thames River",
+    "Year": 2016,
+    "Fraction": "Spring Discharge",
+    "Value": 845,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 713.0,
+    "River": "Thames River",
+    "Year": 2017,
+    "Fraction": "Spring Discharge",
+    "Value": 1017,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 714.0,
+    "River": "Thames River",
+    "Year": 2018,
+    "Fraction": "Spring Discharge",
+    "Value": 755,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 715.0,
+    "River": "Thames River",
+    "Year": 2019,
+    "Fraction": "Spring Discharge",
+    "Value": 1137,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 716.0,
+    "River": "Thames River",
+    "Year": 2020,
+    "Fraction": "Spring Discharge",
+    "Value": 647,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 717.0,
+    "River": "Thames River",
+    "Year": 2021,
+    "Fraction": "Spring Discharge",
+    "Value": 607,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 718.0,
+    "River": "Thames River",
+    "Year": 2022,
+    "Fraction": "Spring Discharge",
+    "Value": 720,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 719.0,
+    "River": "Thames River",
+    "Year": 2023,
+    "Fraction": "Spring Discharge",
+    "Value": 1178,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": "",
+    "River": "Thames River",
+    "Year": 2024,
+    "Fraction": "Spring Discharge",
+    "Value": 953,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 720.0,
+    "River": "Thames River",
+    "Year": 2008,
+    "Fraction": "Spring TP Loading",
+    "Value": 71,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 721.0,
+    "River": "Thames River",
+    "Year": 2009,
+    "Fraction": "Spring TP Loading",
+    "Value": 106,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 722.0,
+    "River": "Thames River",
+    "Year": 2010,
+    "Fraction": "Spring TP Loading",
+    "Value": 49,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 723.0,
+    "River": "Thames River",
+    "Year": 2011,
+    "Fraction": "Spring TP Loading",
+    "Value": 367,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 724.0,
+    "River": "Thames River",
+    "Year": 2012,
+    "Fraction": "Spring TP Loading",
+    "Value": 28,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 725.0,
+    "River": "Thames River",
+    "Year": 2013,
+    "Fraction": "Spring TP Loading",
+    "Value": 79,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 726.0,
+    "River": "Thames River",
+    "Year": 2014,
+    "Fraction": "Spring TP Loading",
+    "Value": 194,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 727.0,
+    "River": "Thames River",
+    "Year": 2015,
+    "Fraction": "Spring TP Loading",
+    "Value": 160,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 728.0,
+    "River": "Thames River",
+    "Year": 2016,
+    "Fraction": "Spring TP Loading",
+    "Value": 40,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 729.0,
+    "River": "Thames River",
+    "Year": 2017,
+    "Fraction": "Spring TP Loading",
+    "Value": 186,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 730.0,
+    "River": "Thames River",
+    "Year": 2018,
+    "Fraction": "Spring TP Loading",
+    "Value": 126,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 731.0,
+    "River": "Thames River",
+    "Year": 2019,
+    "Fraction": "Spring TP Loading",
+    "Value": 272,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 732.0,
+    "River": "Thames River",
+    "Year": 2020,
+    "Fraction": "Spring TP Loading",
+    "Value": 89,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 733.0,
+    "River": "Thames River",
+    "Year": 2021,
+    "Fraction": "Spring TP Loading",
+    "Value": 174,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 734.0,
+    "River": "Thames River",
+    "Year": 2022,
+    "Fraction": "Spring TP Loading",
+    "Value": 104,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 735.0,
+    "River": "Thames River",
+    "Year": 2023,
+    "Fraction": "Spring TP Loading",
+    "Value": 288,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": "",
+    "River": "Thames River",
+    "Year": 2024,
+    "Fraction": "Spring TP Loading",
+    "Value": 170,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 736.0,
+    "River": "Thames River",
+    "Year": 2008,
+    "Fraction": "Spring SRP Loading",
+    "Value": 31,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 737.0,
+    "River": "Thames River",
+    "Year": 2009,
+    "Fraction": "Spring SRP Loading",
+    "Value": 24,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 738.0,
+    "River": "Thames River",
+    "Year": 2010,
+    "Fraction": "Spring SRP Loading",
+    "Value": 6,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 739.0,
+    "River": "Thames River",
+    "Year": 2011,
+    "Fraction": "Spring SRP Loading",
+    "Value": 130,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 740.0,
+    "River": "Thames River",
+    "Year": 2012,
+    "Fraction": "Spring SRP Loading",
+    "Value": 5,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 741.0,
+    "River": "Thames River",
+    "Year": 2013,
+    "Fraction": "Spring SRP Loading",
+    "Value": 27,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 742.0,
+    "River": "Thames River",
+    "Year": 2014,
+    "Fraction": "Spring SRP Loading",
+    "Value": 67,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 743.0,
+    "River": "Thames River",
+    "Year": 2015,
+    "Fraction": "Spring SRP Loading",
+    "Value": 57,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 744.0,
+    "River": "Thames River",
+    "Year": 2016,
+    "Fraction": "Spring SRP Loading",
+    "Value": 7,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 745.0,
+    "River": "Thames River",
+    "Year": 2017,
+    "Fraction": "Spring SRP Loading",
+    "Value": 35,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 746.0,
+    "River": "Thames River",
+    "Year": 2018,
+    "Fraction": "Spring SRP Loading",
+    "Value": 27,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 747.0,
+    "River": "Thames River",
+    "Year": 2019,
+    "Fraction": "Spring SRP Loading",
+    "Value": 67,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 748.0,
+    "River": "Thames River",
+    "Year": 2020,
+    "Fraction": "Spring SRP Loading",
+    "Value": 36,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 749.0,
+    "River": "Thames River",
+    "Year": 2021,
+    "Fraction": "Spring SRP Loading",
+    "Value": 41,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 750.0,
+    "River": "Thames River",
+    "Year": 2022,
+    "Fraction": "Spring SRP Loading",
+    "Value": 22,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 751.0,
+    "River": "Thames River",
+    "Year": 2023,
+    "Fraction": "Spring SRP Loading",
+    "Value": 67,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": "",
+    "River": "Thames River",
+    "Year": 2024,
+    "Fraction": "Spring SRP Loading",
+    "Value": 50,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 752.0,
+    "River": "Thames River",
+    "Year": 2008,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 753.0,
+    "River": "Thames River",
+    "Year": 2009,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 754.0,
+    "River": "Thames River",
+    "Year": 2010,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 755.0,
+    "River": "Thames River",
+    "Year": 2011,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 756.0,
+    "River": "Thames River",
+    "Year": 2012,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 757.0,
+    "River": "Thames River",
+    "Year": 2013,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 758.0,
+    "River": "Thames River",
+    "Year": 2014,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 759.0,
+    "River": "Thames River",
+    "Year": 2015,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 760.0,
+    "River": "Thames River",
+    "Year": 2016,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 761.0,
+    "River": "Thames River",
+    "Year": 2017,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 762.0,
+    "River": "Thames River",
+    "Year": 2018,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 763.0,
+    "River": "Thames River",
+    "Year": 2019,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 764.0,
+    "River": "Thames River",
+    "Year": 2020,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 765.0,
+    "River": "Thames River",
+    "Year": 2021,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 766.0,
+    "River": "Thames River",
+    "Year": 2022,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 767.0,
+    "River": "Thames River",
+    "Year": 2023,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": "",
+    "River": "Thames River",
+    "Year": 2024,
+    "Fraction": "Spring TP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 768.0,
+    "River": "Thames River",
+    "Year": 2008,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 769.0,
+    "River": "Thames River",
+    "Year": 2009,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 770.0,
+    "River": "Thames River",
+    "Year": 2010,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 771.0,
+    "River": "Thames River",
+    "Year": 2011,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 772.0,
+    "River": "Thames River",
+    "Year": 2012,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 773.0,
+    "River": "Thames River",
+    "Year": 2013,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 774.0,
+    "River": "Thames River",
+    "Year": 2014,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 775.0,
+    "River": "Thames River",
+    "Year": 2015,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 776.0,
+    "River": "Thames River",
+    "Year": 2016,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 777.0,
+    "River": "Thames River",
+    "Year": 2017,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 778.0,
+    "River": "Thames River",
+    "Year": 2018,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 779.0,
+    "River": "Thames River",
+    "Year": 2019,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 780.0,
+    "River": "Thames River",
+    "Year": 2020,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 781.0,
+    "River": "Thames River",
+    "Year": 2021,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 782.0,
+    "River": "Thames River",
+    "Year": 2022,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 783.0,
+    "River": "Thames River",
+    "Year": 2023,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": "",
+    "River": "Thames River",
+    "Year": 2024,
+    "Fraction": "Spring SRP FWMC",
+    "Value": 0,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 784.0,
+    "River": "Thames River",
+    "Year": 2008,
+    "Fraction": "Annual TP Loading",
+    "Value": 196,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 785.0,
+    "River": "Thames River",
+    "Year": 2009,
+    "Fraction": "Annual TP Loading",
+    "Value": 383,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 786.0,
+    "River": "Thames River",
+    "Year": 2010,
+    "Fraction": "Annual TP Loading",
+    "Value": 99,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 787.0,
+    "River": "Thames River",
+    "Year": 2011,
+    "Fraction": "Annual TP Loading",
+    "Value": 588,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 788.0,
+    "River": "Thames River",
+    "Year": 2012,
+    "Fraction": "Annual TP Loading",
+    "Value": 180,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 789.0,
+    "River": "Thames River",
+    "Year": 2013,
+    "Fraction": "Annual TP Loading",
+    "Value": 363,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 790.0,
+    "River": "Thames River",
+    "Year": 2014,
+    "Fraction": "Annual TP Loading",
+    "Value": 553,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 791.0,
+    "River": "Thames River",
+    "Year": 2015,
+    "Fraction": "Annual TP Loading",
+    "Value": 330,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 792.0,
+    "River": "Thames River",
+    "Year": 2016,
+    "Fraction": "Annual TP Loading",
+    "Value": 285,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 793.0,
+    "River": "Thames River",
+    "Year": 2017,
+    "Fraction": "Annual TP Loading",
+    "Value": 411,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 794.0,
+    "River": "Thames River",
+    "Year": 2018,
+    "Fraction": "Annual TP Loading",
+    "Value": 590,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 795.0,
+    "River": "Thames River",
+    "Year": 2019,
+    "Fraction": "Annual TP Loading",
+    "Value": 674,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 796.0,
+    "River": "Thames River",
+    "Year": 2020,
+    "Fraction": "Annual TP Loading",
+    "Value": 424,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 797.0,
+    "River": "Thames River",
+    "Year": 2021,
+    "Fraction": "Annual TP Loading",
+    "Value": 407,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 798.0,
+    "River": "Thames River",
+    "Year": 2022,
+    "Fraction": "Annual TP Loading",
+    "Value": 474,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 799.0,
+    "River": "Thames River",
+    "Year": 2023,
+    "Fraction": "Annual TP Loading",
+    "Value": 547,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": "",
+    "River": "Thames River",
+    "Year": 2024,
+    "Fraction": "Annual TP Loading",
+    "Value": 505,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 800.0,
+    "River": "Vermilion River",
+    "Year": 2008,
+    "Fraction": "Annual TP Loading",
+    "Value": 202,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 801.0,
+    "River": "Vermilion River",
+    "Year": 2009,
+    "Fraction": "Annual TP Loading",
+    "Value": 21,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 802.0,
+    "River": "Vermilion River",
+    "Year": 2010,
+    "Fraction": "Annual TP Loading",
+    "Value": 47,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 803.0,
+    "River": "Vermilion River",
+    "Year": 2011,
+    "Fraction": "Annual TP Loading",
+    "Value": 142,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 804.0,
+    "River": "Vermilion River",
+    "Year": 2012,
+    "Fraction": "Annual TP Loading",
+    "Value": 113,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 805.0,
+    "River": "Vermilion River",
+    "Year": 2013,
+    "Fraction": "Annual TP Loading",
+    "Value": 215,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 806.0,
+    "River": "Vermilion River",
+    "Year": 2014,
+    "Fraction": "Annual TP Loading",
+    "Value": 140,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 807.0,
+    "River": "Vermilion River",
+    "Year": 2015,
+    "Fraction": "Annual TP Loading",
+    "Value": 19,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 808.0,
+    "River": "Vermilion River",
+    "Year": 2016,
+    "Fraction": "Annual TP Loading",
+    "Value": 92,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 809.0,
+    "River": "Vermilion River",
+    "Year": 2017,
+    "Fraction": "Annual TP Loading",
+    "Value": 94,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 810.0,
+    "River": "Vermilion River",
+    "Year": 2018,
+    "Fraction": "Annual TP Loading",
+    "Value": 53,
+    "Source": "Santina and Maccoux"
+  },
+  {
+    "Unnamed: 0": 811.0,
+    "River": "Vermilion River",
+    "Year": 2019,
+    "Fraction": "Annual TP Loading",
+    "Value": 82,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 812.0,
+    "River": "Vermilion River",
+    "Year": 2020,
+    "Fraction": "Annual TP Loading",
+    "Value": 47,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 813.0,
+    "River": "Vermilion River",
+    "Year": 2021,
+    "Fraction": "Annual TP Loading",
+    "Value": 80,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 814.0,
+    "River": "Vermilion River",
+    "Year": 2022,
+    "Fraction": "Annual TP Loading",
+    "Value": 49,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": 815.0,
+    "River": "Vermilion River",
+    "Year": 2023,
+    "Fraction": "Annual TP Loading",
+    "Value": 90,
+    "Source": ""
+  },
+  {
+    "Unnamed: 0": "",
+    "River": "Vermilion River",
+    "Year": 2024,
+    "Fraction": "Annual TP Loading",
+    "Value": 55,
+    "Source": ""
+  }
+]
