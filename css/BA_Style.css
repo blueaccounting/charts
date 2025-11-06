@@ -218,6 +218,11 @@ li {
     font-size: 12px;
 
 }
+.highcharts-caption {
+  white-space: normal;
+  width: 100%; /* Or a specific pixel value, e.g., '300px' */
+  text-align: left; /* Optional: center the text */
+}
 /*#container {*/
     /*height: 300px;*/
     /*margin-top: 2em;*/
