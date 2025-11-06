@@ -3,7 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <title>Total Phosphorus Loading Estimates to Lake Erie</title>
-    <script src="https://code.jquery.com/jquery-3.1.1.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
+    <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.14.1/themes/smoothness/jquery-ui.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.14.1/jquery-ui.min.js"></script>
     <script src="//code.highcharts.com/highcharts.js"></script>
     <script src="https://code.highcharts.com/modules/exporting.js"></script>
     <script src="https://code.highcharts.com/modules/export-data.js"></script>
@@ -81,6 +83,12 @@ Highcharts.chart("chart", {
 //                }
             }
         }*/
+    },
+    exporting: {
+        enabled: true,
+        allowHTML: true,
+        sourceWidth: this.plotWidth,
+        sourceHeight: this.plotHeight,
     },
     title: {
         text: 'Total Phosphorus Loading, by Source, to the Western and Central Lake Erie Basins',
