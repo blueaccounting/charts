@@ -155,6 +155,8 @@ Highcharts.chart("chart", {
                     // Customize series names for export
                     if (item.name === 'Category') {
                         return 'Year';
+                    } else {
+                        return item.name;
                     }
                 }
                 return item.name || item; // Default behavior for other headers
