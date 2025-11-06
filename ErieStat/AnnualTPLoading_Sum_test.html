@@ -150,16 +150,12 @@ Highcharts.chart("chart", {
         sourceWidth: 900,
         sourceHeight: 630,
         csv: {
-            columnHeaderFormatter: function (item, key) {
-                if (item instanceof Highcharts.Series) {
-                    // Customize series names for export
-                    if (item.name === 'Category') {
-                        return 'Year';
-                    } else {
-                        return item.name;
-                    }
+            columnHeaderFormatter: function(item, key) {
+                if (!item || item instanceof Highcharts.Axis) {
+                    return 'Year'
+                } else {
+                    return item.name;
                 }
-                return item.name || item; // Default behavior for other headers
             }
         }
     },
