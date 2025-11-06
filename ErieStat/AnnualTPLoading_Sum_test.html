@@ -149,6 +149,17 @@ Highcharts.chart("chart", {
         allowHTML: true,
         sourceWidth: 900,
         sourceHeight: 630,
+        csv: {
+            columnHeaderFormatter: function (item, key) {
+                if (item instanceof Highcharts.Series) {
+                    // Customize series names for export
+                    if (item.name === 'Category') {
+                        return 'Year';
+                    }
+                }
+                return item.name || item; // Default behavior for other headers
+            }
+        }
     },
     title: {
         text: 'Total Phosphorus Loading, by Source, to the Western and Central Lake Erie Basins',
