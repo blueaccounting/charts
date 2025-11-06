@@ -95,7 +95,7 @@ function BlueAccounting(){
             exporting: {
                 enabled: true,
                 allowHTML: true,
-                sourceWidth: 800,
+                sourceWidth: 900,
                 sourceHeight: 630,
             },
             title: {
