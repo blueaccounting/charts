@@ -99,6 +99,7 @@ function BlueAccounting(){
             title: {
                 text: title,
                 margin: 20,
+                useHTML: true,
                 style: {
                     color: '#000000',
                     fontWeight: 'bold'
