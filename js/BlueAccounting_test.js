@@ -95,8 +95,8 @@ function BlueAccounting(){
             exporting: {
                 enabled: true,
                 allowHTML: true,
-                sourceWidth: 900,
-                sourceHeight: 630,
+                sourceWidth: this.plotWidth,
+                sourceHeight: this.plotHeight,
             },
             title: {
                 text: title,
