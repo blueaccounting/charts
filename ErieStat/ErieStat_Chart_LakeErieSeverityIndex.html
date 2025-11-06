@@ -10,6 +10,12 @@
     <script src="https://code.highcharts.com/modules/exporting.js"></script>
     <script src="https://code.highcharts.com/modules/export-data.js"></script>
     <script src="https://code.highcharts.com/highcharts-more.src.js"></script> 
+
+    <!-- zipcelx is a non-Highcharts dependency for exporting to XLS and XLSX. It
+    is licenced under the MIT license, see
+    https://github.com/egeriis/zipcelx/blob/master/LICENSE -->
+    <script src="https://cdn.jsdelivr.net/gh/egeriis/zipcelx/lib/standalone.js"></script>
+    
     <!--<script src="js/ba_chart2.js"></script>-->
     <script src="https://code.highcharts.com/modules/accessibility.js"></script>
     <link rel="stylesheet" href="../css/BA_Style.css">
@@ -32,6 +38,60 @@
 </div>
 
 <script>
+    // Highcharts plugin for adding better XLS and XLSX support through the third
+// party zipcelx library.
+    (function (H) {
+        if (window.zipcelx && H.getOptions().exporting) {
+            H.Chart.prototype.downloadXLSX = function () {
+                const div = document.createElement('div');
+                let name,
+                    xlsxRows = [];
+                div.style.display = 'none';
+                document.body.appendChild(div);
+                const rows = this.exporting.getDataRows(true);
+                xlsxRows = rows.slice(1).map(function (row) {
+                    return row.map(function (column) {
+                        return {
+                            type: typeof column === 'number' ? 'number' : 'string',
+                            value: column
+                        };
+                    });
+                });
+    
+                // Get the filename, copied from the Chart.fileDownload function
+                if (this.options.exporting.filename) {
+                    name = this.options.exporting.filename;
+                } else if (this.title && this.title.textStr) {
+                    name = this.title.textStr.replace(/ /g, '-').toLowerCase();
+                } else {
+                    name = 'chart';
+                }
+    
+                window.zipcelx({
+                    filename: name,
+                    sheet: {
+                        data: xlsxRows
+                    }
+                });
+            };
+    
+            // Default lang string, overridable in i18n options
+            H.getOptions().lang.downloadXLSX = 'Download XLSX';
+    
+            // Add the menu item handler
+            H.getOptions().exporting.menuItemDefinitions.downloadXLSX = {
+                textKey: 'downloadXLSX',
+                onclick: function () {
+                    this.downloadXLSX();
+                }
+            };
+    
+            // Replace the menu item
+            const menuItems =
+             H.getOptions().exporting.buttons.contextButton.menuItems;
+            menuItems[menuItems.indexOf('downloadXLS')] = 'downloadXLSX';
+        }
+    }(Highcharts));
     var chart = Highcharts.chart("chart", {
         chart: {
             // width: 1000,
@@ -84,7 +144,21 @@
             }
             */
         },
-        
+        exporting: {
+            enabled: true,
+            allowHTML: true,
+            sourceWidth: 900,
+            sourceHeight: 630,
+            csv: {
+                columnHeaderFormatter: function(item, key) {
+                    if (!item || item instanceof Highcharts.Axis) {
+                        return 'Year'
+                    } else {
+                        return item.name;
+                    }
+                }
+            }
+        },
         title: {
             text: 'Lake Erie Bloom Severity Index',
             margin: 40,
