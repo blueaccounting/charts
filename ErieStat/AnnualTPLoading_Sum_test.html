@@ -173,18 +173,19 @@ Highcharts.chart("chart", {
             description: "Years from 2008 to 2024"
         },
         style: {
-            fontSize: "13px"
+            fontSize: "14px"
         }
     },
     yAxis: {
         title: {
             text: 'Total Phosphorus Load (MTA)'
         },
+        max: 12000,
         accessibility: {
             description: "Total Phosphorus Load in metric tonnes per annum (MTA)"
         },
         style: {
-            fontSize: "13px"
+            fontSize: "14px"
         }
     },
     legend: {
@@ -203,7 +204,10 @@ Highcharts.chart("chart", {
         enabled: false,
     },
     caption: {
-        text: '<b>Source: </b><em>Great Lakes Commission, Blue Accounting, 2024, <a href="https://www.blueaccounting.org/progress/lake-erie-total-phosphorus-loading">https://www.blueaccounting.org/progress/lake-erie-total-phosphorus-loading</a></em>'
+        text: '<b>Source: </b><em>Great Lakes Commission, Blue Accounting, 2024, <a href="https://www.blueaccounting.org/progress/lake-erie-total-phosphorus-loading">https://www.blueaccounting.org/progress/lake-erie-total-phosphorus-loading</a></em>',
+        style: {
+            fontSize: '13px' 
+        }
     },
 
     tooltip: {
