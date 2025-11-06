@@ -95,8 +95,14 @@ function BlueAccounting(){
             exporting: {
                 enabled: true,
                 allowHTML: true,
-                sourceWidth: this.plotWidth,
-                sourceHeight: this.plotHeight,
+                exporting: {
+                    chartOptions: {
+                        chart: {
+                            width: 1600,
+                            height: 1200
+                        },
+                    }
+                }
             },
             title: {
                 text: title,
