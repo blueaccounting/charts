@@ -93,7 +93,8 @@ function BlueAccounting(){
                 enabled: false
             },
             exporting: {
-                enabled: true
+                enabled: true,
+                allowHTML: true
             },
             title: {
                 text: title,
