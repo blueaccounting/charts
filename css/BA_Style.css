@@ -334,3 +334,10 @@ li {
     stroke: #f00;
     stroke-dasharray: 10
 }
+
+@media (prefers-color-scheme: dark) {
+  .highcharts-light {
+    --highcharts-background-color: #ffffff;
+    --highcharts-neutral-color-100: #333333;
+  }
+}
